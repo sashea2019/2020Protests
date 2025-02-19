@@ -1,0 +1,5066 @@
+"","City","VictimsCount"
+"1"," Monterey Township, MI",1
+"2"," PRESQUE ISLE, ME",1
+"3","Abbeville, AL",1
+"4","Abbeville, CO",1
+"5","Abbeville, LA",1
+"6","Abbeville, SC",1
+"7","Aberdeen, MD",1
+"8","Aberdeen, NC",1
+"9","Aberdeen, WA",1
+"10","Abilene, TX",10
+"11","Abingdon, MD",1
+"12","Abingdon, VA",1
+"13","Abita Springs, LA",1
+"14","Acworth, GA",4
+"15","Ada, OK",4
+"16","Adairsville, GA",2
+"17","Adams, OR",1
+"18","Addis, LA",2
+"19","Addison, TX",1
+"20","Adel, GA",2
+"21","Adelanto, CA",3
+"22","Adolphus, KY",1
+"23","Adrian, MO",1
+"24","Affton, MO",3
+"25","Afton, VA",1
+"26","Aguanga, CA",2
+"27","Aiea, HI",1
+"28","Aiken, SC",7
+"29","Ailey, GA",1
+"30","Aitkin, MN",1
+"31","Akron, OH",15
+"32","Alameda, CA",3
+"33","Alamo Heights, TX",1
+"34","Alamo, GA",1
+"35","Alamo, TN",2
+"36","Alamogordo, NM",4
+"37","Alamosa, CO",3
+"38","Albany, CA",1
+"39","Albany, GA",2
+"40","Albany, KY",1
+"41","Albany, NY",2
+"42","Albany, OR",2
+"43","Albany, TX",1
+"44","Albermarle, NC",1
+"45","Albert Lea, MN",1
+"46","Albertville, AL",2
+"47","Albion, MI",1
+"48","Albuquerque , NM",100
+"49","Aldie, VA",1
+"50","Alexander City, AL",1
+"51","Alexandria, LA",5
+"52","Alexandria, MN",1
+"53","Alexandria, OH",1
+"54","Alexandria, VA",6
+"55","Alford , FL",1
+"56","Algona, WA",1
+"57","Alhambra, CA",3
+"58","Alice, TX",1
+"59","Alleghany, NC",1
+"60","Allen, OK",1
+"61","Allen, TX",4
+"62","Allendale Charter Township, MI",1
+"63","Allenhurst , GA",1
+"64","Allentown, PA",8
+"65","Alliance, OH",2
+"66","Alma, KY",1
+"67","Aloha, OR",2
+"68","Alorton, IL",1
+"69","Alpharetta, GA",2
+"70","Alpine, CA",2
+"71","Alta Sierra, CA",1
+"72","Altadena, CA",3
+"73","Altamonte Springs, FL",2
+"74","Alto, GA",2
+"75","Alto, TX",1
+"76","Alton, IL",3
+"77","Alton, MO",1
+"78","Altoona, IA",2
+"79","Altoona, PA",1
+"80","Altoona, WI",1
+"81","Altus, OK",1
+"82","Alvarado, TX",2
+"83","Alvin, TX",1
+"84","Alvo, NE",1
+"85","Amarillo, TX",25
+"86","Amberg, WI",1
+"87","Amelia Court House, VA",1
+"88","Amelia Courthouse, VA",1
+"89","American Canyon, CA",1
+"90","American Fork, UT",1
+"91","Americus, GA",1
+"92","Ames, IA",1
+"93","Amherst, VA",3
+"94","Amite, LA",1
+"95","Amity, MO",1
+"96","Amity, OR",1
+"97","Ammon, ID",1
+"98","Amory, MS",1
+"99","Anadarko, OK",4
+"100","Anaheim, CA",22
+"101","Anchor Point, AK",1
+"102","Anchorage, AK",20
+"103","Anderson, CA",4
+"104","Anderson, IN",2
+"105","Anderson, SC",8
+"106","Andrews, SC",1
+"107","Andrews, TX",1
+"108","Angel Fire, NM",1
+"109","Angleton, TX",2
+"110","Angola, IN",1
+"111","Aniak, AK",1
+"112","Ankeny, IA",2
+"113","Anmoore, WV",1
+"114","Ann Arbor, MI",1
+"115","Annapolis, MD",2
+"116","Anniston, AL",2
+"117","Ansonia, CT",2
+"118","Antelope, CA",1
+"119","Anthony, TX",1
+"120","Antigo, WI",1
+"121","Antioch, CA",10
+"122","Antioch, IL",1
+"123","Antioch, TN",1
+"124","Antlers, OK",1
+"125","Apache Junction, AZ",5
+"126","Apache, AZ",1
+"127","Apex, NC",3
+"128","Apopka, FL",1
+"129","Appalachia, VA",1
+"130","Apple Creek, OH",1
+"131","Apple Valley, CA",5
+"132","Appleton, WI",6
+"133","Arab, AL",1
+"134","Aragon, GA",1
+"135","Aransas Pass, TX",3
+"136","Ararat, NC",1
+"137","Arcadia, CA",1
+"138","Arcadia, FL",1
+"139","Arcata, CA",2
+"140","Archdale, NC",2
+"141","Arcola, IL",1
+"142","Ardmore, OK",2
+"143","Ardsley, NY",1
+"144","Arietta, NY",1
+"145","Arivaca, AZ",1
+"146","Arkoma, OK",1
+"147","Arlington Heights, IL",1
+"148","Arlington, GA",1
+"149","Arlington, TN",1
+"150","Arlington, TX",21
+"151","Arlington, VA",3
+"152","Arnold, NE",1
+"153","Arpin, WI",1
+"154","Artesia, CA",1
+"155","Artesia, NM",2
+"156","Arundel, ME",1
+"157","Arvada, CO",11
+"158","Arvin, CA",2
+"159","Arvonia, VA",1
+"160","Asbury Park, NJ",3
+"161","Asbury, MO",1
+"162","Ashburn, GA",1
+"163","Asheboro, NC",1
+"164","Asheville, NC",5
+"165","Ashford, AL",1
+"166","Ashland, CA",1
+"167","Ashland, MA",1
+"168","Ashland, OR",1
+"169","Ashland, WI",2
+"170","Ashtabula, OH",3
+"171","Ashville, AL",1
+"172","Ashville, OH",1
+"173","Aspen Hill, MD",1
+"174","Assaria, KS",1
+"175","Atascadero, CA",1
+"176","Atascocita, TX",2
+"177","Atchison, KS",1
+"178","Athena, OR",1
+"179","Athens, AL",2
+"180","Athens, CA",1
+"181","Athens, GA",12
+"182","Atkins, AR",3
+"183","Atlanta, GA",51
+"184","Atlantic City, NJ",5
+"185","Atmore, AL",1
+"186","Attica, KS",1
+"187","Atwater, CA",4
+"188","Atwood, TN",1
+"189","Auburn, AL",2
+"190","Auburn, CA",4
+"191","Auburn, GA",1
+"192","Auburn, MA",1
+"193","Auburn, ME",3
+"194","Auburn, NY",2
+"195","Auburn, WA",9
+"196","Auburndale, FL",5
+"197","Augusta, GA",10
+"198","Augusta, ME",2
+"199","Augusta, WV",1
+"200","Aurora, CO",33
+"201","Aurora, IL",3
+"202","Aurora, MO",1
+"203","Austell, GA",3
+"204","Austin, AR",2
+"205","Austin, MN",2
+"206","Austin, TX",59
+"207","Austintown, OH",1
+"208","Autreyville, GA",1
+"209","Ava , MO",1
+"210","Avalon Park, FL",1
+"211","Avella, PA",1
+"212","Avenal, CA",1
+"213","Avon Park, FL",3
+"214","Avon, CO",1
+"215","Avon, IN",1
+"216","Avondale Estates, GA",1
+"217","Avondale, AZ",10
+"218","Azle, TX",4
+"219","Aztec, NM",2
+"220","Azusa, CA",7
+"221","Backus, MN",1
+"222","Bacliff, TX",1
+"223","Badin, NC",1
+"224","Bahama, NC",1
+"225","Bailey, CO",1
+"226","Bailey, NC",1
+"227","Bainbridge Island, WA",1
+"228","Bainbridge, GA",1
+"229","Baker, CA",1
+"230","Baker, LA",1
+"231","Bakersfield, CA",58
+"232","Balch Springs, TX",1
+"233","Balcones Heights, TX",1
+"234","Ballantine, MT",1
+"235","Ballard, UT",1
+"236","Ballston Spa, NY",1
+"237","Baltimore, MD",51
+"238","Bandera, TX",1
+"239","Bandon, OR",1
+"240","Bangor Charter Township, MI",1
+"241","Bangor, ME",1
+"242","Bangor, PA",1
+"243","Banning, CA",4
+"244","Barberton, OH",2
+"245","Barberville, FL",1
+"246","Barbourville, KY",2
+"247","Bardstown, KY",1
+"248","Bardwell, KY",1
+"249","Barnesville, GA",1
+"250","Barre, VT",1
+"251","Barrow, AK",1
+"252","Barstow, CA",9
+"253","Bartlesville, OK",4
+"254","Bartlett, TN",1
+"255","Bartow, FL",1
+"256","Bascom, FL",1
+"257","Basin, WY",2
+"258","Bass River, NJ",1
+"259","Bassett, VA",1
+"260","Bastrop, LA",3
+"261","Bastrop, TX",2
+"262","Batavia Township, IL",1
+"263","Batesville, AR",1
+"264","Batesville, IN",1
+"265","Bath, MI",1
+"266","Bath, NH",1
+"267","Baton Rouge, LA",22
+"268","Battle Creek, MI",6
+"269","Battle Ground, WA",1
+"270","Baxter Springs, KS",1
+"271","Baxter, KY",1
+"272","Bay City, MI",1
+"273","Bay City, TX",1
+"274","Bay Minette, AL",2
+"275","Bay Shore, NY",2
+"276","Bay St. Louis, MS",2
+"277","Bayard, NE",1
+"278","Bayonet Point, FL",1
+"279","Bayonne, NJ",1
+"280","Baytown, TX",6
+"281","Beach Park, IL",1
+"282","Beacon, NY",1
+"283","Bear Valley Springs, CA",1
+"284","Bear, DE",1
+"285","Beatrice, NE",1
+"286","Beatty, OR",1
+"287","Beaufort, NC",1
+"288","Beaumont, CA",5
+"289","Beaumont, MS",1
+"290","Beaumont, TX",11
+"291","Beaver Creek, MI",1
+"292","Beaver Dam, WI",1
+"293","Beaver Township, MI",1
+"294","Beaver, WA",1
+"295","Beavercreek, OH",1
+"296","Beaverton, MI",1
+"297","Beaverton, OR",5
+"298","Beckley, WV",4
+"299","Beckville, TX",1
+"300","Bedford, IN",1
+"301","Bedford, OH",1
+"302","Bedford, PA",1
+"303","Bedford, TX",2
+"304","Bedford, VA",2
+"305","Beech Grove, IN",2
+"306","Beech Island, SC",1
+"307","Beeville, TX",3
+"308","Bel Air, MD",3
+"309","Bel Aire, KS",1
+"310","Belcourt, ND",3
+"311","Belding, MI",1
+"312","Belen, NM",1
+"313","Belfast, ME",2
+"314","Belgrade, ME",1
+"315","Bell Gardens, CA",2
+"316","Bell, CA",1
+"317","Bell, FL",1
+"318","Bellaire, TX",1
+"319","Belle Glade, FL",1
+"320","Belle Isle, FL",1
+"321","Belle Plaine, MN",1
+"322","Bellefontaine Neighbors, MO",1
+"323","Bellefontaine, OH",1
+"324","Belleville, IL",3
+"325","Belleville, MI",1
+"326","Belleville, NJ",1
+"327","Bellevue, NE",3
+"328","Bellevue, WA",2
+"329","Bellflower, CA",4
+"330","Bellingham, WA",1
+"331","Bellville, TX",1
+"332","Belmont, NH",1
+"333","Beloit, WI",5
+"334","Belton, MO",2
+"335","Belton, TX",1
+"336","Bemidji, MN",1
+"337","Benbrook, TX",1
+"338","Bend, OR",5
+"339","Benjamin, TX",1
+"340","Bennington Township, MI",1
+"341","Bensalem, PA",1
+"342","Benson, NC",1
+"343","Bent, NM",1
+"344","Benton City, WA",1
+"345","Benton Harbor, MI",4
+"346","Benton, AR",5
+"347","Benton, IL",1
+"348","Benton, KY",1
+"349","Bentonville, AR",3
+"350","Berea, KY",1
+"351","Bergen, NJ",1
+"352","Berkeley, CA",2
+"353","Berkeley, MO",1
+"354","Berlin, NJ",1
+"355","Berlin, NY",1
+"356","Bernalillo, NM",3
+"357","Berne, NY",1
+"358","Bernice, LA",1
+"359","Bertsch–Oceanview, CA",1
+"360","Berwick , LA",1
+"361","Berwyn, IL",1
+"362","Bessemer City, NC",2
+"363","Bessemer, AL",1
+"364","Bethany, OK",1
+"365","Bethel Springs, TN",1
+"366","Bethel Township, OH",1
+"367","Bethlehem, GA",1
+"368","Bettendorf, IA",2
+"369","Bever Dam, AZ",1
+"370","Beverly Hills, FL",1
+"371","Beverly, MA",1
+"372","Beverly, OH",2
+"373","Big Bear, CA",1
+"374","Big Lake, AK",1
+"375","Big Spring, TX",2
+"376","Big Springs, NE",1
+"377","Big Stone Gap, VA",1
+"378","Big Sur, CA",2
+"379","Bigfork, MT",1
+"380","Biggs Junction, OR",1
+"381","Billings, MT",20
+"382","Biloxi, MS",10
+"383","Binghamton, NY",1
+"384","Birch River, WV",1
+"385","Birchwood, TN",1
+"386","Birmingham, AL",24
+"387","Bisbee, AZ",1
+"388","Bishopville, SC",1
+"389","Bismarck, MO",2
+"390","Bismarck, ND",4
+"391","Bivins, TX",1
+"392","Bixby, OK",2
+"393","Black Canyon City, AZ",1
+"394","Black River Falls, WI",1
+"395","Blackfoot, ID",4
+"396","Blacksburg, SC",1
+"397","Blacksburg, VA",1
+"398","Blackwell, OK",1
+"399","Bladensburg, MD",1
+"400","Blair, NE",1
+"401","Blairsville, GA",1
+"402","Blanchard, MI",1
+"403","Bleecker, AL",2
+"404","Blendon Township, OH",1
+"405","Bloomburg, TX",1
+"406","Bloomfield Hills, MI",1
+"407","Bloomfield, CA",1
+"408","Bloomfield, NJ",1
+"409","Bloomfield, NM",2
+"410","Bloomingdale, GA",1
+"411","Bloomingdale, NJ",1
+"412","Bloomington, CA",2
+"413","Bloomington, IL",1
+"414","Bloomington, IN",1
+"415","Bloomington, MN",1
+"416","Bloomsburg, PA",1
+"417","Blossom, TX",1
+"418","Blountsville, AL",2
+"419","Blountville, TN",1
+"420","Blue Hill, ME",1
+"421","Blue Island, IL",1
+"422","Blue Mountain, MS",1
+"423","Blue Ridge, VA",1
+"424","Blue Springs, MO",4
+"425","Bluefield, WV",2
+"426","Bluff City, TN",3
+"427","Bluffdale, UT",2
+"428","Bluffton, SC",2
+"429","Blytheville, AR",2
+"430","Boardman, OH",1
+"431","Boaz, AL",2
+"432","Boca Raton, FL",4
+"433","Boerne, TX",6
+"434","Bogalusa, LA",2
+"435","Boiling Spring Lakes, NC",1
+"436","Boiling Springs, SC",2
+"437","Bois D'Arc, MO",1
+"438","Boise, ID",20
+"439","Bolingbrook, IL",2
+"440","Bolivar, TN",1
+"441","Bolt, WV",1
+"442","Bolton, CT",1
+"443","Bolton, VT",1
+"444","Bon Aqua, TN",1
+"445","Bonaire, GA",1
+"446","Bonham, TX",2
+"447","Bonifay, FL",1
+"448","Bonita Springs, FL",1
+"449","Bonne Terre, MO",2
+"450","Bonnieville, KY",1
+"451","Bonnyman, KY",1
+"452","Boone, IA",2
+"453","Boone, NC",1
+"454","Booneville, KY",1
+"455","Boons Camp, KY",1
+"456","Boonville, IN",1
+"457","Borger, TX",1
+"458","Boring, OR",1
+"459","Boron, CA",2
+"460","Bossier City, LA",7
+"461","Boston, MA",12
+"462","Boston, VA",1
+"463","Bothell, WA",1
+"464","Boulder City, NV",4
+"465","Boulder Creek, CA",1
+"466","Boulder, CO",8
+"467","Bountiful, UT",1
+"468","Bourbon, MO",1
+"469","Bowling Green, KY",2
+"470","Bowlus, MN",1
+"471","Box Elder, SD",1
+"472","Boyceville, WI",1
+"473","Boyne Falls, MI",1
+"474","Boynton Beach, FL",4
+"475","Bozeman, MT",3
+"476","Brackettville, TX",1
+"477","Braddock Hills, PA",1
+"478","Bradenton, FL",12
+"479","Braeburn, TX",1
+"480","Braham, MN",1
+"481","Braintree, MA",3
+"482","Brandon, CO",1
+"483","Brandon, FL",3
+"484","Brandon, MS",3
+"485","Brandywine, WV",1
+"486","Branford, CT",1
+"487","Branson, MO",1
+"488","Brattleboro, VT",2
+"489","Brawley, CA",2
+"490","Braxton, MS",2
+"491","Brazoria, TX",1
+"492","Brea, CA",2
+"493","Breaux Bridge, LA",1
+"494","Bremen , GA",1
+"495","Bremen , IN",1
+"496","Bremerton, WA",3
+"497","Brentwood, CA",1
+"498","Brentwood, NY",1
+"499","Brentwood, PA",1
+"500","Brewer, ME",1
+"501","Brewton, AL",1
+"502","Brick, NJ",3
+"503","Bridgeport Township, MI",1
+"504","Bridgeport, CT",3
+"505","Bridgeport, TX",1
+"506","Bridgeton, NJ",2
+"507","Bridgeville, DE",1
+"508","Bridgewater, VA",1
+"509","Brighton, CO",1
+"510","Brighton, IL",1
+"511","Brighton, MI",2
+"512","Brinnon, WA",1
+"513","Brinson, GA",1
+"514","Bristol, CT",1
+"515","Bristol, TN",7
+"516","Bristol, VA",4
+"517","Broad Creek, NC",1
+"518","Brockton, MA",3
+"519","Brodhead, KY",1
+"520","Broken Arrow, OK",3
+"521","Broken Bow, OK",2
+"522","Bronx, NY",24
+"523","Brookfield Township, OH",1
+"524","Brookhaven, GA",1
+"525","Brookhaven, MS",2
+"526","Brookings, OR",1
+"527","Brooklet, GA",1
+"528","Brooklyn Center, MN",4
+"529","Brooklyn, NY",30
+"530","Brookport, IL",1
+"531","Brookshire, TX",2
+"532","Brooksville, FL",6
+"533","Brookville, IN",1
+"534","Brookville, OH",1
+"535","Broomfield, CO",4
+"536","Broussard, LA",1
+"537","Brown City, MI",1
+"538","Browning, MT",3
+"539","Brownstown, IN",1
+"540","Brownsville, TN",1
+"541","Brownsville, TX",8
+"542","Brunswick, GA",2
+"543","Brunswick, OH",1
+"544","Brush Prairie, WA",1
+"545","Brush Valley, PA",1
+"546","Bryant, AR",3
+"547","Bryceville, FL",1
+"548","Buchanan, VA",1
+"549","Buckeye, AZ",10
+"550","Buckhannon, WV",1
+"551","Buckley, WA",2
+"552","Buckner, IL",1
+"553","Buda, TX",1
+"554","Buena Park, CA",2
+"555","Buena Vista, NJ",1
+"556","Buffalo Grove, IL",2
+"557","Buffalo, MO",1
+"558","Buffalo, NY",7
+"559","Buffalo, OK",1
+"560","Buffalo, WV",1
+"561","Buford, GA",4
+"562","Buhl, ID",1
+"563","Bull Shoals, AR",1
+"564","Bullhead City, AZ",1
+"565","Bunch, OK",1
+"566","Bunker Hill, WV",1
+"567","Bunnell, FL",1
+"568","Burbank, CA",5
+"569","Burien, WA",4
+"570","Burkesville, KY",3
+"571","Burlington, IA",3
+"572","Burlington, MA",1
+"573","Burlington, NC",2
+"574","Burlington, VT",4
+"575","Burnet, TX",1
+"576","Burns Flat, OK",1
+"577","Burns, TN",1
+"578","Burnside, MS",1
+"579","Burnsville, MN",3
+"580","Burnsville, NC",1
+"581","Burton, MI",1
+"582","Burtonsville, MD",1
+"583","Butler Township, OH",1
+"584","Butler, GA",1
+"585","Butler, OK",1
+"586","Butler, PA",3
+"587","Butte, MT",1
+"588","Byars, OK",1
+"589","Bybee, TN",1
+"590","Byesville, OH",1
+"591","Byfield, MA",1
+"592","Byhalia, MS",1
+"593","Byng, OK",1
+"594","Bynum, TX",1
+"595","Byram Township, NJ",1
+"596","Byron, CA",1
+"597","Byron, GA",2
+"598","Cabazon, CA",3
+"599","Cabin Creek, WV",1
+"600","Cabot, AR",2
+"601","Cache, OK",2
+"602","Cadillac, MI",1
+"603","Cadiz, KY",1
+"604","Cahokia, IL",1
+"605","Cairo, GA",1
+"606","Calabasas, CA",2
+"607","Calais, ME",1
+"608","Calcutta, OH",2
+"609","Caldwell, ID",4
+"610","Caldwell, TX",1
+"611","Caledonia, MI",1
+"612","Caledonia, WI",1
+"613","Calexico, CA",3
+"614","Calhoun, GA",6
+"615","Caliente, NV",1
+"616","Calimesa, CA",2
+"617","Callahan, FL",2
+"618","Calumet City, IL",3
+"619","Calverton, MD",1
+"620","Calypso, NC",1
+"621","Camarillo, CA",2
+"622","Cambridge, MA",1
+"623","Camden, NJ",3
+"624","Camden, SC",1
+"625","Cameron, MO",1
+"626","Cameron, NY",1
+"627","Cameron, TX",1
+"628","Cameron, WI",1
+"629","Camp Wood, TX",1
+"630","Campbell, CA",1
+"631","Campbellsville, KY",2
+"632","Campo, CA",2
+"633","Campobello, SC",1
+"634","Canaan Township, PA",1
+"635","Canaan, NH",1
+"636","Canandaigua, NY",2
+"637","Caneyville, KY",1
+"638","Canoga Park, CA",1
+"639","Canon City, CO",2
+"640","Canterbury, CT",1
+"641","Canton, GA",5
+"642","Canton, MA",1
+"643","Canton, MS",4
+"644","Canton, NC",1
+"645","Canton, OH",6
+"646","Cantonment, FL",3
+"647","Canute, OK",1
+"648","Canutillo, TX",2
+"649","Canyon Village, WY",1
+"650","Cape Canaveral, FL",1
+"651","Cape Coral, FL",6
+"652","Cape Girardeau, MO",1
+"653","Capitan, NM",1
+"654","Capitol Heights, MD",1
+"655","Carbondale, IL",1
+"656","Carbondale, PA",1
+"657","Carencro, LA",2
+"658","Carlisle, PA",1
+"659","Carlsbad, NM",8
+"660","Carmel, CA",1
+"661","Carmel, IN",2
+"662","Carmichael, CA",6
+"663","Carnesville, GA",1
+"664","Carol Stream, IL",1
+"665","Carollwood, FL",1
+"666","Carriere, MS",1
+"667","Carrizozo, NM",1
+"668","Carrollton, GA",3
+"669","Carrollton, OH",2
+"670","Carrollton, TX",3
+"671","Carrollton, VA",1
+"672","Carson City, CO",1
+"673","Carson City, NV",6
+"674","Carson, CA",5
+"675","Cartersville, GA",3
+"676","Carterville, IL",1
+"677","Carthage, IL",1
+"678","Carthage, MO",1
+"679","Carthage, TN",2
+"680","Cartwright, OK",1
+"681","Caruthers, CA",1
+"682","Cary, NC",1
+"683","Caryville, TN",1
+"684","Casa Grande, AZ",6
+"685","Casas Adobes, AZ",1
+"686","Cascade, ID",1
+"687","Cascade, MT",1
+"688","Cascadia, OR",1
+"689","Casper, WY",11
+"690","Casselberry, FL",1
+"691","Cassville, MO",1
+"692","Castaic, CA",3
+"693","Castle Pines, CO",1
+"694","Castle Rock, CO",1
+"695","Castro Valley, CA",4
+"696","Catalina, AZ",1
+"697","Catasauqua, PA",1
+"698","Cathedral City, CA",3
+"699","Catonsville, MD",2
+"700","Catskill, NY",1
+"701","Cave City, KY",1
+"702","Cave Creek, AZ",1
+"703","Cave Junction, OR",1
+"704","Cave Spring, VA",1
+"705","Cayce, SC",1
+"706","Cedar City, UT",1
+"707","Cedar Hill, MO",2
+"708","Cedar Hill, TX",1
+"709","Cedar Rapids, IA",6
+"710","Cedartown, GA",3
+"711","Celina, OH",4
+"712","Celina, TX",1
+"713","Centennial, CO",6
+"714","Center Township, PA",2
+"715","Center, TX",2
+"716","Centerview, MO",1
+"717","Centerville, GA",1
+"718","Centerville, IA",1
+"719","Centerville, TX",1
+"720","Centerville, UT",1
+"721","Central City, KY",1
+"722","Central Pennington, SD",2
+"723","Central Point, OR",1
+"724","Centralia, IL",1
+"725","Centralia, WA",4
+"726","Century, FL",1
+"727","Ceredo, WV",1
+"728","Ceres, CA",3
+"729","Cerritos, CA",3
+"730","Chadron, NE",1
+"731","Chalmette, LA",1
+"732","Chambersburg, PA",1
+"733","Chamblee, GA",6
+"734","Champaign, IL",1
+"735","Champion, MI",1
+"736","Chandler, AZ",13
+"737","Channelview, TX",3
+"738","Chanute, KS",1
+"739","Chaparral, NM",2
+"740","Chapin, SC",1
+"741","Chapmanville, WV",1
+"742","Charleston View, CA",1
+"743","Charleston, SC",10
+"744","Charleston, TN",2
+"745","Charleston, WV",8
+"746","Charlotte, NC",39
+"747","Charlottesville, VA",3
+"748","Chase City, VA",1
+"749","Chatsworth, CA",1
+"750","Chattanooga, TN",18
+"751","Chavies, KY",1
+"752","Checotah, OK",1
+"753","Cheektowaga, NY",1
+"754","Chefornak, AK",1
+"755","Chehalis, WA",1
+"756","Chelsea, AL",1
+"757","Chelsea, IA",1
+"758","Chelsea, MA",2
+"759","Chelsea, ME",1
+"760","Chelsea, OK",1
+"761","Cheney, WA",1
+"762","Cherokee, AL",1
+"763","Cherokee, NC",1
+"764","Cherryville, NC",1
+"765","Chesaning, MI",1
+"766","Chesapeake, VA",4
+"767","Chester Township, OH",1
+"768","Chester, ME",1
+"769","Chester, PA",6
+"770","Chester, SC",2
+"771","Chester, VA",1
+"772","Chesterfield, MO",1
+"773","Chesterfield, SC",2
+"774","Chesterfield, VA",1
+"775","Chestertown, MD",1
+"776","Chestnut Hill, MA",1
+"777","Chetopa, KS",1
+"778","Cheyenne, WY",5
+"779","Chicago Heights, IL",1
+"780","Chicago, IL",106
+"781","Chickamauga, GA",1
+"782","Chickasha, OK",4
+"783","Chico, CA",5
+"784","Chiefland, FL",1
+"785","Childress, TX",2
+"786","Chillicothe, IL",1
+"787","Chillicothe, MO",1
+"788","Chillicothe, OH",2
+"789","Chillicothe, TX",1
+"790","Chiloquin, OR",1
+"791","Chinle, AZ",1
+"792","Chino Hills, CA",3
+"793","Chino Valley, AZ",1
+"794","Chino, CA",5
+"795","Chipley, FL",2
+"796","Chippewa Falls, WI",1
+"797","Chisholm, MN",1
+"798","Chocowinity, NC",1
+"799","Choctaw, MS",1
+"800","Choctaw, OK",1
+"801","Chowchilla, CA",1
+"802","Christianburg, VA",1
+"803","Christiansburg, VA",5
+"804","Chubbuck, ID",1
+"805","Chuckey, TN",1
+"806","Chula Vista, CA",11
+"807","Chunchula, AL",1
+"808","Church Hill, TN",2
+"809","Cincinnati, OH",16
+"810","Cinco Ranch, TX",2
+"811","Circleville, OH",1
+"812","Cisco, TX",1
+"813","Citra, FL",1
+"814","Citronelle, AL",2
+"815","Citrus Heights, CA",10
+"816","City of Orange, NJ",1
+"817","Clanton, AL",2
+"818","Claremont, CA",1
+"819","Claremont, NH",2
+"820","Claremore, OK",3
+"821","Clarendon, NY",1
+"822","Clarendon, PA",1
+"823","Clarendon, TX",2
+"824","Clark Lake, MI",1
+"825","Clarkdale, AZ",1
+"826","Clarkesville, GA",2
+"827","Clarkesville, TX",1
+"828","Clarklake, MI",1
+"829","Clarkrange, TN",1
+"830","Clarksburg, WV",1
+"831","Clarksdale, MS",2
+"832","Clarksville, AR",1
+"833","Clarksville, IN",2
+"834","Clarksville, TN",7
+"835","Clarkton, MO",1
+"836","Claude, TX",1
+"837","Clawson, MI",1
+"838","Claxton, GA",1
+"839","Clay City, KY",1
+"840","Clay, AL",1
+"841","Clay, NY",1
+"842","Claymont, DE",2
+"843","Clayton, GA",2
+"844","Clayton, MO",1
+"845","Clayton, NC",2
+"846","Clayton, OK",1
+"847","Cle Elum, WA",1
+"848","Clear Lakes Shores, TX",1
+"849","Clearcreek, OH",1
+"850","Clearfield, PA",1
+"851","Clearfield, UT",1
+"852","Clearlake Oaks, CA",1
+"853","Clearlake, CA",1
+"854","Clearwater, FL",8
+"855","Clemmons, NC",2
+"856","Clemson, SC",1
+"857","Clendenin, WV",1
+"858","Clermont, FL",5
+"859","Cleveland Heights, OH",1
+"860","Cleveland, MS",1
+"861","Cleveland, OH",25
+"862","Cleveland, TN",6
+"863","Cleveland, TX",2
+"864","Clifton Forge, VA",1
+"865","Clifton Park, NY",1
+"866","Clifton, NJ",1
+"867","Clifton, TX",1
+"868","Clines Corners, NM",1
+"869","Clinton, AR",1
+"870","Clinton, IA",1
+"871","Clinton, IL",1
+"872","Clinton, LA",1
+"873","Clinton, MD",1
+"874","Clinton, MO",1
+"875","Clinton, MS",2
+"876","Clinton, MT",2
+"877","Clinton, NC",2
+"878","Clinton, OK",1
+"879","Clinton, TN",3
+"880","Clinton, UT",3
+"881","Clintonville, OH",2
+"882","Clio, MI",1
+"883","Cloverdale, CA",1
+"884","Clovis, CA",3
+"885","Clovis, NM",1
+"886","Clute, TX",1
+"887","Clyde, NC",1
+"888","Coachella, CA",3
+"889","Coal City, WV",4
+"890","Coalinga, CA",1
+"891","Coarsegold, CA",1
+"892","Cochran, GA",1
+"893","Cockeysville, MD",2
+"894","Cocoa Beach, FL",1
+"895","Cocoa, FL",8
+"896","Coconut Creek, FL",2
+"897","Coden, AL",1
+"898","Coeburn, VA",2
+"899","Coeur d'Alene, ID",5
+"900","Coffeeville, MS",1
+"901","Coffeyville, KS",1
+"902","Cofield, NC",1
+"903","Cohasset, MA",1
+"904","Cohasset, MN",1
+"905","Colbert, OK",1
+"906","Colby, KS",1
+"907","Colchester, CT",1
+"908","Coldwater, AR",1
+"909","Coldwater, MI",1
+"910","Coleman, TX",1
+"911","Colfax, CA",1
+"912","College Park, GA",7
+"913","College Station, TX",4
+"914","Colleyville, TX",1
+"915","Collierville, TN",2
+"916","Collinsville, IL",1
+"917","Collinsville, MS",1
+"918","Coloma, MI",1
+"919","Colorado City, CO",3
+"920","Colorado Springs, CO",38
+"921","Colton, CA",4
+"922","Colton, OR",1
+"923","Columbia Heights, MN",1
+"924","Columbia Township, MI",1
+"925","Columbia, MD",1
+"926","Columbia, MO",10
+"927","Columbia, MS",1
+"928","Columbia, NJ",1
+"929","Columbia, SC",10
+"930","Columbia, TN",1
+"931","Columbiana, AL",1
+"932","Columbus, AR",1
+"933","Columbus, GA",12
+"934","Columbus, IN",1
+"935","Columbus, MS",4
+"936","Columbus, NE",1
+"937","Columbus, OH",63
+"938","Colville, WA",1
+"939","Commerce City, CO",6
+"940","Commerce, CA",1
+"941","Commerce, GA",2
+"942","Como, TX",1
+"943","Compton, CA",12
+"944","Concord Mills, NC",2
+"945","Concord, CA",4
+"946","Concord, NC",3
+"947","Concord, NH",1
+"948","Concord, TN",1
+"949","Concord, VA",1
+"950","Conifer, CO",1
+"951","Connellsville, PA",1
+"952","Conover, NC",1
+"953","Conroe, TX",7
+"954","Conshohocken , PA",2
+"955","Constantania, NY",1
+"956","Converse, LA",1
+"957","Converse, TX",3
+"958","Convoy, OH",1
+"959","Conway, AR",4
+"960","Conyers, GA",4
+"961","Cookson, OK",1
+"962","Coolbaugh Township, PA",2
+"963","Coolin, ID",1
+"964","Coon Rapids, MN",1
+"965","Coos Bay, OR",2
+"966","Copper Center, AK",1
+"967","Copperas Cove, TX",1
+"968","Copperhill, TN",1
+"969","Coral Gables, FL",2
+"970","Coral Springs, FL",1
+"971","Coralville, IA",1
+"972","Coram, NY",1
+"973","Corbin, KY",1
+"974","Cordova, AL",1
+"975","Cordova, CA",1
+"976","Cordova, TN",1
+"977","Corfu, NY",1
+"978","Corinth, MS",2
+"979","Corkscrew, FL",1
+"980","Corning, CA",1
+"981","Cornwall, NY",1
+"982","Corona, CA",6
+"983","Corpus Christi, TX",27
+"984","Cortez, CO",1
+"985","Corvallis, OR",1
+"986","Corydon, IN",1
+"987","Cosby, TN",1
+"988","Coshocton, OH",2
+"989","Costa Mesa, CA",2
+"990","Cottage Grove, OR",2
+"991","Cottondale, FL",1
+"992","Cottonwood Heights, UT",2
+"993","Cottonwood, AL",1
+"994","Cottonwood, AZ",4
+"995","Cottonwood, CA",2
+"996","Counce, TN",1
+"997","Council Bluffs, IA",2
+"998","Council, ID",1
+"999","Coushatta, LA",3
+"1000","Cove, TX",1
+"1001","Coventry, VT",1
+"1002","Covina, CA",3
+"1003","Covington, GA",6
+"1004","Covington, KY",4
+"1005","Covington, LA",2
+"1006","Covington, OK",1
+"1007","Covington, TN",3
+"1008","Covington, VA",1
+"1009","Cowley County, KS",1
+"1010","Craig, CO",3
+"1011","Craig, MO",1
+"1012","Craigsville, WV",1
+"1013","Cranberry, PA",1
+"1014","Cranbury, NJ",1
+"1015","Crandon, WI",2
+"1016","Crawfordsville, IN",1
+"1017","Crescent City, CA",2
+"1018","Crescent City, FL",1
+"1019","Crescent, WI",1
+"1020","Crest Hill, IL",1
+"1021","Crested Butte, CO",1
+"1022","Crestline, CA",1
+"1023","Creston, IA",1
+"1024","Crestone, CO",1
+"1025","Crestview, FL",3
+"1026","Crestwood, KY",1
+"1027","Crittenden, KY",1
+"1028","Crofton, MD",1
+"1029","Crookston, MN",2
+"1030","Cropwell, AL",1
+"1031","Cross Lanes, WV",2
+"1032","Crossville, TN",3
+"1033","Crowell, TX",1
+"1034","Crowley, LA",5
+"1035","Crown Point, IN",1
+"1036","Crumpler, NC",1
+"1037","Crystal Springs, MS",1
+"1038","Crystal, MN",1
+"1039","Cuba, MO",1
+"1040","Cudahy, CA",1
+"1041","Cuero, TX",1
+"1042","Cullman, AL",1
+"1043","Culloden, GA",1
+"1044","Culpeper, VA",5
+"1045","Culver , IN",1
+"1046","Culver City, CA",5
+"1047","Cumberland Furnace, TN",1
+"1048","Cumberland, GA",1
+"1049","Cumming, GA",7
+"1050","Currie, NC",1
+"1051","Cushing, OK",2
+"1052","Cushing, TX",1
+"1053","Cut Bank, MT",2
+"1054","Cut Off, LA",1
+"1055","Cuthbert, GA",1
+"1056","Cypress, TX",3
+"1057","Cyrus, MN",1
+"1058","Dade City, FL",1
+"1059","Dadeville, AL",1
+"1060","Dahlonega, GA",1
+"1061","Dakota City, IA",1
+"1062","Dale, IN",1
+"1063","Dalhart, TX",2
+"1064","Dallas, GA",2
+"1065","Dallas, NC",1
+"1066","Dallas, OR",1
+"1067","Dallas, TX",66
+"1068","Dalton, GA",3
+"1069","Dalton, NH",1
+"1070","Daly City, CA",3
+"1071","Dalzell, SC",1
+"1072","Damascus, VA",1
+"1073","Danbury, CT",1
+"1074","Dandridge, TN",1
+"1075","Dania Beach, FL",1
+"1076","Danvers, MA",1
+"1077","Danville, CA",2
+"1078","Danville, IL",3
+"1079","Danville, KY",1
+"1080","Danville, VA",2
+"1081","Daphne, AL",2
+"1082","Darien, GA",2
+"1083","Darlington, SC",2
+"1084","Dartmouth, MA",1
+"1085","Davella, KY",1
+"1086","Davenport, FL",1
+"1087","Davenport, IA",7
+"1088","Davidsonville, MD",1
+"1089","Davie, FL",2
+"1090","Davis, CA",1
+"1091","Davis, OK",1
+"1092","Davisboro, GA",1
+"1093","Davisville, WV",1
+"1094","Dayton, IA",1
+"1095","Dayton, OH",19
+"1096","Dayton, TN",1
+"1097","Daytona Beach, FL",6
+"1098","De Leon, TX",1
+"1099","De Soto, MO",2
+"1100","Dearborn Heights, MI",2
+"1101","Dearborn, MI",5
+"1102","Deatsville, AL",1
+"1103","Decatur, AL",1
+"1104","Decatur, AR",1
+"1105","Decatur, GA",17
+"1106","Decatur, IL",2
+"1107","Decatur, TX",1
+"1108","Decaturville, TN",1
+"1109","Dedham, MA",1
+"1110","Deepstep, GA",1
+"1111","Deer Lodge, MT",1
+"1112","Deer Park, AL",1
+"1113","Deer Park, TX",2
+"1114","Deer Park, WA",2
+"1115","Deerfield, IL",1
+"1116","Defiance, OH",1
+"1117","DeKalb, IL",3
+"1118","DeKalb, TX",1
+"1119","Del City, OK",2
+"1120","Del Mar, CA",1
+"1121","Del Rio, TX",2
+"1122","Del Valle, TX",1
+"1123","Delancey, NY",1
+"1124","DeLand, FL",5
+"1125","Delano, CA",5
+"1126","Delaware, OK",1
+"1127","Delhi, CA",1
+"1128","Delhi, LA",1
+"1129","Delray Beach, FL",5
+"1130","Delta Junction, AK",1
+"1131","Delton, MI",1
+"1132","Deltona, FL",7
+"1133","Deming, NM",6
+"1134","Deming, WA",1
+"1135","Demopolis, AL",1
+"1136","DeMotte, IN",1
+"1137","Denair, CA",1
+"1138","Denham Springs, LA",6
+"1139","Denison, TX",1
+"1140","Denton, NC",1
+"1141","Denton, TX",7
+"1142","Denver, CO",68
+"1143","Deposit, NY",1
+"1144","Deptford, NJ",3
+"1145","DeRidder, LA",3
+"1146","Derry, NH",2
+"1147","Des Moines, IA",13
+"1148","Des Moines, WA",1
+"1149","Des Plaines, IL",1
+"1150","Desert Hot Springs, CA",3
+"1151","Desha, AR",1
+"1152","DeSoto, TX",4
+"1153","Destin, FL",1
+"1154","Detroit, MI",46
+"1155","DeValls Bluff, AR",1
+"1156","Devils Lake, ND",1
+"1157","Dewey Beach, DE",1
+"1158","Dewey, AZ",2
+"1159","DeWitt, NY",2
+"1160","Dexter, NM",1
+"1161","Diamond Bar, CA",1
+"1162","Dickinson, ND",4
+"1163","Dickson, TN",2
+"1164","Diggins, MO",1
+"1165","Dilley, TX",1
+"1166","Dillon, MT",2
+"1167","Dime Box, TX",1
+"1168","Dingess, WV",2
+"1169","Dinuba, CA",3
+"1170","Dinwiddie, VA",1
+"1171","Discovery Bay, CA",1
+"1172","District Heights, MD",2
+"1173","Dixon, CA",1
+"1174","Dodge City, KS",1
+"1175","Dodson, LA",1
+"1176","Dolgeville, NY",1
+"1177","Dolton, IL",5
+"1178","Donna, TX",4
+"1179","Dora, AL",1
+"1180","Doral, FL",3
+"1181","Dorchester, MA",3
+"1182","Dorton, KY",1
+"1183","Dos Palos, CA",2
+"1184","Dothan, AL",4
+"1185","Dotsero, CO",1
+"1186","Douglas City, CA",1
+"1187","Douglas, AZ",2
+"1188","Douglas, GA",1
+"1189","Douglas, WY",2
+"1190","Douglasville, GA",4
+"1191","Dover, AR",1
+"1192","Dover, DE",3
+"1193","Dover, FL",1
+"1194","Dover, NC",1
+"1195","Dover, OH",1
+"1196","Dover, PA",1
+"1197","Dowelltown, TN",1
+"1198","Dowling, MI",1
+"1199","Downey, CA",2
+"1200","Doylestown, PA",1
+"1201","Doyline, LA",1
+"1202","Draper, UT",1
+"1203","Drennen, WV",1
+"1204","Drexel Hill, PA",1
+"1205","Driftwood, TX",1
+"1206","Dripping Springs, TX",1
+"1207","Drummonds, TN",1
+"1208","Duarte, CA",1
+"1209","Dublin, CA",4
+"1210","Dublin, GA",1
+"1211","Dublin, NC",1
+"1212","Dublin, OH",1
+"1213","Ducor, CA",1
+"1214","Duluth, GA",1
+"1215","Duluth, MN",3
+"1216","Dumas, TX",1
+"1217","Dumfries, VA",2
+"1218","Dunbar, WV",1
+"1219","Duncan, OK",1
+"1220","Duncan, SC",1
+"1221","Duncannon, PA",1
+"1222","Duncanville, TX",3
+"1223","Dundalk, MD",1
+"1224","Dunedin, FL",1
+"1225","Dunelion, FL",1
+"1226","Dunkirk, IN",1
+"1227","Dunlap, TN",1
+"1228","Dunnellon, FL",1
+"1229","Dunnigan, CA",1
+"1230","Dunsmuir, CA",1
+"1231","Dunwoody, GA",1
+"1232","Durand, MI",1
+"1233","Durango, CO",2
+"1234","Durham, CA",1
+"1235","Durham, NC",11
+"1236","Dyer, IN",1
+"1237","Dyersburg, TN",3
+"1238","Eagan, MN",2
+"1239","Eagar, AZ",3
+"1240","Eagle Lake, FL",1
+"1241","Eagle Mountain, UT",1
+"1242","Eagle Pass, TX",1
+"1243","Eagle Point, OR",2
+"1244","Eagle River, AK",1
+"1245","Eagle, WI",1
+"1246","Eagletown, OK",1
+"1247","Earlimart, CA",1
+"1248","Easley, SC",5
+"1249","East Bernstadt, KY",1
+"1250","East Bloomfield, NY",1
+"1251","East Bridgewater, MA",1
+"1252","East Cape Girardeau, IL",1
+"1253","East Cleveland, OH",1
+"1254","East Flat Rock, NC",1
+"1255","East Grand Forks, MN",1
+"1256","East Greenville, PA",1
+"1257","East Hartford, CT",2
+"1258","East Hazel Crest, IL",1
+"1259","East Helena, MT",1
+"1260","East Knoxville, TN",1
+"1261","East Leavenworth, MO",1
+"1262","East Los Angeles, CA",9
+"1263","East Moline, IL",1
+"1264","East Nashville, TN",1
+"1265","East Northport, NY",2
+"1266","East Orange, NJ",2
+"1267","East Peoria, IL",2
+"1268","East Pittsburgh, PA",1
+"1269","East Point, GA",5
+"1270","East Ridge, TN",1
+"1271","East St Louis, IL",1
+"1272","East Stroudsburg, PA",1
+"1273","East Troy, WI",1
+"1274","East Wenatchee, WA",2
+"1275","Eastaboga, AL",1
+"1276","Eastman, GA",1
+"1277","Easton, MA",1
+"1278","Easton, PA",2
+"1279","Eastpointe, MI",1
+"1280","Eaton Rapids Township, MI",1
+"1281","Eaton Rapids, MI",1
+"1282","Eatonton, GA",2
+"1283","Eatonville, WA",1
+"1284","Eau Claire, WI",6
+"1285","Eclectic, AL",1
+"1286","Ecorse, MI",1
+"1287","Ector, TX",1
+"1288","Eddyville, KY",1
+"1289","Eden Prairie, MN",2
+"1290","Eden, GA",1
+"1291","Eden, TX",2
+"1292","Edgewater, FL",3
+"1293","Edgewood, NM",3
+"1294","Edinburg, TX",7
+"1295","Edison, CA",1
+"1296","Edison, NJ",1
+"1297","Edmond, OK",5
+"1298","Edmonds, WA",1
+"1299","Edmonton, KY",1
+"1300","Edwards, CO",1
+"1301","Edwards, MS",1
+"1302","Edwardsville, IL",1
+"1303","Efland, NC",1
+"1304","Ehrenberg, AZ",2
+"1305","El Cajon, CA",5
+"1306","El Centro, CA",4
+"1307","El Dorado Springs, MO",1
+"1308","El Dorado, AR",1
+"1309","El Mirage, AZ",3
+"1310","El Monte, CA",6
+"1311","El Paso, TX",35
+"1312","Elberton, GA",1
+"1313","Eldersburg , MD",1
+"1314","Electra, TX",1
+"1315","Elgin, IL",2
+"1316","Elgin, TX",1
+"1317","Elizabeth City, NC",2
+"1318","Elizabeth, CO",2
+"1319","Elizabeth, NJ",2
+"1320","Elizabethton, TN",4
+"1321","Elizabethtown, KY",5
+"1322","Elizabethtown, NC",1
+"1323","Elizabethtown, PA",1
+"1324","Elk City, OK",2
+"1325","Elk Grove Village, IL",1
+"1326","Elk Grove, CA",5
+"1327","Elkhart, IN",9
+"1328","Elkhorn, WI",3
+"1329","Elkin, NC",1
+"1330","Elkins Park, PA",1
+"1331","Elkins, WV",1
+"1332","Elkland, PA",1
+"1333","Elkmont, AL",1
+"1334","Elko, NV",3
+"1335","Elkridge, MD",2
+"1336","Elkton, FL",1
+"1337","Elkton, KY",1
+"1338","Elkton, MD",3
+"1339","Elkview, WV",1
+"1340","Ellabell, GA",1
+"1341","Ellenwood, GA",1
+"1342","Ellicott City, MD",2
+"1343","Ellis Township, MI",1
+"1344","Elloree, SC",1
+"1345","Elmendorf, TX",1
+"1346","Elmira, NY",3
+"1347","Elmwood Place, OH",1
+"1348","Eloy, AZ",3
+"1349","Elsmere, KY",1
+"1350","Elyria, OH",1
+"1351","Emeryville, CA",1
+"1352","Emmitsburg, MD",1
+"1353","Empire, AL",1
+"1354","Empire, CO",1
+"1355","Emporia, VA",1
+"1356","Encinitas, CA",2
+"1357","Enfield, NC",1
+"1358","England, AR",1
+"1359","Englewood, CO",8
+"1360","Englewood, FL",3
+"1361","Englewood, NJ",1
+"1362","Englewood, OH",1
+"1363","English, IN",1
+"1364","Enid, OK",4
+"1365","Ennis, TX",1
+"1366","Enoree, SC",1
+"1367","Enterprise, MS",1
+"1368","Enterprise, NV",2
+"1369","Enumclaw, WA",1
+"1370","Epping, NH",1
+"1371","Erie, PA",2
+"1372","Erwin, TN",1
+"1373","Escalon, CA",1
+"1374","Escondido, CA",8
+"1375","Espanola, NM",4
+"1376","Essex, MD",3
+"1377","Essex, MT",1
+"1378","Estancia, NM",1
+"1379","Ester, AK",1
+"1380","Estero, FL",2
+"1381","Estill Springs, TN",1
+"1382","Ethel, LA",1
+"1383","Ethete, WY",2
+"1384","Etoile, TX",1
+"1385","Etowah, TN",2
+"1386","Euclid, OH",2
+"1387","Eufaula, AL",2
+"1388","Eufaula, OK",1
+"1389","Eugene, OR",11
+"1390","Euharlee, GA",1
+"1391","Euless, TX",2
+"1392","Eupora, MS",1
+"1393","Eureka Springs, AR",1
+"1394","Eureka, CA",6
+"1395","Eureka, KS",1
+"1396","Eureka, MO",1
+"1397","Eureka, NV",1
+"1398","Eustis, FL",3
+"1399","Eutawville, SC",1
+"1400","Evans, CO",6
+"1401","Evanston, IL",2
+"1402","Evanston, WY",1
+"1403","Evansville, IN",18
+"1404","Evansville, WY",1
+"1405","Everett, MA",2
+"1406","Everett, WA",8
+"1407","Evergreen, AL",1
+"1408","Evergreen, CO",1
+"1409","Evergreen, LA",1
+"1410","Everton, MO",1
+"1411","Excelsior Springs, MO",2
+"1412","Excelsior, MN",1
+"1413","Exeter, CA",1
+"1414","Fair Haven, VT",1
+"1415","Fair Oaks, CA",4
+"1416","Fair Oaks, OK",1
+"1417","Fair Play, MO",1
+"1418","Fairbanks, AK",13
+"1419","Fairborn, OH",1
+"1420","Fairburn, GA",2
+"1421","Fairchance, PA",1
+"1422","Fairchild, WI",1
+"1423","Fairfax, OK",1
+"1424","Fairfield Township, MI",1
+"1425","Fairfield Township, OH",1
+"1426","Fairfield, CA",5
+"1427","Fairfield, CT",1
+"1428","Fairfield, OH",3
+"1429","Fairfield, TX",1
+"1430","Fairfield, UT",1
+"1431","Fairhaven, MA",1
+"1432","Fairhope, AL",2
+"1433","Fairland, OK",1
+"1434","Fairlea, WV",1
+"1435","Fairmont, MN",1
+"1436","Fairmont, WV",1
+"1437","Fairview, AK",2
+"1438","Fairview, OH",1
+"1439","Fairview, TN",2
+"1440","Falcon Heights, MN",1
+"1441","Falcon, MO",1
+"1442","Falfurrias, TX",1
+"1443","Fall River, MA",3
+"1444","Fallbrook, CA",2
+"1445","Fallon, NV",1
+"1446","Falls Church, VA",1
+"1447","Falls City, TX",1
+"1448","Falmouth, ME",1
+"1449","Far West Side, TX",1
+"1450","Fargo, ND",3
+"1451","Farmer, SD",1
+"1452","Farmersville, CA",1
+"1453","Farmingdale, NJ",1
+"1454","Farmington, AR",1
+"1455","Farmington, CT",1
+"1456","Farmington, NM",11
+"1457","Farmington, UT",4
+"1458","Farmville, VA",1
+"1459","Fawn, PA",1
+"1460","Fayette, MS",1
+"1461","Fayetteville, AR",5
+"1462","Fayetteville, GA",1
+"1463","Fayetteville, NC",19
+"1464","Federal Heights, CO",2
+"1465","Federal Way, WA",11
+"1466","Fenton, MO",1
+"1467","Ferguson, MO",4
+"1468","Fernandina Beach, FL",2
+"1469","Ferry Pass, FL",1
+"1470","Festus, MO",2
+"1471","Fife Lake, MI",1
+"1472","Fife, WA",3
+"1473","Filer, ID",1
+"1474","Fillmore, CA",1
+"1475","Findlay, OH",2
+"1476","Fishers, IN",1
+"1477","Fisty, KY",1
+"1478","Fitchburg, WI",1
+"1479","Flagstaff, AZ",10
+"1480","Flat Lick, KY",1
+"1481","Flatwoods, KY",2
+"1482","Flemington, GA",1
+"1483","Fletcher, NC",2
+"1484","Flint Township, MI",1
+"1485","Flint, MI",8
+"1486","Flint, TX",1
+"1487","Floral City, FL",3
+"1488","Florence, AL",4
+"1489","Florence, KY",1
+"1490","Florence, MS",4
+"1491","Florence, OR",1
+"1492","Florence, SC",6
+"1493","Floresville, TX",3
+"1494","Florissant, MO",3
+"1495","Flossmoor, IL",1
+"1496","Flowery Branch, GA",1
+"1497","Flowood, MS",1
+"1498","Floyd, IA",1
+"1499","Flushing, NY",1
+"1500","Follansbee, WV",2
+"1501","Follett, TX",1
+"1502","Folsom, CA",1
+"1503","Fond du Lac, WI",1
+"1504","Fonde, KY",1
+"1505","Fontana, CA",17
+"1506","Fordoche, LA",1
+"1507","Fords, NJ",1
+"1508","Forest City, NC",1
+"1509","Forest Hill, MD",1
+"1510","Forest Hill, TX",1
+"1511","Forest Hills, PA",1
+"1512","Forest Lake, MN",1
+"1513","Forest Park, GA",3
+"1514","Forest Park, IL",2
+"1515","Forest, MS",1
+"1516","Foresthill, CA",1
+"1517","Fork Union, VA",1
+"1518","Forksville, PA",1
+"1519","Forrest City, AR",2
+"1520","Fort Ashby, WV",1
+"1521","Fort Atkinson, WI",1
+"1522","Fort Belvoir, VA",1
+"1523","Fort Chiswell, VA",1
+"1524","Fort Collins, CO",12
+"1525","Fort Dodge, IA",2
+"1526","Fort George Meade, MD",1
+"1527","Fort Gibson, OK",1
+"1528","Fort Hall, ID",2
+"1529","Fort Hunt, VA",1
+"1530","Fort Knox, KY",1
+"1531","Fort Lauderdale, FL",18
+"1532","Fort Lee, NJ",2
+"1533","Fort Littleton, PA",1
+"1534","Fort Lupton, CO",2
+"1535","Fort Madison, IA",3
+"1536","Fort McCoy, FL",1
+"1537","Fort McKavett, TX",1
+"1538","Fort Meyers, FL",1
+"1539","Fort Mill, SC",1
+"1540","Fort Mohave, AZ",1
+"1541","Fort Morgan, CO",2
+"1542","Fort Myers Beach, FL",1
+"1543","Fort Myers, FL",6
+"1544","Fort Peck, MT",1
+"1545","Fort Pierce, FL",9
+"1546","Fort Ripley, MN",1
+"1547","Fort Smith, AR",3
+"1548","Fort Stockton, TX",1
+"1549","Fort Sumner, NM",1
+"1550","Fort Thompson, SD",1
+"1551","Fort Totten, ND",2
+"1552","Fort Towson, OK",1
+"1553","Fort Valley, GA",2
+"1554","Fort Walton Beach, FL",5
+"1555","Fort Washington, MD",1
+"1556","Fort Wayne, IN",17
+"1557","Fort Worth, TX",48
+"1558","Fort Yates, ND",1
+"1559","Foster Township, PA",1
+"1560","Fountain Hills, AZ",1
+"1561","Fountain Inn, SC",1
+"1562","Fountain Valley, CA",2
+"1563","Fountain, CO",3
+"1564","Fountain, FL",2
+"1565","Fox Lake, IL",1
+"1566","Frametown, WV",1
+"1567","Francesville, IN",1
+"1568","Frankfort, IN",1
+"1569","Frankfort, KY",1
+"1570","Franklin Township, PA",1
+"1571","Franklin, KY",1
+"1572","Franklin, LA",1
+"1573","Franklin, NC",2
+"1574","Franklin, NH",1
+"1575","Franklin, TN",2
+"1576","Franklin, WI",2
+"1577","Franklinton, NC",1
+"1578","Franklinton, OH",1
+"1579","Frederic, MI",1
+"1580","Frederica, DE",1
+"1581","Frederick, CO",1
+"1582","Frederick, MD",4
+"1583","Fredericksburg, TX",1
+"1584","Fredericksburg, VA",5
+"1585","Fredonia, NY",1
+"1586","Fredricktown, MO",1
+"1587","Freehold Township, PA",1
+"1588","Freeport, FL",1
+"1589","Freeport, TX",2
+"1590","Fremont, CA",8
+"1591","Fremont, NE",1
+"1592","French Lick, IN",1
+"1593","Fresno, CA",49
+"1594","Fresno, TX",1
+"1595","Friant, CA",1
+"1596","Fridley, MN",1
+"1597","Friendly Hills, CO",1
+"1598","Friendswood, TX",2
+"1599","Frisco, TX",2
+"1600","Fritch, TX",1
+"1601","Frog, TX",1
+"1602","Front Royal, VA",1
+"1603","Frostproof, FL",2
+"1604","Fruita, CO",2
+"1605","Fruithurst, AL",1
+"1606","Fruitland Park, FL",1
+"1607","Fryeburg, ME",1
+"1608","Ft. Lauderdale, FL",1
+"1609","Fullerton, CA",10
+"1610","Fulshear, TX",1
+"1611","Fulton, KY",1
+"1612","Fulton, MO",2
+"1613","Fuquay-Varina, NC",1
+"1614","Gadsden, AL",4
+"1615","Gadsden, AZ",1
+"1616","Gaffney, SC",2
+"1617","Gahanna, OH",1
+"1618","Gainesville, FL",6
+"1619","Gainesville, GA",6
+"1620","Gaithersburg , MD",7
+"1621","Galax, VA",1
+"1622","Galesburg, MI",2
+"1623","Gallatin, TN",2
+"1624","Gallup, NM",2
+"1625","Galveston, TX",6
+"1626","Garden City, ID",2
+"1627","Garden City, IN",1
+"1628","Garden City, KS",1
+"1629","Garden City, MI",2
+"1630","Garden City, MO",2
+"1631","Garden Grove, CA",6
+"1632","Garden Plain, KS",1
+"1633","Gardena, CA",6
+"1634","Gardernville, NV",1
+"1635","Gardner, KS",1
+"1636","Gardnerville, NV",2
+"1637","Garfield Heights, OH",1
+"1638","Garland, TX",9
+"1639","Gary, IN",10
+"1640","Gaston, NC",1
+"1641","Gastonia, NC",7
+"1642","Gate City, VA",1
+"1643","Gates, NY",1
+"1644","Gates, OR",1
+"1645","Gautier, MS",1
+"1646","Gaylord, MI",1
+"1647","Geary, OK",1
+"1648","Genesee Township, MI",1
+"1649","Geneseo, IL",1
+"1650","Geneseo, NY",1
+"1651","Geneva, IL",2
+"1652","Geneva, OH",1
+"1653","Geneva, WI",1
+"1654","Genoa, WI",1
+"1655","Georgetown, KY",6
+"1656","Georgetown, SC",1
+"1657","Georgetown, TX",1
+"1658","Germantown, MD",1
+"1659","Germantown, TN",2
+"1660","Germantown, WI",1
+"1661","Gerrardstown, WV",1
+"1662","Gettysburg, PA",1
+"1663","Ghent, KY",1
+"1664","Gibson, LA",1
+"1665","Giddings, TX",1
+"1666","Gila Bend, AZ",1
+"1667","Gila River Indian Community, AZ",2
+"1668","Gilbert, AZ",5
+"1669","Gilbert, MN",1
+"1670","Gilford Township, MI",1
+"1671","Gilford Township, NH",1
+"1672","Gill, CO",1
+"1673","Gillette, WY",4
+"1674","Gillsville, GA",1
+"1675","Gilmer, TX",1
+"1676","Gilroy, CA",4
+"1677","Girard, OH",2
+"1678","Girardville, PA",1
+"1679","Glade Spring, VA",2
+"1680","Gladewater, TX",1
+"1681","Gladstone, MO",2
+"1682","Glasgow, KY",2
+"1683","Glasgow, MT",1
+"1684","Glen Allen, VA",1
+"1685","Glen Burnie, MD",3
+"1686","Glen Carbon, IL",1
+"1687","Glen Rose, TX",1
+"1688","Glen Saint Mary, FL",1
+"1689","Glen St. Mary, FL",1
+"1690","Glendale Heights, IL",1
+"1691","Glendale, AZ",26
+"1692","Glendale, CA",1
+"1693","Glendale, CO",1
+"1694","Glendora, CA",2
+"1695","Glenn Heights, TX",1
+"1696","Glennonville, MO",1
+"1697","Glennville, GA",1
+"1698","Glenoma, WA",1
+"1699","Glenpool, OK",1
+"1700","Glenshaw, PA",1
+"1701","Glenwood Springs, CO",2
+"1702","Glenwood, AR",1
+"1703","Glenwood, GA",1
+"1704","Globe, AZ",2
+"1705","Gloster, MS",1
+"1706","Gloucester, VA",1
+"1707","Gluckstadt, MS",1
+"1708","Gobles, MI",1
+"1709","Goddard, KS",1
+"1710","Goetz, WI",1
+"1711","Goetzville, MI",1
+"1712","Golconda, IL",2
+"1713","Golden Hills, CA",1
+"1714","Golden Valley, AZ",2
+"1715","Golden Valley, NV",1
+"1716","Golden, CO",2
+"1717","Golden, MS",1
+"1718","Goldonna, LA",1
+"1719","Goleta, CA",2
+"1720","Gonzales, TX",1
+"1721","Gooding, ID",1
+"1722","Goodman, WI",1
+"1723","Goodview, VA",1
+"1724","Goodyear, AZ",5
+"1725","Goose Creek, SC",2
+"1726","Gordo, AL",1
+"1727","Gordon, GA",1
+"1728","Gordon, WI",1
+"1729","Gorham, ME",1
+"1730","Goshen, IN",1
+"1731","Gower, MO",1
+"1732","Grafton, OH",1
+"1733","Grafton, WI",1
+"1734","Grafton, WV",1
+"1735","Graham, NC",2
+"1736","Graham, TX",2
+"1737","Graham, WA",5
+"1738","Grainfield, KS",1
+"1739","Granbury, TX",1
+"1740","Grand Chute, WI",1
+"1741","Grand Forks, ND",1
+"1742","Grand Haven, MI",1
+"1743","Grand Island, NE",2
+"1744","Grand Junction, CO",11
+"1745","Grand Ledge, MI",2
+"1746","Grand Prairie, TX",7
+"1747","Grand Rapids, MI",3
+"1748","Grand Rapids, WI",2
+"1749","Grand Ronde, OR",1
+"1750","Grand Terrace, CA",1
+"1751","Grandview, MO",2
+"1752","Grandview, WA",1
+"1753","Grandville, MI",1
+"1754","Granger, IN",1
+"1755","Granite City, IL",1
+"1756","Granite Falls, NC",1
+"1757","Graniteville, SC",1
+"1758","Grant-Valkaria, FL",2
+"1759","Grant, OK",2
+"1760","Granton, WI",1
+"1761","Grants Pass, OR",6
+"1762","Grantsboro, NC",1
+"1763","Grantsville, UT",2
+"1764","Grantville, GA",1
+"1765","Grapeview, WA",1
+"1766","Grapevine, TX",2
+"1767","Grass Valley, CA",2
+"1768","Gray Court, SC",1
+"1769","Gray, KY",4
+"1770","Gray, TN",1
+"1771","Grayson, KY",1
+"1772","Great Falls, MT",8
+"1773","Great Neck, NY",1
+"1774","Greece, NY",1
+"1775","Greeley, CO",13
+"1776","Green Bay, WI",7
+"1777","Green Cove Springs, FL",1
+"1778","Green Forest, AR",1
+"1779","Green Mountain, NC",1
+"1780","Green Ridge, MO",1
+"1781","Green Valley, AZ",1
+"1782","Green, OH",1
+"1783","Greenacres, FL",1
+"1784","Greenacres, WA",1
+"1785","Greenback, TN",1
+"1786","Greenbelt, MD",1
+"1787","Greenbrae, CA",1
+"1788","Greene Township, PA",1
+"1789","Greeneville, TN",2
+"1790","Greenfield, IN",3
+"1791","Greenfield, MO",1
+"1792","Greenfield, WI",1
+"1793","Greensboro, MD",1
+"1794","Greensboro, NC",11
+"1795","Greensburg, KY",1
+"1796","Greensburg, PA",4
+"1797","Greenville, GA",1
+"1798","Greenville, KY",1
+"1799","Greenville, MS",5
+"1800","Greenville, NC",7
+"1801","Greenville, SC",15
+"1802","Greenville, TN",2
+"1803","Greenville, TX",1
+"1804","Greenwood Village, CO",1
+"1805","Greenwood, IN",3
+"1806","Greenwood, SC",1
+"1807","Greenwood, TX",1
+"1808","Greer, SC",2
+"1809","Grenada, MS",2
+"1810","Gresham, OR",6
+"1811","Gretna, FL",1
+"1812","Gretna, LA",5
+"1813","Gridley, CA",1
+"1814","Griffin, GA",5
+"1815","Grindstone Township, ME",1
+"1816","Grindstone, PA",1
+"1817","Grottoes, VA",1
+"1818","Grove City, OH",1
+"1819","Grove, OK",1
+"1820","Groveland, CA",1
+"1821","Groveport, OH",1
+"1822","Grover Beach, CA",2
+"1823","Groves, TX",1
+"1824","Groveton, TX",1
+"1825","Grovetown, GA",2
+"1826","Gruetli-Laager, TN",1
+"1827","Grundy, VA",1
+"1828","Guadalupe, AZ",2
+"1829","Guadalupe, CA",1
+"1830","Guerneville, CA",3
+"1831","Guffey, CO",1
+"1832","Gulf Breeze, FL",1
+"1833","Gulf Shores, AL",1
+"1834","Gulfport, MS",14
+"1835","Gunlock, KY",1
+"1836","Gunnison, CO",1
+"1837","Gurnee, IL",1
+"1838","Guthrie, OK",2
+"1839","Guymon, OK",3
+"1840","Gwynn Oak, MD",1
+"1841","Hacienda Heights, CA",2
+"1842","Hackensack, NJ",2
+"1843","Hackett, AR",1
+"1844","Haddonfield, NJ",1
+"1845","Hagan, GA",1
+"1846","Hagar Township, MI",1
+"1847","Hagerstown, MD",1
+"1848","Hahnville, LA",1
+"1849","Haines City, FL",1
+"1850","Haleiwa, HI",1
+"1851","Half Moon Bay, CA",2
+"1852","Hallandale Beach, FL",4
+"1853","Hallettsville, TX",1
+"1854","Hallsville, TX",1
+"1855","Haltom City, TX",1
+"1856","Hamersville, OH",1
+"1857","Hamilton Township, NJ",3
+"1858","Hamilton Township, OH",1
+"1859","Hamilton, AL",2
+"1860","Hamilton, GA",1
+"1861","Hamilton, MI",1
+"1862","Hamilton, MS",1
+"1863","Hamilton, MT",2
+"1864","Hamilton, OH",4
+"1865","Hamilton, TX",1
+"1866","Hamlin, TX",1
+"1867","Hammett, ID",2
+"1868","Hammond, IN",2
+"1869","Hammond, LA",5
+"1870","Hampden Township, PA",1
+"1871","Hampden, ME",1
+"1872","Hampstead, NC",1
+"1873","Hampton Township, MI",1
+"1874","Hampton, GA",4
+"1875","Hampton, NH",1
+"1876","Hampton, VA",2
+"1877","Hanceville, AL",1
+"1878","Hancock, MA",1
+"1879","Hanford, CA",3
+"1880","Hanover, IN",1
+"1881","Hanover, NM",1
+"1882","Hanover, PA",2
+"1883","Hapeville, GA",1
+"1884","Happy Valley, OR",4
+"1885","Harbeson, DE",1
+"1886","Hardeeville, SC",2
+"1887","Hardwick, NJ",2
+"1888","Harker Heights, TX",2
+"1889","Harlan, KY",3
+"1890","Harlingen, TX",2
+"1891","Harmony, IN",1
+"1892","Harmony, NC",1
+"1893","Harper, TX",1
+"1894","Harriman, TN",1
+"1895","Harrington, DE",1
+"1896","Harris, MN",1
+"1897","Harrisburg, OR",1
+"1898","Harrisburg, PA",10
+"1899","Harrison County, IN",1
+"1900","Harrison, AR",1
+"1901","Harrison, MI",1
+"1902","Harrison, TN",1
+"1903","Harrisonburg, VA",4
+"1904","Hartford, AL",1
+"1905","Hartford, CT",6
+"1906","Hartford, ME",1
+"1907","Hartford, VT",1
+"1908","Harts, WV",1
+"1909","Hartsdale, NY",1
+"1910","Hartselle, AL",1
+"1911","Hartsville, SC",2
+"1912","Harvard, IL",1
+"1913","Harvest, AL",1
+"1914","Harvey, IL",2
+"1915","Harvey, LA",3
+"1916","Harwood, MD",1
+"1917","Hastings, MN",1
+"1918","Hattiesburg, MS",5
+"1919","Haughton, LA",1
+"1920","Havre De Grace, MD",2
+"1921","Hawaiian Gardens, CA",1
+"1922","Hawaiian Paradise Park, HI",1
+"1923","Hawesville, KY",1
+"1924","Hawkins, TX",2
+"1925","Hawkins, WI",1
+"1926","Hawthorne, CA",3
+"1927","Hayden, AL",2
+"1928","Haymarket, VA",1
+"1929","Haynesville, AL",1
+"1930","Hays, KS",1
+"1931","Hays, MT",1
+"1932","Haysville, KS",2
+"1933","Hayti, MO",2
+"1934","Hayward, CA",11
+"1935","Haywood, CA",1
+"1936","Hazard, KY",2
+"1937","Hazel Crest, IL",1
+"1938","Hazel Dell South, WA",1
+"1939","Hazel Dell, WA",2
+"1940","Hazel Green, AL",1
+"1941","Hazel Green, KY",1
+"1942","Hazelhurst, GA",1
+"1943","Hazelton, ID",1
+"1944","Hazelwood, MO",1
+"1945","Hazleton, PA",3
+"1946","Headland, AL",1
+"1947","Healdsburg, CA",1
+"1948","Healdton, OK",1
+"1949","Healy, AK",1
+"1950","Hearne, TX",1
+"1951","Heartland, TX",1
+"1952","Hebbronville, TX",1
+"1953","Hebron, KY",2
+"1954","Hedgesville, WV",1
+"1955","Hedwig, TX",1
+"1956","Helena, MT",2
+"1957","Hemet, CA",16
+"1958","Hemphill, WV",1
+"1959","Henderson, KY",1
+"1960","Henderson, NC",2
+"1961","Henderson, NV",17
+"1962","Henderson, TN",1
+"1963","Hendersonville, NC",3
+"1964","Hendersonville, TN",1
+"1965","Henryetta, OK",2
+"1966","Hensley, WV",1
+"1967","Hephzibah, GA",1
+"1968","Herald, CA",1
+"1969","Hereford, TX",1
+"1970","Herkimer, NY",1
+"1971","Herman, MN",1
+"1972","Hermantown, MN",2
+"1973","Hermitage, MO",1
+"1974","Hermitage, TN",2
+"1975","Hernando, FL",1
+"1976","Hernando, MS",1
+"1977","Herndon, VA",1
+"1978","Herrick Township, PA",2
+"1979","Herriman, UT",2
+"1980","Hesperia, CA",11
+"1981","Hessel, MI",1
+"1982","Hesston, KS",1
+"1983","Hialeah, FL",9
+"1984","Hickory, NC",7
+"1985","High Point, NC",6
+"1986","Highland Mills, NY",1
+"1987","Highland Park, IL",1
+"1988","Highland Park, MI",1
+"1989","Highland Park, TX",1
+"1990","Highland Springs, VA",1
+"1991","Highland Township, MI",1
+"1992","Highland, CA",6
+"1993","Hilham, TN",1
+"1994","Hillard, FL",1
+"1995","Hillburn, NY",1
+"1996","Hilliard, FL",1
+"1997","Hilliard, OH",1
+"1998","Hillrose, CO",1
+"1999","Hillsboro, KY",1
+"2000","Hillsboro, OH",1
+"2001","Hillsboro, OR",7
+"2002","Hillsborough, NJ",2
+"2003","Hillsdale, MI",1
+"2004","Hilo, HI",5
+"2005","Hiltons, VA",1
+"2006","Hinkley, MN",1
+"2007","Hinton, VA",1
+"2008","Hinton, WV",1
+"2009","Hiram, GA",1
+"2010","Hiram, ME",2
+"2011","Hixson, TN",2
+"2012","Hobbs, NM",7
+"2013","Hobe Sound, FL",1
+"2014","Hockingport, OH",1
+"2015","Hodgenville, KY",1
+"2016","Hogansville, GA",1
+"2017","Hohenwald, TN",2
+"2018","Hoisington, KS",1
+"2019","Holden, MO",1
+"2020","Holiday, FL",2
+"2021","Holladay, UT",2
+"2022","Holland, MI",1
+"2023","Holland, PA",1
+"2024","Holliday, TX",1
+"2025","Hollis, ME",1
+"2026","Hollister, MO",1
+"2027","Holly Hill, FL",1
+"2028","Holly Pond, AL",1
+"2029","Holly Springs, GA",1
+"2030","Holly Springs, NC",1
+"2031","Hollywood, AL",1
+"2032","Hollywood, FL",8
+"2033","Holt, MO",1
+"2034","Holy Cross, AK",1
+"2035","Holyoke, CO",1
+"2036","Home Garden, CA",1
+"2037","Homedale, ID",1
+"2038","Homer Glen, IL",1
+"2039","Homerville, GA",1
+"2040","Homestead, FL",12
+"2041","Hometown, WV",1
+"2042","Homewood, AL",1
+"2043","Homewood, IL",1
+"2044","Hominy, OK",1
+"2045","Homosassa, FL",3
+"2046","Hondo, TX",1
+"2047","Honea Path, SC",1
+"2048","Honolulu, HI",20
+"2049","Hooker, OK",1
+"2050","Hoopa, CA",1
+"2051","Hoover, AL",2
+"2052","Hope Mills, NC",3
+"2053","Hopewell Junction, NY",1
+"2054","Hopewell, VA",5
+"2055","Hopkinsville, KY",2
+"2056","Hoquiam, WA",2
+"2057","Horizon City, TX",1
+"2058","Horn Lake, MS",4
+"2059","Hornick, IA",1
+"2060","Horseheads, NY",1
+"2061","Hoschton, GA",1
+"2062","Hosford, FL",1
+"2063","Hot Springs, AR",1
+"2064","Hot Sulphur Springs, CO",1
+"2065","Hotchkiss, CO",1
+"2066","Houghton Lake, MI",1
+"2067","Houma, LA",8
+"2068","Houston, AK",1
+"2069","Houston, TX",179
+"2070","Hoxie, AR",1
+"2071","Hubbard Township, OH",1
+"2072","Hubbard, MN",1
+"2073","Huber Heights, OH",2
+"2074","Hubert, NC",2
+"2075","Hudson, FL",3
+"2076","Hudson, NC",2
+"2077","Hudson, OH",1
+"2078","Hueytown, AL",1
+"2079","Huger, SC",1
+"2080","Hughes, AR",1
+"2081","Humble, TX",2
+"2082","Humboldt, TN",1
+"2083","Hummelstown, PA",1
+"2084","Hunters, WA",1
+"2085","Huntersville, NC",2
+"2086","Huntertown, IN",1
+"2087","Huntington Beach, CA",7
+"2088","Huntington Park, CA",5
+"2089","Huntington, IN",2
+"2090","Huntington, TX",1
+"2091","Huntington, UT",1
+"2092","Huntington, WV",3
+"2093","Huntley, MT",1
+"2094","Huntsville, AL",18
+"2095","Huntsville, TX",3
+"2096","Huntsville, UT",1
+"2097","Hurdle Mills, NC",1
+"2098","Huron, CA",2
+"2099","Hurricane, UT",1
+"2100","Hurricane, WV",1
+"2101","Hurst, IL",1
+"2102","Hurst, TX",2
+"2103","Hutchins, TX",1
+"2104","Hutchinson, KS",2
+"2105","Hutchinson, MN",1
+"2106","Hyattsville, MD",3
+"2107","Hyde Park, NY",1
+"2108","Idabel, OK",1
+"2109","Idaho Falls, ID",8
+"2110","Immokalee, FL",2
+"2111","Imperial, CA",1
+"2112","Imperial, MO",1
+"2113","Independence Charter Township, MI",1
+"2114","Independence, KS",1
+"2115","Independence, KY",2
+"2116","Independence, LA",1
+"2117","Independence, MO",11
+"2118","Independence, VA",1
+"2119","Indialantic, FL",2
+"2120","Indian Head, MD",1
+"2121","Indian Land, SC",1
+"2122","Indian Mound, TN",1
+"2123","Indian Wells, CA",1
+"2124","Indianapolis, IN",59
+"2125","Indiantown, FL",1
+"2126","Indio, CA",8
+"2127","Industry, CA",1
+"2128","Ingleside, TX",1
+"2129","Inglewood, CA",10
+"2130","Inkster, MI",1
+"2131","Inman, SC",1
+"2132","Interlachen, FL",1
+"2133","Inverness, FL",1
+"2134","Inwood, NY",1
+"2135","Inwood, WV",1
+"2136","Inyokern, CA",1
+"2137","Iota, LA",1
+"2138","Iowa Falls, IA",2
+"2139","Iron River, MI",2
+"2140","Irvine, CA",3
+"2141","Irving, TX",12
+"2142","Irvington, NJ",3
+"2143","Irwin, PA",1
+"2144","Irwindale, CA",1
+"2145","Ishpeming, MI",1
+"2146","Islamorada, FL",1
+"2147","Islip, NY",1
+"2148","Ithaca, NY",1
+"2149","Iuka, MS",2
+"2150","Iva, SC",1
+"2151","Ivanhoe, CA",1
+"2152","Jackson Township, OH",1
+"2153","Jackson Township, PA",1
+"2154","Jackson, CA",1
+"2155","Jackson, GA",2
+"2156","Jackson, MI",3
+"2157","Jackson, MO",2
+"2158","Jackson, MS",17
+"2159","Jackson, OH",1
+"2160","Jackson, TN",7
+"2161","Jackson, WI",1
+"2162","Jacksonboro, SC",1
+"2163","Jacksonville, AL",2
+"2164","Jacksonville, AR",4
+"2165","Jacksonville, FL",70
+"2166","Jacksonville, MO",1
+"2167","Jacksonville, NC",2
+"2168","Jal, NM",1
+"2169","Jamaica, NY",2
+"2170","James Island, SC",2
+"2171","Jamestown, CA",1
+"2172","Jamestown, NC",2
+"2173","Jamestown, ND",1
+"2174","Jamestown, NY",1
+"2175","Jamestown, TN",1
+"2176","Jamesville, NY",1
+"2177","Janesville, WI",1
+"2178","Jasper, AL",1
+"2179","Jasper, FL",3
+"2180","Jasper, GA",3
+"2181","Jasper, TN",1
+"2182","Jasper, TX",1
+"2183","Jay, OK",1
+"2184","Jean, NV",4
+"2185","Jefferson City, MO",4
+"2186","Jefferson City, TN",1
+"2187","Jefferson, LA",1
+"2188","Jefferson, ME",1
+"2189","Jefferson, NC",1
+"2190","Jefferson, OH",1
+"2191","Jeffersontown, KY",1
+"2192","Jeffersonville, IN",3
+"2193","Jeffersonville, OH",1
+"2194","Jennings, MO",3
+"2195","Jenny Lind, CA",1
+"2196","Jerome, ID",1
+"2197","Jersey City, NJ",8
+"2198","Jerseyville, IL",1
+"2199","Jesup, GA",1
+"2200","Joelton, TN",1
+"2201","Johns Creek, GA",1
+"2202","Johns Island, SC",2
+"2203","Johnson City, NY",1
+"2204","Johnson City, TN",5
+"2205","Johnson Creek, WI",1
+"2206","Johnsonburg, PA",1
+"2207","Johnsonville, NC",1
+"2208","Johnsonville, SC",1
+"2209","Johnston, RI",1
+"2210","Johnstown, CO",1
+"2211","Johnstown, NY",1
+"2212","Johnstown, PA",2
+"2213","Joliet, IL",9
+"2214","Joliet, MT",1
+"2215","Jonesboro, AR",9
+"2216","Jonesboro, GA",6
+"2217","Jonesboro, LA",1
+"2218","Jonesborough, TN",3
+"2219","Jonesville, NC",2
+"2220","Joplin, MO",8
+"2221","Joshua Tree, CA",3
+"2222","Jourdanton, TX",2
+"2223","Judsonia, AR",1
+"2224","Junction City, KS",1
+"2225","Juneau, AK",3
+"2226","Juniata, NE",1
+"2227","Juniata, PA",1
+"2228","Jupiter, FL",1
+"2229","Jurupa Valley, CA",7
+"2230","Kahului, HI",2
+"2231","Kaibeto, AZ",1
+"2232","Kailua-Kona, HI",2
+"2233","Kailua, HI",1
+"2234","Kalama, WA",1
+"2235","Kalamazoo, MI",8
+"2236","Kalispell, MT",1
+"2237","Kaneohe, HI",2
+"2238","Kannapolis, NC",2
+"2239","Kansas City, KS",13
+"2240","Kansas CIty, KS",6
+"2241","Kansas City, MO",45
+"2242","Kansas CIty, MO",9
+"2243","Kapolei, HI",2
+"2244","Karnack, TX",1
+"2245","Kasilof, AK",3
+"2246","Kathleen, GA",1
+"2247","Katy, TX",5
+"2248","Kaukauna, WI",2
+"2249","Kayenta, AZ",1
+"2250","Kaysville, UT",1
+"2251","Kea'au, HI",1
+"2252","Keaau, HI",2
+"2253","Keansburg, NJ",2
+"2254","Kearns, UT",3
+"2255","Kearny, AZ",1
+"2256","Keene, NH",1
+"2257","Kegley, WV",1
+"2258","Keithville, LA",2
+"2259","Keizer, OR",1
+"2260","Kellyville, OK",1
+"2261","Kelso, WA",4
+"2262","Kemp, TX",1
+"2263","Kendall, FL",1
+"2264","Kendallville, IN",1
+"2265","Kenly, NC",1
+"2266","Kennard, IN",1
+"2267","Kennedale, TX",1
+"2268","Kenner, LA",5
+"2269","Kennesaw, GA",2
+"2270","Kennett, MO",2
+"2271","Kennewick, WA",7
+"2272","Kenosha, WI",1
+"2273","Kensington, NH",1
+"2274","Kent, OH",2
+"2275","Kent, WA",12
+"2276","Kenton, OH",1
+"2277","Kentwood, MI",3
+"2278","Kenwood, OK",1
+"2279","Kernersville, NC",1
+"2280","Kerrville, TX",2
+"2281","Kettering, OH",2
+"2282","Kettle, WV",1
+"2283","Kewaskum, WI",1
+"2284","Kewaunee, WI",1
+"2285","Key Largo, FL",2
+"2286","Key West, FL",1
+"2287","Kila, MT",1
+"2288","Kilgore, TX",1
+"2289","Killeen, TX",9
+"2290","Killen, AL",1
+"2291","Kiln, MS",1
+"2292","Kimberling City, MO",1
+"2293","Kimberly, ID",1
+"2294","King , NC",1
+"2295","King City, CA",1
+"2296","King George, VA",2
+"2297","King of Prussia, PA",2
+"2298","Kingman, AZ",11
+"2299","Kings Mountain, NC",1
+"2300","Kingsbury, TX",1
+"2301","Kingsland, GA",3
+"2302","Kingsland, TX",1
+"2303","Kingsport, TN",3
+"2304","Kingston Springs, TN",1
+"2305","Kingstree, SC",1
+"2306","Kingwood, TX",2
+"2307","Kinston, NC",2
+"2308","Kiowa, OK",2
+"2309","Kirbyville, TX",1
+"2310","Kirkland, WA",4
+"2311","Kirksville, MO",1
+"2312","Kissimmee, FL",4
+"2313","Kittery, ME",1
+"2314","Kittitas, WA",1
+"2315","Kitts Hill, OH",1
+"2316","Klamath Falls, OR",5
+"2317","Knowlton Township, NJ",1
+"2318","Knox, IN",1
+"2319","Knoxville, AL",1
+"2320","Knoxville, PA",1
+"2321","Knoxville, TN",24
+"2322","Kokomo, IN",1
+"2323","Kountze, TX",1
+"2324","Kress, TX",1
+"2325","Krypton, KY",1
+"2326","Kuna, ID",1
+"2327","Kyle, SD",2
+"2328","Kyle, TX",2
+"2329","La Belle, MO",1
+"2330","La Crosse, WI",1
+"2331","La Follette, TN",2
+"2332","La Grande, WA",1
+"2333","La Habra, CA",3
+"2334","La Jolla, CA",1
+"2335","La Joya, TX",1
+"2336","La Marque, TX",2
+"2337","La Mesa, CA",1
+"2338","La Mirada, CA",1
+"2339","La Monte, MO",1
+"2340","La Plata, MD",1
+"2341","La Porte, TX",1
+"2342","La Puente, CA",2
+"2343","La Quinta, CA",3
+"2344","La Rue, OH",1
+"2345","La Salle, CO",2
+"2346","La Vergne, TN",1
+"2347","LaBelle, FL",1
+"2348","Lacey, WA",4
+"2349","Lacombe, LA",1
+"2350","Ladera Heights, CA",1
+"2351","Lady Lake, FL",2
+"2352","Lafayette, IN",1
+"2353","Lafayette, LA",10
+"2354","Lafayette, WI",1
+"2355","Lagrange, GA",2
+"2356","LaGrange, GA",2
+"2357","Lagrange, ME",1
+"2358","Laguna Niguel, CA",2
+"2359","Laguna Woods, CA",1
+"2360","Laguna, NM",2
+"2361","Laie, HI",1
+"2362","Lake Alfred, FL",1
+"2363","Lake Arrowhead, CA",1
+"2364","Lake Arthur, NM",1
+"2365","Lake Charles, LA",7
+"2366","Lake City, FL",4
+"2367","Lake City, PA",1
+"2368","Lake City, SC",1
+"2369","Lake Cormorant, MS",1
+"2370","Lake Elmo, MN",1
+"2371","Lake Elsinore, CA",6
+"2372","Lake Forest, CA",2
+"2373","Lake Geneva, WI",1
+"2374","Lake Hallie, WI",1
+"2375","Lake Hamilton, AR",1
+"2376","Lake Havasu City, AZ",4
+"2377","Lake Havasu, AZ",1
+"2378","Lake Isabella, CA",1
+"2379","Lake Jackson, TX",2
+"2380","Lake Los Angeles, CA",2
+"2381","Lake Mary, FL",1
+"2382","Lake Placid, FL",1
+"2383","Lake St. Louis, MO",1
+"2384","Lake Station, IN",1
+"2385","Lake Stevens, WA",3
+"2386","Lake View, SC",1
+"2387","Lake Wales, FL",4
+"2388","Lake Worth Beach, FL",1
+"2389","Lake Worth, FL",2
+"2390","Lakehead, CA",1
+"2391","Lakeland, FL",14
+"2392","Lakeland, TN",1
+"2393","Lakemoor, IL",1
+"2394","Lakeport, CA",1
+"2395","Lakes, AK",1
+"2396","Lakeshire, MO",2
+"2397","Lakeside, AZ",2
+"2398","Lakeside, CA",1
+"2399","Lakeview, GA",1
+"2400","Lakeview, MI",1
+"2401","Lakeview, OR",1
+"2402","Lakeview, TX",1
+"2403","Lakeville, MN",1
+"2404","Lakewood, CA",1
+"2405","Lakewood, CO",18
+"2406","Lakewood, WA",7
+"2407","Lame Deer, MT",1
+"2408","Lamesa, TX",1
+"2409","Lampe, MO",1
+"2410","Lancaster, CA",13
+"2411","Lancaster, KY",1
+"2412","Lancaster, OH",1
+"2413","Lancaster, PA",9
+"2414","Lancaster, SC",2
+"2415","Lancaster, TX",3
+"2416","Land O' Lakes, FL",1
+"2417","Lander, WY",1
+"2418","Landover, MD",2
+"2419","Landrum, SC",3
+"2420","Lane, OK",1
+"2421","Lanesboro, MN",1
+"2422","Lanesboro, NC",1
+"2423","Langtown, AL",1
+"2424","Lanham, MD",1
+"2425","Lansing Township, MI",1
+"2426","Lansing, IL",1
+"2427","Lansing, MI",5
+"2428","Lantana, FL",1
+"2429","Lantana, TX",1
+"2430","LaPlace, LA",2
+"2431","Laramie, WY",3
+"2432","Laredo, TX",19
+"2433","Largo, FL",2
+"2434","Larimer, PA",1
+"2435","Las Cruces, NM",29
+"2436","Las Vegas, NM",2
+"2437","Las Vegas, NV",98
+"2438","Latham, NY",2
+"2439","Latrobe, PA",1
+"2440","Latta, SC",1
+"2441","Lauderdale Lakes, FL",1
+"2442","Lauderhill, FL",4
+"2443","Laughlin, NV",2
+"2444","Laurel, MD",2
+"2445","Laurel, MS",2
+"2446","Laurens, SC",1
+"2447","Laurie, MO",1
+"2448","Laveen, AZ",2
+"2449","Lawndale, NC",1
+"2450","Lawrence, IN",4
+"2451","Lawrence, KS",2
+"2452","Lawrenceburg, IN",2
+"2453","Lawrenceburg, KY",2
+"2454","Lawrenceburg, TN",1
+"2455","Lawrenceville, GA",6
+"2456","Lawson, MO",1
+"2457","Lawtey, FL",1
+"2458","Lawton, OK",8
+"2459","Layton, UT",2
+"2460","Lead, SD",1
+"2461","Leadwood, MO",1
+"2462","League City, TX",8
+"2463","Leander, TX",1
+"2464","Leavenworth, KS",3
+"2465","Lebanon, OR",1
+"2466","Lebanon, PA",1
+"2467","Lebanon, TN",1
+"2468","Lebec, CA",1
+"2469","Lee's Summit, MO",1
+"2470","Leeds, AL",1
+"2471","Leesburg, FL",3
+"2472","Leesburg, GA",2
+"2473","Leesburg, NJ",1
+"2474","Leesville, SC",1
+"2475","Lehigh Acres, FL",3
+"2476","Lehigh, KS",1
+"2477","Leicester, MA",1
+"2478","Leicester, NC",1
+"2479","Leitchfield, KY",2
+"2480","Leland, NC",2
+"2481","Lemon Grove, CA",3
+"2482","Lemoore, CA",1
+"2483","Lena, IL",1
+"2484","Lenexa, KS",2
+"2485","Lennox, CA",1
+"2486","Lenoir City, TN",3
+"2487","Lenoir, NC",6
+"2488","Leominster, MA",1
+"2489","Leonardtown, MD",1
+"2490","Leonia, NJ",1
+"2491","Leslie, AR",2
+"2492","Levelland, TX",1
+"2493","Levittown, PA",1
+"2494","Lewes, DE",1
+"2495","Lewisburg, KY",1
+"2496","Lewisburg, TN",1
+"2497","Lewisburg, WV",1
+"2498","Lewiston, ID",2
+"2499","Lewistown, IL",1
+"2500","Lewistown, PA",2
+"2501","Lewisville, TX",2
+"2502","Lexington Park, MD",1
+"2503","Lexington, IL",1
+"2504","Lexington, KY",4
+"2505","Lexington, MA",1
+"2506","Lexington, MS",1
+"2507","Lexington, NC",1
+"2508","Lexington, OH",1
+"2509","Lexington, SC",7
+"2510","Lexington, TN",1
+"2511","Lexington, VA",2
+"2512","Liberty City, FL",1
+"2513","Liberty Hill, TX",1
+"2514","Liberty Township, MN",1
+"2515","Liberty Township, OH",1
+"2516","Liberty, IN",1
+"2517","Liberty, MO",2
+"2518","Liberty, NC",1
+"2519","Liberty, SC",1
+"2520","Ligonier Township, PA",1
+"2521","Lihue, HI",1
+"2522","Lilburn, GA",1
+"2523","Lilesville, NC",1
+"2524","Lillington, NC",1
+"2525","Lily, KY",1
+"2526","Lima, OH",2
+"2527","Limerick, ME",1
+"2528","Lincoln City, OR",3
+"2529","Lincoln, AR",1
+"2530","Lincoln, CA",1
+"2531","Lincoln, IL",1
+"2532","Lincoln, NE",11
+"2533","Lincolnton , NC",4
+"2534","Linda, CA",1
+"2535","Lindale, TX",2
+"2536","Lindsay, OK",1
+"2537","Linthicum Heights, MD",2
+"2538","Linville, NC",1
+"2539","Linwood, NC",3
+"2540","Linwood, PA",1
+"2541","Lisle, IL",1
+"2542","Litchfield, IL",1
+"2543","Lithia Springs, GA",4
+"2544","Lithonia, GA",3
+"2545","Lititz, PA",1
+"2546","Littcarr , KY",1
+"2547","Little Egg Harbor Township, NJ",2
+"2548","Little Elm, TX",1
+"2549","Little Mountain, SC",1
+"2550","Little Orleans, MD",1
+"2551","Little River, SC",1
+"2552","Little Rock, AR",25
+"2553","Littlefield, AZ",1
+"2554","Littlefield, TX",1
+"2555","Littlerock, CA",1
+"2556","Littleton, CO",6
+"2557","Live Oak, CA",1
+"2558","Live Oak, FL",1
+"2559","Livermore, CA",1
+"2560","Livingston, MT",1
+"2561","Livingston, TN",1
+"2562","Livingston, TX",1
+"2563","Livonia, MI",2
+"2564","Lizella, GA",2
+"2565","Llano, TX",2
+"2566","Lockhart, TX",1
+"2567","Lockwood, MO",1
+"2568","Locust Grove, GA",1
+"2569","Locust Grove, OK",1
+"2570","Locust, NC",1
+"2571","Lodge Grass, MT",1
+"2572","Lodi, CA",3
+"2573","Logan, NM",1
+"2574","Logan, UT",3
+"2575","Logansport, IN",1
+"2576","Loganville, GA",4
+"2577","Loma Linda, CA",2
+"2578","Loma, CO",2
+"2579","Lombard, IL",1
+"2580","Lompoc, CA",5
+"2581","London, AR",1
+"2582","London, KY",3
+"2583","London, OH",2
+"2584","Lone Tree, CO",3
+"2585","Long Beach, CA",37
+"2586","Long Beach, MS",1
+"2587","Long Branch, NJ",1
+"2588","Longmont, CO",4
+"2589","Longs, SC",1
+"2590","Longview, TX",10
+"2591","Longview, WA",7
+"2592","Longwood, FL",1
+"2593","Lonoke, AR",2
+"2594","Loon Lake, WA",1
+"2595","Lorain, OH",4
+"2596","Lore City, OH",1
+"2597","Lorena, TX",1
+"2598","Lorenzo, TX",1
+"2599","Loretto, KY",1
+"2600","Los Alamitos, CA",1
+"2601","Los Angeles , CA",213
+"2602","Los Banos, CA",4
+"2603","Los Lunas, NM",8
+"2604","Los Ranchos, NM",1
+"2605","Lost Hills, CA",1
+"2606","Louisa, KY",1
+"2607","Louisiana, MO",1
+"2608","Louisville , CO",1
+"2609","Louisville , GA",1
+"2610","Louisville , KY",44
+"2611","Louisville , NE",1
+"2612","Louisville , TN",1
+"2613","Lovejoy, GA",1
+"2614","Loveland, CO",5
+"2615","Lovelock, NV",1
+"2616","Lovington, NM",1
+"2617","Lowell, AR",2
+"2618","Lowell, MA",1
+"2619","Loxahatchee, FL",1
+"2620","Loxley, AL",2
+"2621","Loyal, WI",1
+"2622","Lubbock, TX",15
+"2623","Lucedale, MS",3
+"2624","Lucerne Valley, CA",2
+"2625","Lucerne, CA",1
+"2626","Ludington, MI",1
+"2627","Ludlow, KY",1
+"2628","Ludlow, ME",1
+"2629","Ludlow, VT",1
+"2630","Ludowici, GA",1
+"2631","Lufkin, TX",6
+"2632","Lukachukai, AZ",1
+"2633","Lumberton, MS",1
+"2634","Lumberton, NC",4
+"2635","Lumberton, TX",1
+"2636","Lumpkin, GA",1
+"2637","Luray, VA",1
+"2638","Luverne, AL",2
+"2639","Luxora, AR",1
+"2640","Lyerly, GA",1
+"2641","Lynchburg, VA",4
+"2642","Lyndhurst, NJ",1
+"2643","Lynn, IN",1
+"2644","Lynn, MA",6
+"2645","Lynnwood, WA",2
+"2646","Lynwood, CA",6
+"2647","Lyons, IL",1
+"2648","Mabank, TX",3
+"2649","Mabelvale, AR",1
+"2650","Mableton, GA",6
+"2651","Macclesfield, NC",1
+"2652","Mackinaw, IL",1
+"2653","Macomb, IL",2
+"2654","Macon, GA",4
+"2655","Mad River, CA",1
+"2656","Madera, CA",3
+"2657","Madison Heights, MI",1
+"2658","Madison Township, OH",1
+"2659","Madison, AL",1
+"2660","Madison, ME",1
+"2661","Madison, OH",1
+"2662","Madison, TN",1
+"2663","Madison, WI",8
+"2664","Madisonville , KY",1
+"2665","Madisonville , OH",1
+"2666","Madisonville , TN",4
+"2667","Madras, GA",1
+"2668","Maeystown, IL",1
+"2669","Magna, UT",3
+"2670","Magnolia, AR",1
+"2671","Magnolia, DE",1
+"2672","Magnolia, TX",2
+"2673","Mahoning Township, PA",1
+"2674","Maiden, NC",2
+"2675","Makaha, HI",1
+"2676","Malden, WV",1
+"2677","Malone, KY",1
+"2678","Malone, NY",1
+"2679","Malta, MT",1
+"2680","Malvern, AR",3
+"2681","Malvern, PA",1
+"2682","Mamou, LA",1
+"2683","Man, WV",1
+"2684","Manassas, VA",1
+"2685","Manchester Township, NJ",2
+"2686","Manchester, CT",1
+"2687","Manchester, IL",1
+"2688","Manchester, NH",7
+"2689","Manchester, PA",1
+"2690","Mancos, CO",1
+"2691","Mandan, ND",1
+"2692","Mandeville, LA",2
+"2693","Manhattan, KS",1
+"2694","Manheim, PA",1
+"2695","Manila, AR",2
+"2696","Manistee, MI",1
+"2697","Manitou Springs, CO",1
+"2698","Manitowoc, WI",1
+"2699","Mankato, MN",4
+"2700","Manlius, NY",1
+"2701","Mannford, OK",1
+"2702","Manor, TX",1
+"2703","Manorville, NY",1
+"2704","Mansfield, OH",8
+"2705","Mansura, LA",1
+"2706","Manteo, NC",1
+"2707","Mantoloking, NJ",1
+"2708","Mantua Township, NJ",1
+"2709","Mapleton, ND",1
+"2710","Maplewood, MN",1
+"2711","Maquoketa, IA",1
+"2712","Marana, AZ",4
+"2713","Marengo, IN",1
+"2714","Margate, FL",2
+"2715","Marianna, FL",1
+"2716","Maricopa, AZ",4
+"2717","Marietta, GA",11
+"2718","Marietta, OK",1
+"2719","Marietta, SC",1
+"2720","Marina, CA",1
+"2721","Marine City, MI",1
+"2722","Marinette, WI",1
+"2723","Marion, AR",1
+"2724","Marion, IL",1
+"2725","Marion, IN",5
+"2726","Marion, MI",1
+"2727","Marion, NC",1
+"2728","Marion, SC",1
+"2729","Marion, TX",1
+"2730","Marion, VA",1
+"2731","Mariposa, CA",2
+"2732","Markham, IL",2
+"2733","Marksville, LA",2
+"2734","Marlinton, WV",1
+"2735","Marlow Heights, MD",1
+"2736","Marrero, LA",4
+"2737","Marriott-Slaterville, UT",1
+"2738","Mars Hill, ME",1
+"2739","Marshall, AR",1
+"2740","Marshall, MI",1
+"2741","Marshall, MN",1
+"2742","Marshall, TX",1
+"2743","Marshalltown, IA",1
+"2744","Martelle, IA",1
+"2745","Martha Lake, WA",1
+"2746","Martin, TN",1
+"2747","Martinez, CA",2
+"2748","Martins Ferry, OH",1
+"2749","Martinsburg, MO",1
+"2750","Martinsburg, WV",3
+"2751","Martinsville, VA",1
+"2752","Maryland Heights, MO",2
+"2753","Marysville, CA",4
+"2754","Marysville, OH",1
+"2755","Marysville, WA",3
+"2756","Maryville, TN",3
+"2757","Masaryktown, FL",2
+"2758","Mascotte, FL",1
+"2759","Mashantucket, CT",1
+"2760","Mason, OH",1
+"2761","Masontown, PA",1
+"2762","Massapequa Park, NY",1
+"2763","Massapequa, NY",1
+"2764","Massillon, OH",1
+"2765","Mathis, TX",1
+"2766","Mathiston, MS",1
+"2767","Matteson Township, MI",1
+"2768","Maui, HI",1
+"2769","Maumelle, AR",1
+"2770","Maury, NC",1
+"2771","Maybee, MI",1
+"2772","Mayfield, KY",2
+"2773","Mayflower, AR",1
+"2774","Maysel, WV",1
+"2775","Maysville, KY",1
+"2776","Maywood, CA",3
+"2777","Maywood, IL",2
+"2778","McAlester, OK",2
+"2779","McAllen, TX",3
+"2780","McBee, SC",1
+"2781","McCalla, AL",1
+"2782","McCamey, TX",1
+"2783","McCammon, ID",1
+"2784","McComb, MS",1
+"2785","McCormick, SC",1
+"2786","McDonald, TN",1
+"2787","Mcdonough, GA",1
+"2788","McDowell, KY",1
+"2789","McHenry, MS",1
+"2790","McKee, KY",1
+"2791","McKinleyville, CA",1
+"2792","McKinney, TX",5
+"2793","McLaughlin, SD",1
+"2794","McLean, VA",3
+"2795","McLoud, OK",1
+"2796","McMinnville, OR",3
+"2797","McMinnville, TN",1
+"2798","McNary, AZ",1
+"2799","McPherson, KS",2
+"2800","McRae, AR",1
+"2801","Mead, CO",1
+"2802","Meadow Bridge, WV",1
+"2803","Meadow Vista, CA",1
+"2804","Meadowbrook, CA",1
+"2805","Mecca, CA",1
+"2806","Medford, NY",1
+"2807","Medford, OR",6
+"2808","Medicine Lodge, KS",1
+"2809","Medina, OH",2
+"2810","Melba, ID",1
+"2811","Melbourne Beach, FL",1
+"2812","Melbourne, AR",1
+"2813","Melbourne, FL",6
+"2814","Melrose, FL",1
+"2815","Memphis, AR",1
+"2816","Memphis, IN",1
+"2817","Memphis, TN",49
+"2818","Mena, AR",3
+"2819","Menagers Dam, AZ",1
+"2820","Menallen Township, PA",1
+"2821","Menasha, WI",4
+"2822","Mendenhall, MS",1
+"2823","Mendota Heights, MN",1
+"2824","Mendota, CA",1
+"2825","Menifee, CA",3
+"2826","Menlo Park, CA",1
+"2827","Menomonie, WI",2
+"2828","Mequon, WI",1
+"2829","Merced, CA",5
+"2830","Mercury, NV",1
+"2831","Meredith, NH",1
+"2832","Meriden, CT",1
+"2833","Meridian, ID",4
+"2834","Meridian, MS",10
+"2835","Meridianville, AL",1
+"2836","Merrick, NY",1
+"2837","Merrill, WI",1
+"2838","Merrillville, IN",1
+"2839","Merrimack, NH",1
+"2840","Merritt Island, FL",1
+"2841","Mertzon, TX",1
+"2842","Mesa, AZ",44
+"2843","Mesa, WA",1
+"2844","Mescalero Apache Reservation, NM",1
+"2845","Mesquite, TX",8
+"2846","Metairie, LA",12
+"2847","Metropolis, IL",1
+"2848","Mexia, TX",1
+"2849","Mexico Beach, FL",1
+"2850","Mexico, ME",1
+"2851","Miami Beach, FL",7
+"2852","Miami Gardens, FL",6
+"2853","Miami Lakes, FL",2
+"2854","Miami Shores, FL",1
+"2855","Miami Springs, FL",3
+"2856","Miami, FL",66
+"2857","Miami, OK",2
+"2858","Miamisburg, OH",2
+"2859","Micanopy, FL",1
+"2860","Middle Island, NY",1
+"2861","Middle River, MD",2
+"2862","Middle Smithfield Township, PA",1
+"2863","Middleburg, FL",1
+"2864","Middleburg, OH",1
+"2865","Middlefield, OH",1
+"2866","Middlesboro, KY",3
+"2867","Middleton, ID",1
+"2868","Middleton, WI",1
+"2869","Middletown, NJ",1
+"2870","Middletown, NY",2
+"2871","Middletown, OH",2
+"2872","Middleway, WV",1
+"2873","Midland City, AL",1
+"2874","Midland, MI",1
+"2875","Midland, PA",1
+"2876","Midland, TX",16
+"2877","Midlothian, TX",2
+"2878","Midlothian, VA",1
+"2879","Midvale, UT",1
+"2880","Midway City, CA",1
+"2881","Midwest City, OK",3
+"2882","Mifflinville, PA",1
+"2883","Milan, TN",1
+"2884","Milcreek, UT",1
+"2885","Milford, CT",2
+"2886","Milford, DE",2
+"2887","Milford, MA",1
+"2888","Milford, OH",1
+"2889","Mililani, HI",1
+"2890","Millbrae, CA",1
+"2891","Millbrook, AL",2
+"2892","Millcreek, UT",1
+"2893","Millersville, MD",1
+"2894","Millerton, OK",1
+"2895","Millington, TN",1
+"2896","Millport, AL",1
+"2897","Mills River, NC",1
+"2898","Millston, WI",1
+"2899","Millville, NJ",3
+"2900","Milpitas, CA",3
+"2901","Milton, FL",2
+"2902","Miltona, MN",1
+"2903","Milwaukee, WI",34
+"2904","Milwaukie, OR",3
+"2905","Mineola, TX",1
+"2906","Mineral City, OH",1
+"2907","Mineral, VA",1
+"2908","Minneapolis, MN",17
+"2909","Minneola, KS",1
+"2910","Minnetonka, MN",2
+"2911","Minot, ME",1
+"2912","Minot, ND",1
+"2913","Miramar Beach, FL",1
+"2914","Miramar, FL",5
+"2915","Mishawaka, IN",1
+"2916","Mission, KS",1
+"2917","Mission, TX",6
+"2918","Missoula, MT",9
+"2919","Missouri City, TX",6
+"2920","Mitchell, IN",1
+"2921","Mitchell, SD",2
+"2922","Moapa Valley, NV",1
+"2923","Mobile, AL",11
+"2924","Mocksville, NC",1
+"2925","Modesto, CA",17
+"2926","Mojave, CA",3
+"2927","Molalla, OR",1
+"2928","Molena, GA",1
+"2929","Monaca, PA",1
+"2930","Monahans, TX",2
+"2931","Moncks Corner, SC",2
+"2932","Monett, MO",1
+"2933","Monette, AR",1
+"2934","Monon, IN",2
+"2935","Monongahela, PA",1
+"2936","Monroe, GA",4
+"2937","Monroe, LA",6
+"2938","Monroe, MI",1
+"2939","Monroe, NC",3
+"2940","Monroe, OH",1
+"2941","Monroe, WI",1
+"2942","Monroeville, AL",1
+"2943","Monroeville, PA",1
+"2944","Montague, CA",2
+"2945","Montcalm, WV",2
+"2946","Montclair, CA",2
+"2947","Montclair, VA",1
+"2948","Monte Alto, TX",1
+"2949","Monte Vista, CO",1
+"2950","Monteagle, TN",1
+"2951","Montebello, CA",4
+"2952","Montegut, LA",1
+"2953","Monterey Park, CA",3
+"2954","Monterey, CA",1
+"2955","Montesano, WA",1
+"2956","Montezuma Creek, UT",1
+"2957","Montgomery Village, MD",1
+"2958","Montgomery, AL",8
+"2959","Montgomery, IN",1
+"2960","Montgomery, NY",1
+"2961","Montgomery, WV",1
+"2962","Monticello, AR",1
+"2963","Monticello, GA",1
+"2964","Monticello, KY",3
+"2965","Montpelier, OH",1
+"2966","Montpelier, VT",2
+"2967","Montville, NJ",1
+"2968","Monument, CO",2
+"2969","Moon, PA",1
+"2970","Moore, OK",3
+"2971","Mooresville, NC",3
+"2972","Moorland, IA",1
+"2973","Mora, MN",1
+"2974","Moraine, OH",2
+"2975","Morehead, KY",2
+"2976","Morenci, AZ",2
+"2977","Moreno Valley, CA",7
+"2978","Morganton, NC",1
+"2979","Morgantown, KY",1
+"2980","Morgantown, NC",1
+"2981","Morgantown, WV",6
+"2982","Moriarty, NM",2
+"2983","Morongo Valley, CA",2
+"2984","Morris Township, NJ",1
+"2985","Morris, AL",1
+"2986","Morris, IL",1
+"2987","Morrison, IL",1
+"2988","Morristown, TN",4
+"2989","Morrisville, PA",1
+"2990","Morrow, GA",3
+"2991","Morse, WI",1
+"2992","Morton, MS",1
+"2993","Morton, TX",1
+"2994","Moscow, TN",1
+"2995","Moses Lake, WA",2
+"2996","Moss Bluff, LA",1
+"2997","Moss Point, MS",3
+"2998","Mott, ND",1
+"2999","Moulton, AL",1
+"3000","Moultrie, GA",2
+"3001","Moundridge, KS",1
+"3002","Mounds View, MN",1
+"3003","Mounds, OK",1
+"3004","Mount Airy, GA",1
+"3005","Mount Airy, MD",2
+"3006","Mount Airy, NC",3
+"3007","Mount Carmel, IL",1
+"3008","Mount Hermon, LA",1
+"3009","Mount Holly, NC",1
+"3010","Mount Hope, WI",1
+"3011","Mount Horeb, WI",1
+"3012","Mount Ida, AR",1
+"3013","Mount Pleasant, PA",1
+"3014","Mount Pleasant, TN",1
+"3015","Mount Pleasant, TX",1
+"3016","Mount Vernon, OH",3
+"3017","Mountain City, TN",2
+"3018","Mountain Grove, MO",1
+"3019","Mountain Home, ID",2
+"3020","Mountain Home, NC",1
+"3021","Mountain Home, TX",1
+"3022","Mountain Iron, MN",1
+"3023","Mountain Pine, AR",1
+"3024","Mountain View, HI",1
+"3025","Mountain View, MO",1
+"3026","Mountain View, NC",1
+"3027","Mt Airy, GA",1
+"3028","Mt Hope, WV",1
+"3029","Mt. Joy Township, PA",1
+"3030","Mt. Juliet, TN",1
+"3031","Mt. Morris Township, MI",1
+"3032","Mt. Pleasant, PA",1
+"3033","Mt. Pleasant, WI",1
+"3034","Mt. Shasta, CA",3
+"3035","Mt. Sterling, OH",1
+"3036","Mt. Vernon, IL",1
+"3037","Mt. Vernon, NY",1
+"3038","Muenster, TX",1
+"3039","Mukilteo, WA",1
+"3040","Mulberry, AR",1
+"3041","Mulberry, FL",1
+"3042","Muldrow, OK",1
+"3043","Mullan, ID",1
+"3044","Mulliken, MI",1
+"3045","Muncie, IN",6
+"3046","Munising Township, MI",1
+"3047","Munroe Falls, OH",1
+"3048","Munster, IN",1
+"3049","Murfreesboro, TN",4
+"3050","Murphy, ID",1
+"3051","Murray, KY",1
+"3052","Murray, UT",1
+"3053","Murrieta, CA",2
+"3054","Muscle Shoals, AL",3
+"3055","Muscoy, CA",1
+"3056","Muskegon, MI",1
+"3057","Muskogee County, OK",1
+"3058","Muskogee, OK",6
+"3059","Mustang, OK",2
+"3060","Myerstown, PA",1
+"3061","Myra, TX",1
+"3062","Myrtle Beach, SC",8
+"3063","Myrtle Creek, OR",1
+"3064","Myrtle, MS",1
+"3065","Naalehu, HI",1
+"3066","Nacogdoches, TX",2
+"3067","Nakina, NC",1
+"3068","Nampa, ID",6
+"3069","Nanticoke, PA",1
+"3070","Napa, CA",7
+"3071","Naperville, IL",1
+"3072","Naples, FL",1
+"3073","Naples, ME",1
+"3074","Napoleonville, LA",1
+"3075","Naranja, FL",1
+"3076","Naschitti, NM",1
+"3077","Nashua, NH",2
+"3078","Nashville, IN",1
+"3079","Nashville, TN",28
+"3080","Natchez, MS",2
+"3081","Natchitoches, LA",3
+"3082","National City, CA",3
+"3083","Navarre, FL",2
+"3084","NE White, GA",1
+"3085","Nebo, NC",1
+"3086","Nederland, TX",1
+"3087","Needham, IN",1
+"3088","Needles, CA",2
+"3089","Needville, TX",1
+"3090","Neelyville, MO",1
+"3091","Neenah, WI",3
+"3092","Neillsville, WI",1
+"3093","Nekimi, WI",1
+"3094","Nelsonville, OH",1
+"3095","Neosho, MO",1
+"3096","Nephi, UT",1
+"3097","Neskowin, OR",1
+"3098","Nettleton, MS",1
+"3099","Nevada, IA",1
+"3100","Nevada, MO",1
+"3101","New Albany, IN",1
+"3102","New Albany, MS",2
+"3103","New Alexandria, PA",1
+"3104","New Auburn, MN",1
+"3105","New Berlin, WI",1
+"3106","New Bern, NC",3
+"3107","New Boston, TX",1
+"3108","New Braunfels, TX",1
+"3109","New Britain, CT",2
+"3110","New Brunswick, NJ",1
+"3111","New Carrollton, MD",1
+"3112","New Castle, CO",1
+"3113","New Castle, DE",2
+"3114","New Castle, IN",3
+"3115","New Castle, PA",2
+"3116","New Castle, VA",1
+"3117","New Center, TN",1
+"3118","New City, NY",4
+"3119","New Cordell, OK",1
+"3120","New Haven, CT",1
+"3121","New Haven, IN",1
+"3122","New Hope, MN",1
+"3123","New Iberia, LA",4
+"3124","New Kensington, PA",2
+"3125","New Lenox, IL",1
+"3126","New Lisbon, IN",1
+"3127","New Llano, LA",1
+"3128","New London, CT",1
+"3129","New London, WI",1
+"3130","New Market, TN",1
+"3131","New Milford, CT",1
+"3132","New Orleans, LA",15
+"3133","New Paltz, NY",1
+"3134","New Philadelphia, OH",1
+"3135","New Pittsburg, IN",1
+"3136","New Port Richey, FL",3
+"3137","New Rochelle, NY",3
+"3138","New Salem, ND",2
+"3139","New Smyrna Beach, FL",1
+"3140","New Straitsville, OH",1
+"3141","New Underwood, SD",1
+"3142","New Wilmington, PA",1
+"3143","New York, NY",55
+"3144","Newalla, OK",1
+"3145","Newark, CA",4
+"3146","Newark, DE",1
+"3147","Newark, NJ",15
+"3148","Newberry, FL",1
+"3149","Newburgh, NY",1
+"3150","Newman Lake, WA",1
+"3151","Newman, CA",1
+"3152","Newnan, GA",3
+"3153","Newport Beach, CA",3
+"3154","Newport News, VA",7
+"3155","Newport, AR",1
+"3156","Newport, ME",1
+"3157","Newport, TN",3
+"3158","Newton Highlands, MA",1
+"3159","Newton, KS",2
+"3160","Newton, NC",2
+"3161","Newton, NH",1
+"3162","Newton, NJ",1
+"3163","Niagara Falls, NY",1
+"3164","Niagara, NY",1
+"3165","Niangua, MO",1
+"3166","Nice, CA",1
+"3167","Niceville, FL",1
+"3168","Nicholasville, KY",3
+"3169","Nicholls, GA",1
+"3170","Nichols, SC",1
+"3171","Nikolaevsk, AK",1
+"3172","Niles Charter Township, MI",1
+"3173","Niles, MI",1
+"3174","Niles, OH",1
+"3175","Nine Mile Falls, WA",1
+"3176","Niota, TN",1
+"3177","Nipomo, CA",1
+"3178","Nitro, WV",1
+"3179","nixon, NV",1
+"3180","Nocona, TX",1
+"3181","Nogales, AZ",4
+"3182","Nokomis, FL",1
+"3183","Nokomis, IL",1
+"3184","Noma, FL",1
+"3185","Norco, CA",4
+"3186","Norcross, GA",6
+"3187","Norfolk, NE",1
+"3188","Norfolk, VA",15
+"3189","Norfork, AR",1
+"3190","Normal, IL",1
+"3191","Norman, OK",4
+"3192","Norristown, PA",1
+"3193","North Augusta, SC",2
+"3194","North Aurora, IL",2
+"3195","North Bend, WA",1
+"3196","North Bergen, NJ",1
+"3197","North Branch, MN",1
+"3198","North Charleston, SC",8
+"3199","North East, MD",2
+"3200","North English, IA",1
+"3201","North Fort Myers, FL",2
+"3202","North Highlands, CA",2
+"3203","North Hollywood, CA",1
+"3204","North Hudson, NY",1
+"3205","North Knobs, NC",1
+"3206","North Las Vegas, NV",21
+"3207","North Lauderdale, FL",2
+"3208","North Liberty, IA",1
+"3209","North Little Rock, AR",7
+"3210","North Manchester, IN",1
+"3211","North Miami Beach, FL",3
+"3212","North Miami, FL",3
+"3213","North Middleton Township, PA",1
+"3214","North Ogden, UT",1
+"3215","North Olmsted, OH",1
+"3216","North Platte, NE",1
+"3217","North Pole, AK",2
+"3218","North Port, FL",4
+"3219","North Richland Hills, TX",1
+"3220","North Richmond, CA",1
+"3221","North Ridgeville, OH",1
+"3222","North Riverside, IL",2
+"3223","North Royalton, OH",1
+"3224","North Valley, NM",1
+"3225","North Vernon, IN",2
+"3226","Northampton, PA",1
+"3227","Northglenn, CO",5
+"3228","Northridge, OH",1
+"3229","Northville, NY",1
+"3230","Northwood, NH",1
+"3231","Northwood, OH",1
+"3232","Norwalk, CA",4
+"3233","Norwalk, CT",1
+"3234","Norwich Township, MI",1
+"3235","Norwich, CT",1
+"3236","Norwood, LA",1
+"3237","Notasulga, AL",1
+"3238","Nutter Fort, WV",2
+"3239","Nyssa, OR",1
+"3240","O'Fallon, MO",4
+"3241","O’Fallon, MO",1
+"3242","Oak Forest, IL",1
+"3243","Oak Grove, OR",2
+"3244","Oak Harbor, WA",2
+"3245","Oak Hill, OH",1
+"3246","Oak Hill, WV",1
+"3247","Oak Park, CA",1
+"3248","Oak Park, MI",1
+"3249","Oak Ridge, NJ",1
+"3250","Oak Ridge, TN",2
+"3251","Oak Ridge, TX",1
+"3252","Oak View, CA",2
+"3253","Oakdale, CT",1
+"3254","Oakfield, ME",1
+"3255","Oakland City, IN",1
+"3256","Oakland Park, FL",2
+"3257","Oakland, CA",22
+"3258","Oakland, TN",1
+"3259","Oakley, CA",1
+"3260","Oakridge, OR",1
+"3261","Oaks, OK",1
+"3262","Oakville, MO",1
+"3263","Oberlin, KS",1
+"3264","Ocala, FL",10
+"3265","Oceanside, CA",5
+"3266","Oceanside, NY",1
+"3267","Ocilla, GA",1
+"3268","Ocoee, FL",1
+"3269","Oconto, WI",1
+"3270","Odenton, MD",1
+"3271","Odenville, AL",2
+"3272","Odessa, MO",1
+"3273","Odessa, TX",10
+"3274","Ogden, NC",1
+"3275","Ogden, UT",14
+"3276","Ohatchee, AL",2
+"3277","Oil CIty, PA",1
+"3278","Oil Springs, KY",2
+"3279","Oildale, CA",4
+"3280","Okaloosa Island, FL",1
+"3281","Okarche, OK",1
+"3282","Okeechobee, FL",2
+"3283","Okemah, OK",1
+"3284","Oklahoma City , OK",70
+"3285","Okmulgee, OK",5
+"3286","Okolona, MS",1
+"3287","Olathe, KS",6
+"3288","Old Bridge, NJ",2
+"3289","Old Fields, WV",1
+"3290","Old Forge, PA",1
+"3291","Old Orchard Beach, ME",1
+"3292","Old Saybrook, CT",1
+"3293","Old Town, FL",1
+"3294","Old Town, ME",3
+"3295","Oldsmar, FL",1
+"3296","Olive Branch, MS",2
+"3297","Olive Hill, KY",1
+"3298","Olivehurst, CA",3
+"3299","Olivia, MN",1
+"3300","Olympia, WA",3
+"3301","Olympic Valley, CA",2
+"3302","Omaha , NE",30
+"3303","Ona, WV",1
+"3304","Onalaska, TX",1
+"3305","Onamia, MN",1
+"3306","Oneida, NY",1
+"3307","Oneida, TN",1
+"3308","Oneonta, AL",1
+"3309","Oneonta, NY",1
+"3310","Ono, CA",1
+"3311","Ontario, CA",14
+"3312","Ontario, OR",2
+"3313","Onyx, CA",1
+"3314","Ooltewah, TN",2
+"3315","Opa-locka, FL",1
+"3316","Opelika, AL",4
+"3317","Opp, AL",2
+"3318","Orange Beach, AL",1
+"3319","Orange City, FL",1
+"3320","Orange Park, FL",5
+"3321","Orange Springs, FL",1
+"3322","Orange, CA",3
+"3323","Orange, MA",1
+"3324","Orange, NJ",1
+"3325","Orange, VT",1
+"3326","Orangeburg, SC",1
+"3327","Orangefield, TX",1
+"3328","Orchard Mesa, CO",1
+"3329","Orchard Park, NY",1
+"3330","Orcutt, CA",3
+"3331","Oregon City, OR",1
+"3332","Oregon House, CA",2
+"3333","Oregon, WI",1
+"3334","Orem, UT",3
+"3335","Orland, CA",1
+"3336","Orlando, FL",51
+"3337","Orlando, WV",1
+"3338","Orleans, MI",1
+"3339","Ormond Beach, FL",3
+"3340","Oro Valley, AZ",1
+"3341","Orofino, ID",1
+"3342","Orosi, CA",1
+"3343","Oroville, CA",6
+"3344","Orrington, ME",1
+"3345","Orting, WA",1
+"3346","Orwell, OH",1
+"3347","Osceola, AR",1
+"3348","Oshkosh, WI",2
+"3349","Oshtemo Township, MI",1
+"3350","Osteen, FL",1
+"3351","Otay Mesa, CA",1
+"3352","Othello, WA",1
+"3353","Otsego, MN",1
+"3354","Ottawa, KS",1
+"3355","Otto Township, MI",1
+"3356","Ottumwa, IA",1
+"3357","Overland Park, KS",3
+"3358","Overland, MO",1
+"3359","Owasso, OK",2
+"3360","Owensboro, KY",4
+"3361","Owings Mills, MD",4
+"3362","Owingsville, KY",1
+"3363","Oxford, AL",3
+"3364","Oxford, MA",1
+"3365","Oxford, MS",6
+"3366","Oxnard, CA",4
+"3367","Oxon Hill, MD",2
+"3368","Ozark, AL",5
+"3369","Ozark, AR",2
+"3370","Ozark, MO",4
+"3371","Pacheco, CA",1
+"3372","Pacifica, CA",2
+"3373","Pacoima, CA",1
+"3374","Pacolet, SC",1
+"3375","Paden, OK",1
+"3376","Paducah, KY",2
+"3377","Pahoa, HI",1
+"3378","Pahrump, NV",5
+"3379","Painesville, OH",1
+"3380","Pajaro, CA",1
+"3381","Palacios, TX",1
+"3382","Palatine, IL",1
+"3383","Palatka, FL",3
+"3384","Palestine, TX",2
+"3385","Palm Bay, FL",10
+"3386","Palm Beach Gardens, FL",2
+"3387","Palm Beach, FL",1
+"3388","Palm City, FL",2
+"3389","Palm Desert, CA",1
+"3390","Palm Harbor, FL",1
+"3391","Palm Springs, CA",3
+"3392","Palmdale, CA",7
+"3393","Palmer, AK",2
+"3394","Palmetto Bay, FL",1
+"3395","Palmetto, FL",3
+"3396","Palmetto, GA",1
+"3397","Palmhurst, TX",1
+"3398","Palmyra, IN",1
+"3399","Palmyra, PA",2
+"3400","Palo Alto, CA",1
+"3401","Palos Hills, IL",1
+"3402","Pampa, TX",1
+"3403","Pana, IL",2
+"3404","Panama City Beach, FL",3
+"3405","Panama City, FL",5
+"3406","Panhandle, TX",1
+"3407","Panora, IA",1
+"3408","Panorama City, CA",2
+"3409","Papaaloa, HI",1
+"3410","Paradise Valley, AZ",1
+"3411","Paradise, CA",2
+"3412","Paradise, TX",1
+"3413","Paradox, CO",1
+"3414","Paragon, IN",1
+"3415","Paragould, AR",3
+"3416","Paramount, CA",6
+"3417","Pardeeville, WI",1
+"3418","Paris, KY",1
+"3419","Paris, TN",1
+"3420","Paris, TX",5
+"3421","Paris, WI",1
+"3422","Park Forest, IL",2
+"3423","Parker, AZ",2
+"3424","Parker, CO",2
+"3425","Parkersburg, WV",1
+"3426","Parkland, WA",2
+"3427","Parks, AZ",1
+"3428","Parkton, MD",1
+"3429","Parkton, NC",1
+"3430","Parkville, MD",4
+"3431","Parkwood Acres, FL",1
+"3432","Parma Heights, OH",1
+"3433","Parma, OH",2
+"3434","Parmelee, SD",1
+"3435","Parowan, UT",1
+"3436","Pasadena, CA",7
+"3437","Pasadena, MD",1
+"3438","Pasadena, TX",4
+"3439","Pascagoula, MS",1
+"3440","Pasco, WA",8
+"3441","Paso Robles, CA",3
+"3442","Passaic, NJ",2
+"3443","Paterson, NJ",10
+"3444","Patten, ME",1
+"3445","Patterson, LA",1
+"3446","Pattison, TX",1
+"3447","Paulden, AZ",1
+"3448","Pawleys Island, SC",1
+"3449","Pawtucket, RI",3
+"3450","Paxtonia, PA",1
+"3451","Payette, ID",1
+"3452","Payson, AZ",2
+"3453","Peachland, NC",1
+"3454","Peachtree City, GA",1
+"3455","Pearblossom, CA",1
+"3456","Pearisburg, VA",3
+"3457","Pearl City, HI",2
+"3458","Pearl River, LA",1
+"3459","Pearl, MS",1
+"3460","Pearland, TX",4
+"3461","Pearlington, MS",1
+"3462","Pearson, GA",1
+"3463","Pecos, TX",1
+"3464","Peculiar, MO",1
+"3465","Pedro, OH",1
+"3466","Peebles, OH",1
+"3467","Pelahatchie, MS",2
+"3468","Pelion, SC",1
+"3469","Pell City, AL",1
+"3470","Pelzer, SC",1
+"3471","Pemberton, NJ",2
+"3472","Pembine, WI",1
+"3473","Pembroke Pines, FL",2
+"3474","Pembroke, NC",1
+"3475","Penasco, NM",1
+"3476","Pendleton, IN",1
+"3477","Pendleton, OR",1
+"3478","Pendleton, SC",1
+"3479","Penn Hills, PA",2
+"3480","Pennsburg, PA",1
+"3481","Penrose, NC",1
+"3482","Pensacola Beach, FL",2
+"3483","Pensacola, FL",11
+"3484","Peoria, AZ",10
+"3485","Peoria, IL",4
+"3486","Perdido Key, FL",1
+"3487","Perdido, AL",1
+"3488","Perris, CA",11
+"3489","Perry Hall, MD",1
+"3490","Perry, FL",2
+"3491","Perry, GA",1
+"3492","Perry, OH",1
+"3493","Perry, OK",2
+"3494","Perryopolis, PA",1
+"3495","Perrysburg, OH",2
+"3496","Perryville, AR",2
+"3497","Perth Amboy, NJ",1
+"3498","Petal, MS",1
+"3499","Petaluma, CA",1
+"3500","Peterborough, NH",1
+"3501","Petroleum, WV",1
+"3502","Peyton, CO",1
+"3503","Pflugerville, TX",1
+"3504","Pharr, TX",1
+"3505","Phelps, KY",1
+"3506","Phenix City, AL",6
+"3507","Phenix, AL",1
+"3508","Philadelphia, PA",64
+"3509","Philipsburg, MT",1
+"3510","Phillips, ME",1
+"3511","Phillipsburg, NJ",1
+"3512","Phoenix, AZ",178
+"3513","Phoenix, MD",1
+"3514","Pico Rivera, CA",4
+"3515","Piedmont, AL",2
+"3516","Piedmont, SC",4
+"3517","Pigeon Forge, TN",2
+"3518","Pikesville, MD",2
+"3519","Piketon, OH",1
+"3520","Pikeville, TN",1
+"3521","Pilot Point, TX",1
+"3522","Pilot Station, AK",1
+"3523","Pine Bluff, AR",5
+"3524","Pine Hills, FL",2
+"3525","Pine Lawn, MO",1
+"3526","Pine Ridge, FL",1
+"3527","Pine Ridge, SD",1
+"3528","Pine River, WI",2
+"3529","Pine Top, KY",1
+"3530","Pine, AZ",1
+"3531","Pine, CO",1
+"3532","Pinecrest, FL",1
+"3533","Pinellas Park, FL",4
+"3534","Pinetop, AZ",2
+"3535","Pineville, KY",1
+"3536","Pineville, LA",6
+"3537","Pineville, NC",1
+"3538","Pinnacle, NC",1
+"3539","Pinon Hills, CA",1
+"3540","Pipestone Township, MI",1
+"3541","Pippa Passes, KY",1
+"3542","Pisgah, AL",2
+"3543","Pitkin, LA",1
+"3544","Pittsburg, CA",4
+"3545","Pittsburg, PA",1
+"3546","Pittsburgh, PA",15
+"3547","Pittsfield, MA",2
+"3548","Pittsfield, ME",1
+"3549","Pittsfield, NH",1
+"3550","Pittston, PA",1
+"3551","Pixley, CA",1
+"3552","Placentia, CA",1
+"3553","Placerville, CA",1
+"3554","Plainedge, NY",1
+"3555","Plainfield, IN",2
+"3556","Plains Township, PA",1
+"3557","Plainsboro, NJ",1
+"3558","Plainview, TX",1
+"3559","Plainville, KS",2
+"3560","Plainwell, MI",1
+"3561","Plano, KY",1
+"3562","Plano, TX",5
+"3563","Plant City, FL",6
+"3564","Plantation, FL",2
+"3565","Plaquemine, LA",2
+"3566","Platte City, MO",1
+"3567","Pleasant Hill, IA",1
+"3568","Pleasant Hill, NC",1
+"3569","Pleasant View, CO",1
+"3570","Pleasanton, CA",4
+"3571","Pleasanton, TX",1
+"3572","Pleasantville, NJ",1
+"3573","Plover, WI",1
+"3574","Plymouth, CA",1
+"3575","Plymouth, MN",1
+"3576","Plymouth, NH",1
+"3577","Pocahontas, AR",1
+"3578","Pocasset, OK",1
+"3579","Pocatello, ID",4
+"3580","Pocono Township, PA",1
+"3581","Poinciana, FL",1
+"3582","Point Arena, CA",1
+"3583","Point Hope, AK",1
+"3584","Polk City, FL",1
+"3585","Pollocksville, NC",1
+"3586","Pomona Park, FL",1
+"3587","Pomona, CA",10
+"3588","Pompano Beach, FL",7
+"3589","Ponca City, OK",2
+"3590","Ponchatoula, LA",1
+"3591","Pond Creek, OK",1
+"3592","Ponder, TX",1
+"3593","Ponte Vedra Beach, FL",1
+"3594","Pontiac, MI",2
+"3595","Pontotoc, MS",1
+"3596","Pooler, GA",1
+"3597","Poplar Bluff, MO",7
+"3598","Poplar Grove, IL",1
+"3599","Port Allegany, PA",1
+"3600","Port Allen, LA",3
+"3601","Port Angeles, WA",1
+"3602","Port Arthur, TX",7
+"3603","Port Barre, LA",1
+"3604","Port Barrington, IL",1
+"3605","Port Charlotte, FL",2
+"3606","Port Hueneme, CA",1
+"3607","Port Jervis, NY",1
+"3608","Port Neches, TX",2
+"3609","Port Orange, FL",4
+"3610","Port Orchard, WA",2
+"3611","Port Richey, FL",4
+"3612","Port St Lucie, FL",2
+"3613","Port St. Joe, FL",1
+"3614","Port St. Lucie, FL",2
+"3615","Port Vincent, LA",1
+"3616","Port Wentworth, GA",1
+"3617","Portage Lake, ME",1
+"3618","Portage, IN",2
+"3619","Portage, MI",1
+"3620","Porter Township, PA",1
+"3621","Porter, TX",1
+"3622","Porterdale, GA",1
+"3623","Porterville, CA",4
+"3624","Portland, IN",1
+"3625","Portland, ME",2
+"3626","Portland, OR",35
+"3627","Portola, CA",1
+"3628","Portsmouth, VA",5
+"3629","Posen, IL",1
+"3630","Post Falls, ID",1
+"3631","Poteau, OK",2
+"3632","Poteet, TX",1
+"3633","Potomac Falls, VA",1
+"3634","Potomac, MD",1
+"3635","Potsdam, NY",1
+"3636","Pottstown, PA",2
+"3637","Poughkeepsie, NY",2
+"3638","Poulsbo, WA",1
+"3639","Poultney, VT",1
+"3640","Pound, WI",1
+"3641","Poway, CA",1
+"3642","Powder Springs, GA",3
+"3643","Powell, OH",1
+"3644","Powell, WY",1
+"3645","Powellsville , NC",1
+"3646","Powhatan Point, OH",1
+"3647","Powhatan, VA",1
+"3648","Prague, OK",1
+"3649","Pratt, KS",1
+"3650","Prescott Valley, AZ",3
+"3651","Prescott, AZ",7
+"3652","Presque Isle, ME",3
+"3653","Preston, ID",1
+"3654","Prestonsburg, KY",1
+"3655","Prewitt, NM",1
+"3656","Price, UT",1
+"3657","Priceville, AL",1
+"3658","Prichard, AL",2
+"3659","Prichard, WV",1
+"3660","Pride, LA",1
+"3661","Primrose, WI",1
+"3662","Princess Anne, MD",1
+"3663","Princeton, KY",1
+"3664","Princeton, NC",1
+"3665","Princeton, NJ",1
+"3666","Princeton, WV",3
+"3667","Prineville, OR",1
+"3668","Prompton, PA",1
+"3669","Prospect, CT",1
+"3670","Prosser, WA",1
+"3671","Providence, RI",4
+"3672","Provo, UT",3
+"3673","Prudenville, MI",1
+"3674","Pryor Creek, OK",1
+"3675","Pryor, MT",1
+"3676","Pueblo West, CO",1
+"3677","Pueblo, CO",34
+"3678","Pukalani, HI",1
+"3679","Pulaski, VA",1
+"3680","Pullman, WA",1
+"3681","Puna, HI",1
+"3682","Punta Gorda, FL",4
+"3683","Purcell, OK",1
+"3684","Purcellville, VA",1
+"3685","Purgitsville, WV",1
+"3686","Puryear, TN",1
+"3687","Puyallup, WA",6
+"3688","Quanah, TX",1
+"3689","Quartzsite, AZ",2
+"3690","Queen Creek, AZ",1
+"3691","Queens, NY",9
+"3692","Quimby, LA",1
+"3693","Quincy, FL",1
+"3694","Quincy, IL",3
+"3695","Quincy, MA",1
+"3696","Quincy, WA",1
+"3697","Quinlan, TX",1
+"3698","Quitman, GA",1
+"3699","Quitman, TX",1
+"3700","Raceland, LA",1
+"3701","Racine, WI",5
+"3702","Radnor Township, PA",1
+"3703","Raeford, NC",3
+"3704","Ragley, LA",1
+"3705","Rainbow City, AL",2
+"3706","Raleigh, NC",15
+"3707","Raleigh, TN",2
+"3708","Ramseur, NC",1
+"3709","Ramsey, MN",1
+"3710","Ranburne, AL",1
+"3711","Rancho Calaveras, CA",1
+"3712","Rancho Cordova, CA",3
+"3713","Rancho Cucamonga, CA",5
+"3714","Rancho Mirage, CA",3
+"3715","Rancho Santa Margarita, CA",1
+"3716","Rancho, CA",1
+"3717","Ranchos De Taos, NM",1
+"3718","Randallstown, MD",3
+"3719","Randolph, MA",1
+"3720","Randolph, MO",1
+"3721","Rangeley Plantation, ME",1
+"3722","Rangely, CO",1
+"3723","Ranger, WV",1
+"3724","Ranlo, NC",1
+"3725","Ransom, KS",1
+"3726","Rantoul, IL",3
+"3727","Rapid City, SD",16
+"3728","Rapidan, VA",1
+"3729","Raton, NM",1
+"3730","Ravenel, SC",1
+"3731","Ravenna Township, MI",1
+"3732","Ravenna Township, OH",1
+"3733","Ravenna, OH",1
+"3734","Rawlings, MD",1
+"3735","Rawlins, WY",1
+"3736","Ray City, GA",1
+"3737","Raymond, MS",2
+"3738","Raymore, MO",1
+"3739","Rayne, LA",1
+"3740","Raynham, MA",1
+"3741","Raytown, MO",3
+"3742","Reading, MA",1
+"3743","Reading, MI",1
+"3744","Reading, OH",1
+"3745","Reading, PA",5
+"3746","Reagan, TN",1
+"3747","Rector, AR",1
+"3748","Red Bluff, CA",7
+"3749","Red Bud, IL",1
+"3750","Red Feather Lakes, CO",1
+"3751","Red Springs, NC",1
+"3752","Redan, GA",1
+"3753","Redding, CA",19
+"3754","Redford Charter Township, MI",1
+"3755","Redlands, CA",8
+"3756","Redmond, OR",1
+"3757","Redmond, WA",1
+"3758","Redondo Beach, CA",3
+"3759","Redwood City, CA",5
+"3760","Reed Point, MT",1
+"3761","Reedley, CA",2
+"3762","Reedsport, OR",3
+"3763","Refugio, TX",1
+"3764","Rehoboth Beach, DE",1
+"3765","Reidsville, GA",1
+"3766","Reisterstown, MD",1
+"3767","Rembert, SC",1
+"3768","Renfrew, PA",1
+"3769","Reno, NV",23
+"3770","Reno, TX",1
+"3771","Rensselaer, IN",1
+"3772","Renton, WA",4
+"3773","Republic, MO",1
+"3774","Reston, VA",2
+"3775","Rex, GA",2
+"3776","Rexburg, ID",2
+"3777","Reynoldsville, WV",1
+"3778","Rialto, CA",7
+"3779","Rice Lake, WI",1
+"3780","Rice, WA",1
+"3781","Richard City, TN",1
+"3782","Richardson, TX",2
+"3783","Richburg, SC",1
+"3784","Richfield, MN",1
+"3785","Richland Hills, TX",1
+"3786","Richland, MS",1
+"3787","Richland, WA",1
+"3788","Richlands, NC",1
+"3789","Richmond Heights, OH",1
+"3790","Richmond Hill, NY",1
+"3791","Richmond West, FL",1
+"3792","Richmond, CA",7
+"3793","Richmond, IL",1
+"3794","Richmond, KY",2
+"3795","Richmond, TX",1
+"3796","Richmond, VA",17
+"3797","Richton Park, IL",1
+"3798","Richvale, CA",1
+"3799","Richwoods, MO",2
+"3800","Riddle, ID",1
+"3801","Ridge, VA",1
+"3802","Ridgecrest, CA",4
+"3803","Ridgefield, CT",1
+"3804","Ridgefield, WA",3
+"3805","Ridgeland, MS",1
+"3806","Ridgeway, VA",1
+"3807","Riesel, TX",1
+"3808","Rifle, CO",1
+"3809","Rigby, ID",2
+"3810","Rincon, GA",1
+"3811","Ringgold, GA",2
+"3812","Rio Linda, CA",1
+"3813","Rio Rancho, NM",2
+"3814","Rio Rico, AZ",2
+"3815","Ripley, MS",1
+"3816","Ripon, CA",2
+"3817","Ripperdan, CA",1
+"3818","Rising Sun, MD",2
+"3819","Ritzville, WA",1
+"3820","River Forest, IL",1
+"3821","River Ridge, LA",1
+"3822","Riverbank, CA",2
+"3823","Riverdale Park, MD",1
+"3824","Riverdale, GA",3
+"3825","Riverdale, UT",1
+"3826","Riverside, CA",23
+"3827","Riverside, TX",1
+"3828","Riverside, WA",1
+"3829","Riverton, UT",4
+"3830","Riverton, WY",3
+"3831","Riverview, FL",6
+"3832","Roan Mountain, TN",1
+"3833","Roanoke Rapids, NC",1
+"3834","Roanoke, VA",8
+"3835","Roaring Spring, PA",1
+"3836","Robbins, IL",1
+"3837","Robbins, NC",1
+"3838","Robbinsdale, MN",1
+"3839","Robbinsville, NC",1
+"3840","Robert, LA",1
+"3841","Roberta, GA",1
+"3842","Robertsdale, AL",3
+"3843","Robertsville, MO",1
+"3844","Robinson, TX",1
+"3845","Robinsonville, MS",1
+"3846","Rochester, IN",1
+"3847","Rochester, MN",2
+"3848","Rochester, NH",3
+"3849","Rochester, NY",13
+"3850","Rochester, WA",2
+"3851","Rock Falls, IL",2
+"3852","Rock Hill, NY",1
+"3853","Rock Hill, SC",2
+"3854","Rock Island, IL",5
+"3855","Rockaway Beach, OR",1
+"3856","Rockdale, TX",1
+"3857","Rockford, IL",8
+"3858","Rockford, MI",1
+"3859","Rockledge, FL",1
+"3860","Rocklin, CA",1
+"3861","Rockport, TX",1
+"3862","Rockville, IN",1
+"3863","Rockville, MD",1
+"3864","Rockwall, TX",2
+"3865","Rockwell, NC",1
+"3866","Rockwood, MI",1
+"3867","Rockwood, TN",1
+"3868","Rocky Face, GA",2
+"3869","Rocky Ford, CO",1
+"3870","Rocky Hill, KY",1
+"3871","Rogers, AR",1
+"3872","Rogersville, TN",1
+"3873","Rohnert Park, CA",1
+"3874","Roland, OK",1
+"3875","Roma, TX",1
+"3876","Romance, AR",1
+"3877","Rome, GA",4
+"3878","Rome, NY",1
+"3879","Rome, OH",1
+"3880","Romeoville, IL",1
+"3881","Romulus, MI",1
+"3882","Roopville, GA",1
+"3883","Roosevelt, UT",1
+"3884","Rosalia, KS",1
+"3885","Rosamond, CA",2
+"3886","Rose Bud, AR",1
+"3887","Rosebud, SD",2
+"3888","Roseburg, OR",2
+"3889","Rosedale, MD",1
+"3890","Rosemead, CA",3
+"3891","Rosemont, IL",1
+"3892","Rosenberg, TX",3
+"3893","Roseville, CA",1
+"3894","Roseville, MI",1
+"3895","Roseville, MN",2
+"3896","Roslindale, MA",1
+"3897","Rosser, TX",1
+"3898","Rossville, GA",4
+"3899","Roswell, GA",6
+"3900","Roswell, NM",13
+"3901","Rotterdam, NY",1
+"3902","Rougemont, NC",1
+"3903","Round Lake Beach, IL",1
+"3904","Round Lake, IL",2
+"3905","Round Rock, TX",11
+"3906","Rouseville, PA",1
+"3907","Rowe, NM",1
+"3908","Rowland Heights, CA",2
+"3909","Rowlett, TX",2
+"3910","Rowsburg, OH",1
+"3911","Roxboro, NC",1
+"3912","Roxoboro, NC",1
+"3913","Roy, UT",5
+"3914","Royal Oak, MI",3
+"3915","Royal, AR",1
+"3916","Rudolph, OH",1
+"3917","Rufe, OK",1
+"3918","Ruidoso, NM",3
+"3919","Rumford, ME",1
+"3920","Rush Springs, OK",1
+"3921","Rushville, IN",1
+"3922","Rushville, NE",1
+"3923","Rusk, TX",1
+"3924","Ruskin, FL",1
+"3925","Russell Springs, KY",1
+"3926","Russell, NY",1
+"3927","Russellville, AR",2
+"3928","Russellville, KY",1
+"3929","Russelville, KY",1
+"3930","Ruston, LA",2
+"3931","Ruth, MS",1
+"3932","Ruther Glen, VA",1
+"3933","Rutherford, NJ",1
+"3934","Rutherfordton, NC",2
+"3935","Rutland, VT",2
+"3936","Rutledge, TN",1
+"3937","Saco, MT",1
+"3938","Sacramento, CA",33
+"3939","Safety Harbor, FL",2
+"3940","Safford, AL",1
+"3941","Safford, AZ",2
+"3942","Saginaw, MI",3
+"3943","Sahuarita, AZ",1
+"3944","Saint Mary's, AK",1
+"3945","Saint Paul, MN",1
+"3946","Saint Petersburg, FL",2
+"3947","Salcha, AK",1
+"3948","Sale Creek, TN",1
+"3949","Salem, AL",1
+"3950","Salem, CT",1
+"3951","Salem, IN",1
+"3952","Salem, MO",1
+"3953","Salem, OR",18
+"3954","Salem, WI",1
+"3955","Salemburg, NC",2
+"3956","Salida, CO",1
+"3957","Salina, KS",4
+"3958","Salina, NY",1
+"3959","Salinas, CA",14
+"3960","Salisbury, MA",1
+"3961","Salisbury, MD",5
+"3962","Salisbury, NC",7
+"3963","Sallisaw, OK",4
+"3964","Salt Lake City, UT",34
+"3965","Saltlick Township, PA",1
+"3966","Salton City, CA",1
+"3967","Salyersville, KY",1
+"3968","San Andreas, CA",2
+"3969","San Angelo, TX",7
+"3970","San Antonio, TX",123
+"3971","San Benito, TX",4
+"3972","San Bernardino, CA",32
+"3973","San Bruno, CA",1
+"3974","San Clemente, CA",1
+"3975","San Diego, CA",61
+"3976","San Fernando, CA",5
+"3977","San Fidel, NM",1
+"3978","San Francisco, CA",32
+"3979","San Gabriel, CA",2
+"3980","San Jacinto, CA",3
+"3981","San Joaquin, CA",1
+"3982","San Jose, CA",31
+"3983","San Jose, FL",1
+"3984","San Juan Capistrano, CA",1
+"3985","San Leandro, CA",4
+"3986","San Leon, TX",1
+"3987","San Lorenzo, CA",1
+"3988","San Luis Obispo, CA",1
+"3989","San Luis, AZ",1
+"3990","San Manuel, AZ",1
+"3991","San Marcos, CA",3
+"3992","San Marcos, TX",5
+"3993","San Mateo, CA",1
+"3994","San Mateo, FL",1
+"3995","San Pablo, CA",1
+"3996","San Rafael, NM",1
+"3997","San Tan Valley, AZ",1
+"3998","San Ysidro, CA",1
+"3999","Sand City, CA",3
+"4000","Sand Springs, OK",1
+"4001","Sanders, AZ",1
+"4002","Sanderson, FL",1
+"4003","Sandersville, GA",1
+"4004","Sandia Park, NM",1
+"4005","Sandia, TX",1
+"4006","Sandpoint, ID",3
+"4007","Sandston, VA",2
+"4008","Sandy Springs, GA",1
+"4009","Sandy, UT",4
+"4010","Sandyville, WV",1
+"4011","Sanford, FL",2
+"4012","Sanford, NC",4
+"4013","Sanger, TX",3
+"4014","Santa Ana, CA",21
+"4015","Santa Barbara, CA",2
+"4016","Santa Clara, CA",4
+"4017","Santa Clarita, CA",8
+"4018","Santa Cruz, CA",2
+"4019","Santa Fe Springs, CA",1
+"4020","Santa Fe, NM",13
+"4021","Santa Maria, CA",6
+"4022","Santa Monica, CA",3
+"4023","Santa Nella Village, CA",1
+"4024","Santa Paula, CA",1
+"4025","Santa Rosa, CA",4
+"4026","Santee, CA",2
+"4027","Sapulpa, OK",2
+"4028","Saraland, AL",1
+"4029","Saranac Lake, NY",1
+"4030","Sarasota, FL",7
+"4031","Saratoga Springs, NY",1
+"4032","Saratoga Springs, UT",2
+"4033","Saratoga, CA",2
+"4034","Saratoga, NC",1
+"4035","Sardis, GA",1
+"4036","Sasabe, AZ",1
+"4037","Satsuma, FL",1
+"4038","Saugus, MA",1
+"4039","Savannah, GA",18
+"4040","Savannah, TN",1
+"4041","Sawmills, NC",1
+"4042","Saybrook Township, OH",1
+"4043","Sayre, OK",1
+"4044","Scappoose, OR",1
+"4045","Scarbro, WV",1
+"4046","Schenectady, NY",4
+"4047","Schertz, TX",2
+"4048","Schuyler, NE",1
+"4049","Schuylkill Haven, PA",1
+"4050","Scio, OR",1
+"4051","Scottsbluff, NE",1
+"4052","Scottsdale, AZ",15
+"4053","Scranton, PA",1
+"4054","Seabrook, SC",1
+"4055","Seabrook, TX",1
+"4056","Seaford, DE",1
+"4057","Seagoville, TX",1
+"4058","Seagraves, TX",1
+"4059","Seal Beach, CA",2
+"4060","Seaside, CA",2
+"4061","Seaside, OR",2
+"4062","Seattle, WA",32
+"4063","Sebastopol, CA",1
+"4064","Sebeka, MN",2
+"4065","Sebewaing, MI",1
+"4066","Sebring, FL",5
+"4067","Secaucus, NJ",1
+"4068","Section, AL",1
+"4069","Security-Widefield, CO",1
+"4070","Sedalia, CO",1
+"4071","Sedalia, MO",3
+"4072","Sedona, AZ",3
+"4073","Sedro-Woolley, WA",1
+"4074","Seekonk, MA",1
+"4075","Seeley, CA",1
+"4076","Seguin, TX",6
+"4077","Selah, WA",2
+"4078","Selawik , AK",1
+"4079","Seligman, AZ",1
+"4080","Sells, AZ",1
+"4081","Selma, AL",4
+"4082","Selma, CA",1
+"4083","Selma, NC",1
+"4084","Selmer, TN",2
+"4085","Seminole, OK",1
+"4086","Seminole, TX",1
+"4087","Semmes, AL",2
+"4088","Senath, MO",1
+"4089","Senatobia, MS",3
+"4090","Seneca, OR",1
+"4091","Seneca, SC",1
+"4092","Senoia, GA",1
+"4093","Sequim, WA",1
+"4094","Sergeant Bluff, IA",1
+"4095","Seven Valleys, PA",1
+"4096","Sevierville, TN",3
+"4097","Seville, FL",1
+"4098","Sewanee, TN",1
+"4099","Seward, AK",1
+"4100","Sewickley, PA",1
+"4101","Seymour, IN",1
+"4102","Seymour, TN",1
+"4103","Shafter, CA",1
+"4104","Shakopee, MN",1
+"4105","Shallotte, NC",1
+"4106","Shannon Hills, AR",1
+"4107","Shannon, MS",2
+"4108","Sharon Hill, PA",1
+"4109","Sharon, PA",1
+"4110","Sharpsburg, GA",2
+"4111","Sharpsburg, KY",1
+"4112","Shawano, WI",1
+"4113","Shawnee, KS",1
+"4114","Shawnee, OK",2
+"4115","Sheboygan, WI",2
+"4116","Sheffield, IA",1
+"4117","Shelby Charter Township, MI",2
+"4118","Shelby, MT",1
+"4119","Shelby, NC",2
+"4120","Shelby, OH",1
+"4121","Shelbyville, IN",2
+"4122","Shelbyville, KY",3
+"4123","Shelbyville, TN",1
+"4124","Shelbyville, TX",1
+"4125","Sheldon, IL",1
+"4126","Shelley, ID",1
+"4127","Shelton, WA",2
+"4128","Shenandoah, LA",1
+"4129","Shenandoah, PA",1
+"4130","Shenandoah, TX",1
+"4131","Shepherdsville, KY",1
+"4132","Sheridan, AR",1
+"4133","Sheridan, WY",1
+"4134","Sherman, TX",2
+"4135","Sherrelwood, CO",1
+"4136","Sherwood, AR",1
+"4137","Sherwood, OR",2
+"4138","Shiner, TX",1
+"4139","Shiprock, NM",1
+"4140","Shirley, AR",1
+"4141","Shirley, NY",2
+"4142","Shoreline, WA",2
+"4143","Shoreview, MN",1
+"4144","Shorewood, IL",1
+"4145","Shreveport, LA",23
+"4146","Shrevport, LA",1
+"4147","Shullsburg, WI",1
+"4148","Sidney, NE",1
+"4149","Sidney, OH",1
+"4150","Sienna Plantation, TX",1
+"4151","Sierra Blanca, TX",2
+"4152","Sierra Vista, AZ",3
+"4153","Signal Hill, CA",1
+"4154","Sikeston, MO",2
+"4155","Siler City, NC",1
+"4156","Silsbee, TX",1
+"4157","Silver City, NM",1
+"4158","Silver City, OK",1
+"4159","Silver Plume, CO",1
+"4160","Silver Spring Shores, FL",1
+"4161","Silver Spring, MD",7
+"4162","Silver Springs, FL",1
+"4163","Silver Springs, NV",2
+"4164","Silverthorne, CO",1
+"4165","Silverton, OR",2
+"4166","Simi Valley, CA",2
+"4167","Simms, TX",1
+"4168","Simpsonville, KY",1
+"4169","Simpsonville, SC",2
+"4170","Sims, IN",1
+"4171","Simsboro, LA",1
+"4172","Sinton, TX",1
+"4173","Sioux City, IA",4
+"4174","Sioux Falls, SD",10
+"4175","Sisters, OR",1
+"4176","Skyline, AL",1
+"4177","Slidell, LA",2
+"4178","Smartsville, CA",1
+"4179","Smithfield Township, PA",1
+"4180","Smiths Station, AL",1
+"4181","Smithville, MS",1
+"4182","Smyrna Mills, ME",1
+"4183","Smyrna, DE",1
+"4184","Smyrna, GA",7
+"4185","Smyrna, TN",1
+"4186","Sneads, FL",2
+"4187","Snellville, GA",2
+"4188","Snohomish, WA",2
+"4189","Snyder, TX",2
+"4190","Social Circle, GA",1
+"4191","Socorro, NM",1
+"4192","Socorro, TX",1
+"4193","Soddy Daisy, TN",2
+"4194","Soddy-Daisy, TN",2
+"4195","Sodus, NY",1
+"4196","Solon, OH",1
+"4197","Solvang, CA",1
+"4198","Somerset, KY",1
+"4199","Somerset, PA",1
+"4200","Somerset, TX",1
+"4201","Somerton, AZ",1
+"4202","Somerville, TN",1
+"4203","Somerville, TX",1
+"4204","Sonoma, CA",1
+"4205","Sonora, CA",2
+"4206","Sopchoppy, FL",1
+"4207","South Bend, IN",6
+"4208","South Berwick, ME",1
+"4209","South Brunswick, NJ",2
+"4210","South Charleston, OH",1
+"4211","South Chesterfield, VA",1
+"4212","South Daytona, FL",2
+"4213","South El Monte, CA",2
+"4214","South Elgin, IL",1
+"4215","South Euclid, OH",1
+"4216","South Fulton, TN",1
+"4217","South Gate, CA",7
+"4218","South Haven, IN",1
+"4219","South Hill, VA",2
+"4220","South Holland, IL",1
+"4221","South Jordan, UT",4
+"4222","South Lake Tahoe, CA",2
+"4223","South Lebanon, OH",1
+"4224","South Lyon, MI",1
+"4225","South Milwaukee, WI",1
+"4226","South Ogden, UT",1
+"4227","South Pasadena, CA",2
+"4228","South Pittsburg, TN",1
+"4229","South Portland, ME",1
+"4230","South River, NJ",1
+"4231","South Salt Lake, UT",2
+"4232","South San Francisco, CA",1
+"4233","South Sioux City, NE",1
+"4234","South Tucson, AZ",1
+"4235","Southaven, MS",5
+"4236","Southeast, NY",1
+"4237","Southfield, MI",3
+"4238","Southgate, OR",1
+"4239","Southington, OH",1
+"4240","Southold, NY",1
+"4241","Spanaway, WA",5
+"4242","Spanish Fork, UT",6
+"4243","Spanish Fort, AL",1
+"4244","Spanish Springs, NV",1
+"4245","Sparkman, AR",1
+"4246","Sparks, NV",14
+"4247","Sparta, NC",2
+"4248","Sparta, TN",4
+"4249","Sparta, WI",3
+"4250","Spartanburg, SC",8
+"4251","Speedway, IN",1
+"4252","Spencer, IN",1
+"4253","Spencer, MA",1
+"4254","Spencer, WV",2
+"4255","Sperry, OK",1
+"4256","Spirit Lake, ID",1
+"4257","Spiro, OK",2
+"4258","Splendora, TX",3
+"4259","Spokane Valley, WA",6
+"4260","Spokane, WA",34
+"4261","Sportsmen Acres, OK",1
+"4262","Spring Creek, NV",1
+"4263","Spring Garden Township, PA",1
+"4264","Spring Hill, FL",5
+"4265","Spring Hill, TN",1
+"4266","Spring Lake, NC",1
+"4267","Spring Valley, CA",1
+"4268","Spring Valley, NY",1
+"4269","Spring, TX",5
+"4270","Springdale, AR",5
+"4271","Springfield, AR",1
+"4272","Springfield, CO",1
+"4273","Springfield, FL",1
+"4274","Springfield, IL",3
+"4275","Springfield, MA",7
+"4276","Springfield, MO",22
+"4277","Springfield, OH",2
+"4278","Springfield, OR",5
+"4279","Springfield, TN",1
+"4280","Springfield, VA",2
+"4281","Springtown, TX",1
+"4282","Springville, AL",1
+"4283","Springville, IN",1
+"4284","Springville, UT",2
+"4285","Spruce Pine, NC",1
+"4286","St Augustine, FL",2
+"4287","St Charles, IL",1
+"4288","St George, UT",1
+"4289","St Joseph, IL",1
+"4290","St Martinville, LA",1
+"4291","St Paul, MN",3
+"4292","St Petersburg, FL",3
+"4293","St. Albans, NY",1
+"4294","St. Albans, WV",1
+"4295","St. Augustine, FL",7
+"4296","St. Charles, MO",2
+"4297","St. Clair Shores, MI",1
+"4298","St. Clair, MO",1
+"4299","St. Cloud, FL",2
+"4300","St. Cloud, MN",4
+"4301","St. Croix Falls, WI",1
+"4302","St. George, SC",1
+"4303","St. Ignatius, MT",1
+"4304","St. James, MN",1
+"4305","St. John, IN",1
+"4306","St. Johns, FL",2
+"4307","St. Joseph, LA",1
+"4308","St. Joseph, MI",1
+"4309","St. Joseph, MO",4
+"4310","St. Louis Park, MN",2
+"4311","St. Louis, MO",64
+"4312","St. Matthews, SC",1
+"4313","St. Michael, MN",1
+"4314","St. Michaels, AZ",1
+"4315","St. Paul, MN",15
+"4316","St. Paul, NE",1
+"4317","St. Petersburg, FL",16
+"4318","St. Regis, MT",2
+"4319","St. Stephens, AL",1
+"4320","St. Thomas, PA",1
+"4321","Stafford, VA",3
+"4322","Stagecoach, TX",1
+"4323","Stamford, CT",1
+"4324","Stanfordville, NY",1
+"4325","Stanley, ID",1
+"4326","Stanley, NC",1
+"4327","Stanley, VA",1
+"4328","Stansbury Park, UT",1
+"4329","Stanton, CA",2
+"4330","Stanton, DE",1
+"4331","Stanton, KY",1
+"4332","Stanwood, WA",1
+"4333","Star Prairie, WI",1
+"4334","Star, ID",2
+"4335","Starke, FL",1
+"4336","State College, PA",1
+"4337","Staten Island, NY",2
+"4338","Statesboro, GA",4
+"4339","Statesville, NC",4
+"4340","Staunton, IL",1
+"4341","Sterling Heights, MI",1
+"4342","Sterling, AK",1
+"4343","Sterling, CO",1
+"4344","Sterling, VA",1
+"4345","Sterrett, AL",1
+"4346","Steubenville, OH",1
+"4347","Stevenson Ranch, CA",1
+"4348","Stevensville, MT",1
+"4349","Stewartstown, PA",1
+"4350","Stewartsville, MO",1
+"4351","Stillwater, MN",2
+"4352","Stillwater, OK",2
+"4353","Stock Island, FL",1
+"4354","Stockbridge, GA",3
+"4355","Stockton, CA",31
+"4356","Stockton, IL",1
+"4357","Stone Mountain, GA",6
+"4358","Stoneville, NC",1
+"4359","Stonewall, MS",2
+"4360","Stonington, CT",1
+"4361","Storm Lake, IA",1
+"4362","Stovall, NC",1
+"4363","Strasburg, CO",2
+"4364","Strasburg, VA",2
+"4365","Stratford, CA",1
+"4366","Stratford, CT",1
+"4367","Stratford, TX",1
+"4368","Streetman, TX",1
+"4369","Stringtown, OK",1
+"4370","Stromsburg, NE",1
+"4371","Strong, AR",1
+"4372","Strongs Prairie, WI",1
+"4373","Strongsville, OH",1
+"4374","Stroud, OK",1
+"4375","Stroudsburg, PA",2
+"4376","Struthers, OH",1
+"4377","Stuart, FL",1
+"4378","Studio City, CA",1
+"4379","Sturgeon, MO",1
+"4380","Stuttgart, AR",1
+"4381","Sublette, KS",1
+"4382","Suffield, CT",1
+"4383","Suffolk, VA",1
+"4384","Sugar Creek, MO",2
+"4385","Sugar Hill, GA",2
+"4386","Sugar Land, TX",3
+"4387","Sugar Valley, GA",1
+"4388","Sugarcreek, OH",1
+"4389","Sugarloaf, CA",1
+"4390","Suisun City, CA",2
+"4391","Suitland, MD",3
+"4392","Sullivan, IN",2
+"4393","Sullivan, MO",1
+"4394","Sulphur Springs, TX",2
+"4395","Sulphur, LA",2
+"4396","Sumas, WA",1
+"4397","Summerlin, NV",1
+"4398","Summersville, WV",3
+"4399","Summertown, TN",1
+"4400","Summerville, GA",1
+"4401","Summerville, SC",3
+"4402","Summit Cove, CO",1
+"4403","Summit Township, MI",1
+"4404","Summit, MS",1
+"4405","Sumner, WA",1
+"4406","Sumrall, MS",1
+"4407","Sumter, SC",2
+"4408","Sun City, AZ",3
+"4409","Sun City, CA",1
+"4410","Sun City, KS",1
+"4411","Sun Valley, CA",1
+"4412","Sunbury, OH",1
+"4413","Sundance, WY",2
+"4414","Sunfield, MI",1
+"4415","Sunland Park, NM",2
+"4416","Sunman, IN",2
+"4417","Sunny Hills, FL",1
+"4418","Sunnyside, WA",1
+"4419","Sunnyvale, CA",8
+"4420","Sunrise, FL",4
+"4421","Sunset, TX",1
+"4422","Superior, CO",1
+"4423","Superior, MT",1
+"4424","Surfside Beach, SC",1
+"4425","Suring, WI",1
+"4426","Surprise, AZ",6
+"4427","Sutton-Alpine, AK",1
+"4428","Suwanee, GA",1
+"4429","Swan Quarter, NC",1
+"4430","Swartz, LA",1
+"4431","Swedesboro, NJ",1
+"4432","Sweetwater, TX",3
+"4433","Sylacauga, AL",3
+"4434","Sylvania Township, OH",2
+"4435","Sylvania, GA",1
+"4436","Sylvester, GA",3
+"4437","Syracuse, NY",11
+"4438","Syracuse, UT",1
+"4439","Table Grove, IL",1
+"4440","Tabor City, NC",1
+"4441","Tacoma, WA",23
+"4442","Taft, CA",1
+"4443","Tahlequah, OK",5
+"4444","Tahoka, TX",2
+"4445","Takoma Park, MD",2
+"4446","Talihina, OK",1
+"4447","Talking Rock, GA",3
+"4448","Talladega, AL",3
+"4449","Tallahassee, FL",16
+"4450","Tallapoosa, GA",2
+"4451","Tallassee, AL",1
+"4452","Tamaqua, PA",1
+"4453","Tamarac, FL",3
+"4454","Tampa, FL",27
+"4455","Taos Pueblo, NM",1
+"4456","Taos, NM",2
+"4457","Tarboro, NC",4
+"4458","Tarkio, MT",1
+"4459","Tarpon Springs, FL",3
+"4460","Tarzana, CA",1
+"4461","Taunton, MA",1
+"4462","Taylor Mill, KY",1
+"4463","Taylor, MI",1
+"4464","Taylors , SC",4
+"4465","Taylorsville, NC",1
+"4466","Taylorsville, UT",5
+"4467","Tazewell, TN",1
+"4468","Tecumseh, OK",1
+"4469","Tehachapi, CA",2
+"4470","Tell City, IN",2
+"4471","Tellico Plains, TN",1
+"4472","Temecula, CA",5
+"4473","Tempe, AZ",26
+"4474","Temperance, MI",1
+"4475","Temple City, CA",1
+"4476","Temple Hills, MD",2
+"4477","Temple Terrace, FL",1
+"4478","Temple, GA",2
+"4479","Temple, PA",1
+"4480","Temple, TX",7
+"4481","Tenino, WA",1
+"4482","Terre Haute, IN",7
+"4483","Terrell, TX",1
+"4484","Terrytown, LA",2
+"4485","Tewksbury, MA",1
+"4486","Texarkana, AR",2
+"4487","Texarkana, TX",1
+"4488","Texas city, TX",1
+"4489","The Colony, TX",1
+"4490","The Dalles, OR",2
+"4491","The Village, OK",1
+"4492","The Villages, FL",2
+"4493","The Woodlands, TX",1
+"4494","Theodore, AL",1
+"4495","Thermopolis, WY",2
+"4496","Theta, TN",1
+"4497","Thomaston, CT",1
+"4498","Thomaston, GA",1
+"4499","Thomasville, GA",3
+"4500","Thomasville, NC",1
+"4501","Thompson, IA",1
+"4502","Thonotosassa, FL",1
+"4503","Thornton, CO",12
+"4504","Thornton, IL",1
+"4505","Thornton, NH",1
+"4506","Thorsby, AL",1
+"4507","Thousand Oaks, CA",1
+"4508","Three Rivers, TX",1
+"4509","Three Way, TN",1
+"4510","Three Way, TX",1
+"4511","Thurmont, MD",1
+"4512","Tidewater, OR",1
+"4513","Tieton, WA",1
+"4514","Tiffin, OH",2
+"4515","Tifton, GA",1
+"4516","Tigard, OR",1
+"4517","Tillmans Corner, AL",1
+"4518","Timberlake, NC",1
+"4519","Timberville, VA",2
+"4520","Timmonsville, SC",1
+"4521","Tiro, OH",1
+"4522","Tishomingo, OK",2
+"4523","Titusville, AL",1
+"4524","Titusville, FL",4
+"4525","Tiverton, RI",1
+"4526","Toccoa, GA",1
+"4527","Tok, AK",1
+"4528","Toledo, OH",17
+"4529","Tolleson, AZ",1
+"4530","Tom, OK",1
+"4531","Tomball, TX",1
+"4532","Tome, NM",1
+"4533","Toms River, NJ",2
+"4534","Tonalea, AZ",1
+"4535","Tonasket, WA",1
+"4536","Tonopah, NV",1
+"4537","Tooele, UT",2
+"4538","Toone, TN",1
+"4539","Topeka, KS",13
+"4540","Topock, AZ",1
+"4541","Toppenish, WA",2
+"4542","Toppers, OK",1
+"4543","Topsham, ME",1
+"4544","Torrance, CA",7
+"4545","Torrence, CA",2
+"4546","Toulon, IL",1
+"4547","Town and Country, WA",1
+"4548","Townsend, GA",1
+"4549","Towson, MD",1
+"4550","Trabuco Canyon, CA",1
+"4551","Tracy City, TN",1
+"4552","Traphill, NC",1
+"4553","Travelers Rest, SC",1
+"4554","Trent Woods, NC",1
+"4555","Trenton, MI",1
+"4556","Trenton, NJ",9
+"4557","Trenton, TN",1
+"4558","Triangle, VA",1
+"4559","Trinidad, CO",5
+"4560","Trinity, AL",1
+"4561","Trinity, NC",1
+"4562","Trona, CA",1
+"4563","Trophy Club, TX",1
+"4564","Trotwood , OH",1
+"4565","Trout Creek, MT",1
+"4566","Troutdale, VA",1
+"4567","Troy, IL",1
+"4568","Troy, MI",1
+"4569","Troy, MO",2
+"4570","Troy, NY",3
+"4571","Troy, OH",2
+"4572","Trumann, AR",1
+"4573","Truth or Consequences, NM",1
+"4574","Tualatin, OR",2
+"4575","Tuba City, AZ",1
+"4576","Tucson , AZ",73
+"4577","Tucumcari, NM",2
+"4578","Tukwila, WA",3
+"4579","Tulare, CA",7
+"4580","Tularosa, NM",2
+"4581","Tullahoma, TN",1
+"4582","Tulsa, OK",55
+"4583","Tumwater, WA",1
+"4584","Tunbridge, VT",1
+"4585","Tupelo, MS",4
+"4586","Turlock, CA",3
+"4587","Turner, OR",1
+"4588","Turnertown, TX",1
+"4589","Tuscaloosa, AL",8
+"4590","Tuscambia, AL",1
+"4591","Tuscon, AZ",5
+"4592","Tuscumbia, AL",2
+"4593","Tustin, CA",4
+"4594","Twentynine Palms, CA",2
+"4595","Twinsburg, OH",1
+"4596","Two Rivers, WI",1
+"4597","Tyler , TX",2
+"4598","Tysons, VA",1
+"4599","Udall, KS",1
+"4600","Ukiah, CA",1
+"4601","Umatilla, FL",1
+"4602","Unadilla, NY",1
+"4603","Unincorporated, AL",1
+"4604","Unincorporated, CA",1
+"4605","Unincorporated, IN",1
+"4606","Unincorporated, MT",1
+"4607","Unincorporated, TX",2
+"4608","Union City, CA",4
+"4609","Union City, GA",2
+"4610","Union City, MI",1
+"4611","Union City, PA",1
+"4612","Union Park, FL",1
+"4613","Union Township, OH",1
+"4614","Union Township, PA",1
+"4615","Union, MS",1
+"4616","Union, NJ",2
+"4617","Union, SC",2
+"4618","Union, WV",1
+"4619","Uniondale, NY",2
+"4620","Uniontown, AL",1
+"4621","Uniontown, OH",1
+"4622","Uniontown, PA",1
+"4623","Unityville, PA",1
+"4624","Universal City, CA",1
+"4625","University City, MO",1
+"4626","University Place, WA",2
+"4627","Upland, CA",5
+"4628","Upper Darby, PA",3
+"4629","Upper Marlboro, MD",1
+"4630","Upper Saint Clair, PA",1
+"4631","Urbana, IN",1
+"4632","Urbandale, IA",1
+"4633","Utica, NY",3
+"4634","Uvalde, TX",1
+"4635","Vacaville, CA",5
+"4636","Valdosta, GA",5
+"4637","Valentine, NE",1
+"4638","Vallejo, CA",10
+"4639","Valley Center, CA",1
+"4640","Valley Head, WV",1
+"4641","Valparaiso, IN",2
+"4642","Valrico, FL",2
+"4643","Van Buren, AR",1
+"4644","Van Horn, TX",1
+"4645","Van Nuys, CA",1
+"4646","Vancleave, MS",1
+"4647","Vancouver, WA",19
+"4648","Vandalia, OH",1
+"4649","Vassalboro, ME",2
+"4650","Veguita, NM",1
+"4651","Ventnor, NJ",2
+"4652","Ventura, CA",4
+"4653","Venus, FL",1
+"4654","Vernal, UT",1
+"4655","Vernon Hills, IL",1
+"4656","Vernon, CA",1
+"4657","Vernon, TX",1
+"4658","Vero Beach, FL",6
+"4659","Verona, KY",1
+"4660","Verona, MO",1
+"4661","Versailles, MO",2
+"4662","Vesuvius, VA",1
+"4663","Vicco, KY",1
+"4664","Vici, OK",1
+"4665","Vicksburg, MS",1
+"4666","Victoria, TX",2
+"4667","Victorville, CA",16
+"4668","Vidor, TX",1
+"4669","Vienna, WV",1
+"4670","Viera, FL",2
+"4671","Villa Hills, KY",1
+"4672","Villa Park, IL",2
+"4673","Villa Ridge, MO",1
+"4674","Ville Platte, LA",2
+"4675","Vincennes, IN",2
+"4676","Vineland, NJ",5
+"4677","Vinita, OK",2
+"4678","Vinton, OH",1
+"4679","Vinton, TX",1
+"4680","Virginia Beach, VA",16
+"4681","Virginia, MN",1
+"4682","Visalia, CA",10
+"4683","Vista, CA",4
+"4684","Volant, PA",1
+"4685","Wabash, IN",2
+"4686","Waco, TX",10
+"4687","Wadesboro, NC",2
+"4688","Wadsworth, NV",1
+"4689","Wadsworth, OH",3
+"4690","Waelder, TX",1
+"4691","Waggaman, LA",1
+"4692","Wagner, SD",2
+"4693","Wagoner, OK",3
+"4694","Wahneta, FL",1
+"4695","Waianae, HI",2
+"4696","Wailua, HI",1
+"4697","Wailuku, HI",1
+"4698","Waimanalo, HI",1
+"4699","Waipahu, HI",2
+"4700","Wakarusa, KS",1
+"4701","Wake Forest, NC",2
+"4702","Waldoboro, ME",1
+"4703","Waldorf, MD",1
+"4704","Waldport, OR",1
+"4705","Wales, ME",1
+"4706","Waleska, GA",1
+"4707","Walker Township, PA",1
+"4708","Walla Walla, WA",1
+"4709","Wallace, NC",1
+"4710","Walland, TN",1
+"4711","Wallback, WV",1
+"4712","Walled Lake, MI",1
+"4713","Wallingford, CT",1
+"4714","Wallkill, NY",2
+"4715","Walls, MS",1
+"4716","Walnut Creek, CA",1
+"4717","Walnut Grove, TN",1
+"4718","Walnut Park, CA",1
+"4719","Walnut Ridge, AR",1
+"4720","Walnut, MS",1
+"4721","Walpole, NH",2
+"4722","Walterboro, SC",3
+"4723","Walton, IN",1
+"4724","Walton, NY",1
+"4725","Walton, WV",1
+"4726","Wamego, KS",1
+"4727","Wapanucka, OK",1
+"4728","Wapato, WA",3
+"4729","Warminster, PA",1
+"4730","Warner Robins, GA",2
+"4731","Warren, AR",1
+"4732","Warren, MI",3
+"4733","Warren, MN",1
+"4734","Warren, OH",4
+"4735","Warren, OR",1
+"4736","Warrensburg, MO",1
+"4737","Warrenton, OR",1
+"4738","Warrenville, SC",1
+"4739","Warrington, FL",1
+"4740","Warrior Run, PA",1
+"4741","Warrior, AL",1
+"4742","Warsaw, VA",1
+"4743","Warwick, NY",1
+"4744","Warwick, RI",1
+"4745","Wasau, WI",1
+"4746","Wasco, CA",3
+"4747","Washburn, TN",1
+"4748","Washington City, UT",1
+"4749","Washington Court House, OH",1
+"4750","Washington D.C., DC",1
+"4751","Washington Park, IL",1
+"4752","Washington Terrace, UT",1
+"4753","Washington, DC",45
+"4754","Washington, NC",2
+"4755","Washington, PA",3
+"4756","Washoe Tribe's Carson Colony, NV",1
+"4757","Wasilla, AK",10
+"4758","Watauga, TX",4
+"4759","Water Valley, MS",3
+"4760","Waterboro, ME",1
+"4761","Waterbury, CT",2
+"4762","Waterflow, NM",1
+"4763","Waterford Township, MI",1
+"4764","Waterford, CA",1
+"4765","Waterford, MI",1
+"4766","Waterloo, AL",1
+"4767","Waterloo, IA",5
+"4768","Waterloo, SC",1
+"4769","Watertown, MA",1
+"4770","Watertown, NY",1
+"4771","Watertown, TN",1
+"4772","Watertown, WI",2
+"4773","Waterville, ME",1
+"4774","Waterville, PA",1
+"4775","Watsontown, PA",1
+"4776","Watsonville, CA",1
+"4777","Watts, OK",1
+"4778","Wauchula, FL",1
+"4779","Wauconda, IL",1
+"4780","Waukegan, IL",4
+"4781","Waukesha, WI",7
+"4782","Wausau, WI",2
+"4783","Wauwatosa, WI",3
+"4784","Waverly, GA",1
+"4785","Waverly, OH",1
+"4786","Wawarsing, NY",1
+"4787","Waxahachie, TX",2
+"4788","Waycross, GA",2
+"4789","Wayne, MI",2
+"4790","Wayne, NJ",1
+"4791","Waynesboro, MS",1
+"4792","Waynesboro, VA",1
+"4793","Waynesburg, PA",1
+"4794","Waynesville, NC",1
+"4795","Wayzata, MN",1
+"4796","Weatherford, OK",1
+"4797","Weatherford, TX",6
+"4798","Webster City, IA",1
+"4799","Webster Groves, MO",1
+"4800","Webster Township, OH",1
+"4801","Webster, MA",1
+"4802","Webster, TX",1
+"4803","Weed, CA",2
+"4804","Weeki Wachee, FL",1
+"4805","Weippe, ID",1
+"4806","Weirton, WV",3
+"4807","Weitchpec, CA",1
+"4808","Welby, CO",1
+"4809","Welch, WV",1
+"4810","Welches, OR",2
+"4811","Welcome, NC",1
+"4812","Weldon Spring, MO",1
+"4813","Wellington, CO",1
+"4814","Wellington, FL",1
+"4815","Wellington, KS",1
+"4816","Wellington, NV",1
+"4817","Wellington, UT",1
+"4818","Wellman, IA",1
+"4819","Wellston, MO",1
+"4820","Wenatchee, WA",5
+"4821","Wendell, ID",1
+"4822","Wenonah, NJ",1
+"4823","Wentzville, MO",2
+"4824","Wernersville, PA",1
+"4825","Weslaco, TX",6
+"4826","Wesley Chapel, FL",1
+"4827","Wesson, MS",1
+"4828","West Allis, WI",2
+"4829","West Alton, MO",2
+"4830","West Ashley, SC",1
+"4831","West Buechel, KY",1
+"4832","West Chester, PA",1
+"4833","West Columbia, SC",3
+"4834","West Covina, CA",3
+"4835","West Des Moines, IA",2
+"4836","West End, FL",1
+"4837","West End, NC",1
+"4838","West Fargo, ND",1
+"4839","West Fork, AR",1
+"4840","West Hanover Township, PA",1
+"4841","West Hartford, CT",1
+"4842","West Haven City, UT",1
+"4843","West Haven, CT",4
+"4844","West Haven, UT",1
+"4845","West Helena, AR",2
+"4846","West Hollywood, CA",2
+"4847","West Jefferson, NC",1
+"4848","West Jordan, UT",7
+"4849","West Linn, OR",1
+"4850","West Melbourne, FL",2
+"4851","West Memphis, AR",5
+"4852","West Milford, WV",1
+"4853","West Milwaukee, WI",1
+"4854","West Monroe, LA",3
+"4855","West New York, NJ",1
+"4856","West Odessa, TX",1
+"4857","West Olive, MI",1
+"4858","West Orange, TX",1
+"4859","West Palm Beach, FL",13
+"4860","West Peoria, IL",1
+"4861","West Point, UT",1
+"4862","West Rancho Dominguez, CA",1
+"4863","West Richland, WA",2
+"4864","West Sacramento, CA",2
+"4865","West Springfield, MA",1
+"4866","West Sullivan, MO",1
+"4867","West Terre Haute, IN",1
+"4868","West Union, WV",1
+"4869","West Valinda, CA",1
+"4870","West Valley City, UT",5
+"4871","West Wendover (Wendover), NV",1
+"4872","West Whittier-Los Nietos, CA",1
+"4873","Westborough, MA",1
+"4874","Westbrook, CT",1
+"4875","Westbrook, ME",1
+"4876","Westchase, FL",1
+"4877","Westerville, OH",2
+"4878","Westfield , MA",1
+"4879","Westfield , PA",1
+"4880","Westfield Boro, PA",1
+"4881","Westlake, CA",1
+"4882","Westlake, OH",1
+"4883","Westland, MI",1
+"4884","Westminster, CA",3
+"4885","Westminster, CO",15
+"4886","Westminster, MD",1
+"4887","Westmont, CA",1
+"4888","Westmoreland, TN",1
+"4889","Weston, FL",1
+"4890","Weston, WI",2
+"4891","Weston, WV",3
+"4892","Westwego, LA",1
+"4893","Westwood Lakes, FL",2
+"4894","Westwood, OH",1
+"4895","Wethersfield, CT",1
+"4896","Wetumka, OK",1
+"4897","Wetumpka, AL",2
+"4898","Wewoka, OK",1
+"4899","Weymouth, MA",1
+"4900","Wheat Ridge, CO",5
+"4901","Wheatland, WY",1
+"4902","Wheaton, MD",1
+"4903","Wheeling, MO",1
+"4904","Wheeling, WV",1
+"4905","White Lake, SD",1
+"4906","White Marsh, MD",3
+"4907","White Pigeon, MI",1
+"4908","White Plains, KY",1
+"4909","White Plains, MD",2
+"4910","Whitehall, LA",1
+"4911","Whitehall, OH",2
+"4912","Whitehall, PA",1
+"4913","Whitehouse, TX",1
+"4914","Whitesburg, KY",1
+"4915","Whiteville, NC",1
+"4916","Whitewater, CA",1
+"4917","Whitmire, SC",1
+"4918","Whittier, CA",8
+"4919","Wichita Falls, TX",7
+"4920","Wichita, KS",27
+"4921","Wide Ruins, AZ",1
+"4922","Wilburton, OK",2
+"4923","Wildomar, CA",2
+"4924","Wildwood, FL",3
+"4925","Wilhoit, AZ",1
+"4926","Wilington , DE",1
+"4927","Wilkes-Barre, PA",1
+"4928","Wilkesboro, NC",1
+"4929","Wilkinsburg, PA",1
+"4930","Willard, UT",1
+"4931","Willcox, AZ",1
+"4932","Williams Township, PA",1
+"4933","Williamsburg, KY",1
+"4934","Williamsburg, VA",1
+"4935","Williamsport, PA",1
+"4936","Williamston, SC",1
+"4937","Williamstown, KY",1
+"4938","Willimantic, CT",2
+"4939","Willis, TX",2
+"4940","Willis, VA",1
+"4941","Williston Highlands, FL",1
+"4942","Williston, ND",1
+"4943","Willits, CA",1
+"4944","Willmar, MN",1
+"4945","Willoughby, OH",1
+"4946","Willow Creek, CA",1
+"4947","Willow Grove, PA",2
+"4948","Willowbrook, CA",1
+"4949","Wilmer, AL",1
+"4950","Wilmington, CA",2
+"4951","Wilmington, DE",8
+"4952","Wilmington, NC",10
+"4953","Wilmore, KY",1
+"4954","Wilson, NC",3
+"4955","Wilson, OK",1
+"4956","Wilsonville, OR",1
+"4957","Wilton Manors, FL",1
+"4958","Wimauma, FL",1
+"4959","Wimberley, TX",1
+"4960","Wimer, OR",1
+"4961","Winchester, CA",2
+"4962","Winchester, MA",1
+"4963","Winchester, TN",2
+"4964","Winchester, VA",2
+"4965","Winder, GA",1
+"4966","Windham Township, OH",1
+"4967","Windham, ME",1
+"4968","Window Rock, AZ",2
+"4969","Windsor, CA",1
+"4970","Windsor, CO",1
+"4971","Windsor, NC",1
+"4972","Windsor, WI",1
+"4973","Winfield, KS",1
+"4974","Wink, TX",1
+"4975","Winnemucca, NV",1
+"4976","Winnie, TX",2
+"4977","Winnsboro, LA",1
+"4978","Winnsboro, TX",1
+"4979","Winooski, VT",1
+"4980","Winslow, AZ",1
+"4981","Winslow, NJ",1
+"4982","Winston Salem, NC",1
+"4983","Winston-Salem, NC",10
+"4984","Winston, MO",1
+"4985","Winter Garden, FL",1
+"4986","Winter Haven, FL",6
+"4987","Winter Park, FL",2
+"4988","Winters, TX",1
+"4989","Winterville, NC",1
+"4990","Winthrop, MA",1
+"4991","Winton, CA",1
+"4992","Wishram, WA",1
+"4993","Wisner, LA",1
+"4994","Wolcott, CT",1
+"4995","Wolcott, IN",1
+"4996","Wolf Creek, OR",2
+"4997","Wolf Township, PA",1
+"4998","Wolfe City, TX",1
+"4999","Wolfforth, TX",1
+"5000","Wood River, IL",1
+"5001","Woodbine, GA",1
+"5002","Woodbridge Township, NJ",1
+"5003","Woodbridge Township, VA",1
+"5004","Woodbridge, NJ",1
+"5005","Woodbridge, VA",2
+"5006","Woodburn, KY",1
+"5007","Woodburn, OR",1
+"5008","Woodford, VA",1
+"5009","Woodinville, WA",1
+"5010","Woodland Park, CO",1
+"5011","Woodland, CA",3
+"5012","Woodland, UT",1
+"5013","Woodland, WA",1
+"5014","Woodlawn, MD",1
+"5015","Woodsboro, TX",1
+"5016","Woodstock, AL",1
+"5017","Woodstock, GA",1
+"5018","Woodville, CA",1
+"5019","Woodville, GA",1
+"5020","Woodville, TX",1
+"5021","Woodworth, ND",1
+"5022","Woolwine, VA",1
+"5023","woonsocket, RI",1
+"5024","Worcester, MA",2
+"5025","Worden, MT",1
+"5026","Worthington, WV",1
+"5027","Wrens, GA",1
+"5028","Wright, FL",1
+"5029","Wright, WY",1
+"5030","Wyandanch, NY",1
+"5031","Wylie, TX",1
+"5032","Wynne, AR",1
+"5033","Wynnewood, OK",1
+"5034","Wyoming, MI",3
+"5035","Wyoming, OH",1
+"5036","Wyomissing, PA",1
+"5037","Wytheville, VA",1
+"5038","Yakima, WA",8
+"5039","Yale, VA",1
+"5040","Yazoo City, MS",1
+"5041","Yellow Bluff, AL",1
+"5042","Yellow Springs, OH",1
+"5043","Yellville, AR",1
+"5044","Yerington, NV",1
+"5045","Yoder, CO",1
+"5046","Yonkers, NY",3
+"5047","Yorba Linda, CA",1
+"5048","York, NE",1
+"5049","York, PA",6
+"5050","York, SC",2
+"5051","Yorktown, VA",2
+"5052","Yorkville, IL",1
+"5053","Youngstown, OH",5
+"5054","Youngtown, AZ",1
+"5055","Yuba City, CA",4
+"5056","Yucaipa, CA",1
+"5057","Yucca Valley, CA",4
+"5058","Yukon, OK",1
+"5059","Yulee, FL",6
+"5060","Yuma, AZ",9
+"5061","Zanesville, OH",1
+"5062","Zebulon, NC",1
+"5063","Zephyrhills, FL",2
+"5064","Zillah, WA",1
+"5065","Zion, IL",4
