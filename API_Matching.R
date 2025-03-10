@@ -15,7 +15,7 @@ non_joinedmapping.acs.csv <- read.csv("/Users/aricaschuett/Documents/protest/She
 
 
 
-register_google(key = "AIzaSyD9VCokeOwl_UROkqeXPNGkZTsU4HUd8Cg")
+register_google(key = <Google API Key>)
 
 #Get a data frame of distinct locations:
   
