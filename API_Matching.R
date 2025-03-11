@@ -45,7 +45,7 @@ setwd(directory_shea)
 mapping<- read.csv("Mapping Police Violence.csv")
 names(mapping)
 
-#Create a variable that has the street adress, city, state and zip code of the police killing location
+#Create a variable that has the street address, city, state and zip code of the police killing location
 mapping$full_location<- paste(mapping$street_address, mapping$city, mapping$state, mapping$zip, sep = " ")
 
 
