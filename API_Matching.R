@@ -91,4 +91,7 @@ print(mapping)
 # View the error log data frame
 print(error_log)
 
+write.csv(mapping, "mapping_lat_lon.csv", row.names = F)
+write.csv(mapping_latlon, "mapping_geocode_check.csv", row.names = T)
 
+sum(is.na(mapping_latlon$lon))
