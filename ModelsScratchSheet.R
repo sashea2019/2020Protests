@@ -41,22 +41,22 @@ summary(ProtestKitchenSinkPctDeathRaceRatio)
 
 
 ### Post GF Protest as DV
-ProtestKitchenSink <- lm(PostGFProtest ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsCountPreGF, data = ProtestByCity)
+ProtestKitchenSink <- lm(PostGFProtestCount ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsCountPreGF, data = ProtestByCity)
 summary(ProtestKitchenSink)
 
-ProtestKitchenSink <- lm(PostGFProtest ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsCountPreGF20, data = ProtestByCity)
+ProtestKitchenSink <- lm(PostGFProtestCount ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsPreGF2020, data = ProtestByCity)
 summary(ProtestKitchenSink)
 nobs(ProtestKitchenSink) #712 obs
 
 
-ProtestKitchenSink <- lm(PostGFProtest ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsCountPreGF20Blk, data = ProtestByCity)
+ProtestKitchenSink <- lm(PostGFProtestCount ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsPreGF2020Blk, data = ProtestByCity)
 summary(ProtestKitchenSink)
 
 
-ProtestKitchenSinkPct <- lm(PostGFProtest ~ population + BlackPopPct + BlackPovRate + EduRate + VictimsCountPreGF, data = ProtestByCity)
+ProtestKitchenSinkPct <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + VictimCountPreGF, data = ProtestByCity)
 summary(ProtestKitchenSinkPct)
 
-ProtestKitchenSinkPct <- lm(PostGFProtest ~ population + BlackPopPct + BlackPovRate + EduRate + VictimsCountPreGFBlack, data = ProtestByCity)
+ProtestKitchenSinkPct <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + BlackVictimCountPreGF, data = ProtestByCity)
 summary(ProtestKitchenSinkPct)
 
 
@@ -74,3 +74,6 @@ ProtestByCity$VictimRaceRatio <- ProtestByCity$BlackVictimCountPreGF/ ProtestByC
 ProtestKitchenSinkPctDeathRaceRatio <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + VictimRaceRatio, data = ProtestByCity)
 summary(ProtestKitchenSinkPctDeathRaceRatio)
 
+ProtestKitchenSinkPctDeathRaceRatio <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate +
+                                            AntiTrumpProtestPreGFCount + VictimRaceRatio, data = ProtestByCity)
+summary(ProtestKitchenSinkPctDeathRaceRatio)

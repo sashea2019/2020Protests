@@ -123,7 +123,7 @@ AntiTrumpProtestPreGF <- ccc %>%
   filter(date <= "2020-05-25" & valence == 1) %>%
   group_by(PLACEFIPS) %>%
   summarize(AntiTrumpProtestPreGFCount = n())
-write.csv(AntiTrumpProtest, "/Users/aricaschuett/Documents/protest/Shea + Arica/ProtestMeanFull.csv")
+write.csv(AntiTrumpProtestPreGF, "/Users/aricaschuett/Documents/protest/Shea + Arica/ProtestMeanFull.csv")
 
 
 PostGFProtestCount <- ccc %>%
@@ -176,7 +176,7 @@ ProtestByCity <- left_join(ProtestByCity, BlackVictimCountPreGF, by= "PLACEFIPS"
 ProtestByCity <- left_join(ProtestByCity, VictimsPreGF2020, by= "PLACEFIPS", all = T)
 ProtestByCity <- left_join(ProtestByCity, VictimHighThreat, by= "PLACEFIPS", all = T)
 ProtestByCity <- left_join(ProtestByCity, AntiTrumpProtestPreGF, by= "PLACEFIPS", all = T)
-
+ProtestByCity <- left_join(ProtestByCity, VictimsPreGF2020Blk, by= "PLACEFIPS", all = T)
 
 acs_wide$PLACEFIPS <- acs_wide$GEOID
 
