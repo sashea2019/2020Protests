@@ -1,3 +1,5 @@
+library(ggplot2)
+
 ProtestByCity <- read.csv("/Users/aricaschuett/Documents/protest/ProtestByCity3-24.csv", row.names = NULL)
 
 
@@ -48,6 +50,7 @@ summary(ProtestCities$EduRate)
 summary(ProtestCities$CollegeStudents)
 summary(ProtestCities$AntiTrumpProtestPreGFCount)
 summary(ProtestCities$VictimsCount)
+#####
 
 
 
@@ -76,6 +79,32 @@ summary(m6)
 
 m7 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + AntiTrumpProtestPreGFCount + BlackVictimCountPreGF, data = ProtestByCity)
 summary(m7)
+p1 <- ggplot(ProtestByCity, aes(x = BlackVictimCountPreGF, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Black Victims of Police Violence ",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p1
+
+p2 <- ggplot(ProtestByCity, aes(x = VictimsCount, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Black Victims of Police Violence ",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p2
+
+p3 <- ggplot(ProtestByCity, aes(x = AntiTrumpProtestPreGFCount, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Victim Count",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p3
 
 m7a <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + AntiTrumpProtestPreGFCount + BlackVictimCountPreGF, data = ProtestCities)
 summary(m7a)
@@ -85,6 +114,7 @@ ProtestByCity$BlackVictimsRate <- ProtestByCity$VictimCountPreGF/ProtestByCity$p
 
 m8 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + AntiTrumpProtestPreGFCount+ PoliceDeathsRate, data = ProtestByCity)
 summary(m8)
+
 
 m9 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + BlackVictimsRate, data = ProtestByCity)
 summary(m9)
@@ -120,6 +150,8 @@ ProtestByCity$BlackVictimsRate <- ProtestByCity$BlackVictimCountPreGF/ProtestByC
 m16 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + PoliceDeathsRate, data = ProtestByCity)
 summary(m16)
 
+
+
 m17 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + BlackVictimsRate, data = ProtestByCity)
 summary(m17)
 
@@ -131,3 +163,14 @@ summary(m18)
 m19 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate +
                                             AntiTrumpProtestPreGFCount + VictimRaceRatio, data = ProtestByCity)
 summary(m19)
+p1 <- ggplot(ProtestByCity, aes(x = PoliceDeathsRate, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Police Deaths Rate (Victims per capita)",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p1
+m19a <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate +
+            AntiTrumpProtestPreGFCount + VictimRaceRatio, data = ProtestCities)
+summary(m19a)

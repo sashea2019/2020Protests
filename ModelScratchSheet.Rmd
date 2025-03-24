@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 library(dplyr)
 library(tidyr)
 library(knitr)
+library(ggplot2)
 ```
 
 ## Load and Clean Data
@@ -80,8 +81,38 @@ summary(ProtestCities$VictimsCount)
 ```{r model-8}
 m8 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + AntiTrumpProtestPreGFCount + PoliceDeathsRate, data = ProtestByCity)
 summary(m8)
-```
 
+```
+## Descriptive Plots
+```{r model scatter plots}
+
+p1 <- ggplot(ProtestByCity, aes(x = BlackVictimCountPreGF, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Black Victims of Police Violence ",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p1
+
+p2 <- ggplot(ProtestByCity, aes(x = VictimsCount, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Black Victims of Police Violence ",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p2
+
+p3 <- ggplot(ProtestByCity, aes(x = AntiTrumpProtestPreGFCount, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Victim Count",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p3
+```
 ### Model 9
 
 ```{r model-9}
