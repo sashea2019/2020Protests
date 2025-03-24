@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 
-#ccc.acs_complete <- read.csv("/Users/aricaschuett/Documents/protest/Shea + Arica/ccc.acs_complete.csv")
+ccc.acs_complete <- read.csv("/Users/aricaschuett/Documents/protest/Shea + Arica/ccc.acs_complete.csv")
 #ccc.acs <- read.csv("/Users/aricaschuett/Documents/protest/Shea + Arica/ccc-acsTotal.csv")
 #mapping.acs <- read.csv("/Users/aricaschuett/Documents/protest/Shea + Arica/mapping.acs.csv")
 #mapping <- read.csv("/Users/aricaschuett/Documents/protest/Shea + Arica/mapping.csv")
@@ -35,30 +35,35 @@ ccc <- ccc %>%
     date = ymd(date),  # Convert to Date type. # Begins Jan 1, 2017
     year = ymd(date  ))      # Extract year
 
-
-# filter date by 
+mapping <- filter(mapping, date < as.Date("2020-09-01" ))
+mapping <- filter(mapping, date > as.Date("2017-01-01" ))
+summary(mapping$date)
 mapping <- mapping %>%
-  mutate(mappingPreGF = ifelse(date >= "2017-01-01" & date <= "2020-05-20", 1, 0),
-         mappingPostGF = ifelse(date>= "2020-05-20" & date <= "2020-09-01", 1, 0),
-         mappingBlackOnlyPreGF = ifelse(race == "Black" & date >= "2017-01-01" & date <= "2020-05-20", 1, 0),
-         mappingBlackOnlyPostGF = ifelse(race == "Black" & date >= "2020-05-20" & date <= "2020-09-01", 1, 0))
-
+  mutate(mappingPreGF = ifelse(date >= as.Date("2017-01-01") & date < as.Date("2020-05-25"), 1, 0),
+         mappingPostGF = ifelse(date >= as.Date("2020-05-25") & date <= as.Date("2020-09-01"), 1, 0),
+         mappingBlackOnlyPreGF = ifelse(race == "Black" & date >= as.Date("2017-01-01") & date < as.Date("2020-05-25"), 1, 0),
+         mappingBlackOnlyPostGF = ifelse(race == "Black" & date >= as.Date("2020-05-25") & date <= as.Date("2020-09-01"), 1, 0))
 
 mapping <- mapping %>%
-  select(name, age ,gender, race, date, city, state, zip, county, agency_responsible, 
+  dplyr::select(name, age, gender, race, date, city, state, zip, county, agency_responsible, 
          cause_of_death, officer_charged, allegedly_armed, wapo_armed, wapo_threat_level, wapo_flee, 
          wapo_body_camera, wapo_id, off_duty_killing, officer_known_past_shootings, mappingPreGF, 
          mappingPostGF, mappingBlackOnlyPostGF, mappingBlackOnlyPreGF, POPULATION, POP_SQMI, year, 
-         population, BlackPop, BlackPov, Bachelors, Masters,
-         ProfDegree, Pop25Plus, ProfDegree, Doctorate, CollegeStudents, PLACEFIPS)
+         population, BlackPop, BlackPov, Bachelors, Masters, ProfDegree, Pop25Plus, ProfDegree, 
+         Doctorate, CollegeStudents, PLACEFIPS)
 
 ccc <- ccc %>%
-  select(date, locality, state, population, type, actors, claims, valence, issues, size_mean, arrests_any, 
+  dplyr::select(date, locality, state, population, type, actors, claims, valence, issues, size_mean, arrests_any, 
          injuries_crowd_any, injuries_police_any, property_damage_any, PLACEFIPS )
 
+
+ccc <- filter(ccc, date < as.Date("2020-09-01" ))
+ccc <- filter(ccc, date > as.Date("2017-01-01" ))
 ccc <- ccc %>%
   mutate(cccPreGF = ifelse(date >= "2017-01-01" & date <= "2020-05-20", 1, 0),
          cccPostGF = ifelse(date>= "2020-05-20" & date <= "2020-09-01", 1, 0))
+
+
 
 ## Descriptive tables-- Victims by type by city
 ## Victims per city Total
@@ -72,14 +77,14 @@ write.csv(VictimCount, "/Users/aricaschuett/Documents/protest/Shea + Arica/Victi
 BlackVictimCount <- mapping %>%
   filter(race == "Black") %>%
   group_by(PLACEFIPS) %>%
-  summarize(BlackVictimCount = n())
+  summarize(BlackVictimCount = n()) 
 write.csv(BlackVictimCount, "/Users/aricaschuett/Documents/protest/Shea + Arica/BlackVictimCountFull.csv")
 
 ## Pre-GF Victims per city  
 VictimCountPreGF <- mapping %>%
   filter(mappingPreGF == 1) %>%
   group_by(PLACEFIPS) %>%
-  summarize(VictimCountPreGF = n())
+  summarize(VictimCountPreGF = n()) 
 write.csv(VictimCountPreGF, "/Users/aricaschuett/Documents/protest/Shea + Arica/VictimCountPreGFFull.csv")
 
 ## Pre-GF Victims per city Black 
@@ -93,46 +98,52 @@ write.csv(BlackVictimCountPreGF, "/Users/aricaschuett/Documents/protest/Shea + A
 VictimsPreGF2020 <- mapping %>%
   filter( year == 2020 & mappingPreGF == 1) %>%
   group_by(PLACEFIPS) %>%
-  summarize(VictimsPreGF2020 = n())
+  summarize(VictimsPreGF2020 = n()) 
 write.csv(VictimsPreGF2020, "/Users/aricaschuett/Documents/protest/Shea + Arica/VictimsPreGF2020Full.csv")
 
 ## Pre-GF Victims per city 2020 Black 
 VictimsPreGF2020Blk <- mapping %>%
   filter(race == "Black" & year == 2020 & mappingPreGF == 1) %>%
   group_by(PLACEFIPS) %>%
-  summarize(VictimsPreGF2020Blk = n())
+  summarize(VictimsPreGF2020Blk = n()) 
 write.csv(VictimsPreGF2020Blk, "/Users/aricaschuett/Documents/protest/Shea + Arica/VictimsPreGF2020BlkFull.csv")
 
 ##High Threat Victims Per City  Pre GF add armed vs unarmed
 VictimHighThreat <- mapping %>%
   filter(wapo_threat_level == "High" & mappingPreGF == 1) %>%
   group_by(PLACEFIPS) %>%
-  summarize(VictimHighThreat = n())
+  summarize(VictimHighThreat = n()) 
 write.csv(VictimHighThreat, "/Users/aricaschuett/Documents/protest/Shea + Arica/VictimHighThreatFull.csv")
 
 ## Descriptive tables-- Victims by type by city
 ##Protest Totals Per city Pre GF and left wing valence protest totals per city
 ProtestTotal <- ccc %>%
-  filter(date <= "2020-05-25") %>%
   group_by(PLACEFIPS) %>%
-  summarize(ProtestTotal = n())
+  summarize(ProtestTotal= n()) 
 head(ProtestTotal)
 write.csv(ProtestTotal, "/Users/aricaschuett/Documents/protest/Shea + Arica/ProtestTotalFull.csv")
 
 AntiTrumpProtestPreGF <- ccc %>%
   filter(date <= "2020-05-25" & valence == 1) %>%
   group_by(PLACEFIPS) %>%
-  summarize(AntiTrumpProtestPreGFCount = n())
-write.csv(AntiTrumpProtestPreGF, "/Users/aricaschuett/Documents/protest/Shea + Arica/ProtestMeanFull.csv")
+  summarize(AntiTrumpProtestPreGFCount = n()) 
+write.csv(AntiTrumpProtestPreGF, "/Users/aricaschuett/Documents/protest/Shea + Arica/AntiTrumpProtestPreGF.csv")
 
+ProtestTotalPreGF <- ccc %>%
+  group_by(PLACEFIPS) %>%
+  summarize(ProtestTotalPreGF= n()) 
+head(ProtestTotalPreGF)
+write.csv(ProtestTotalPreGF, "/Users/aricaschuett/Documents/protest/Shea + Arica/ProtestTotalPreGF.csv")
 
 PostGFProtestCount <- ccc %>%
   filter(date > ymd("2020-05-25")) %>%
   group_by(PLACEFIPS) %>%
-  summarize(PostGFProtestCount = n())
+  summarize(PostGFProtestCount = n()) 
 head(PostGFProtestCount)
 write.csv(PostGFProtestCount, "/Users/aricaschuett/Documents/protest/Shea + Arica/PostGFProtestCount.csv")
 
+NoProtestCitiesCCC <- PostGFProtestCount %>%
+  filter(PostGFProtestCount == 0)
 
 ######## Access Census Data #####
 census_api_key("47674665e11654113f17b2b82d1a791a88f289b4", overwrite=TRUE)
@@ -177,6 +188,7 @@ ProtestByCity <- left_join(ProtestByCity, VictimsPreGF2020, by= "PLACEFIPS", all
 ProtestByCity <- left_join(ProtestByCity, VictimHighThreat, by= "PLACEFIPS", all = T)
 ProtestByCity <- left_join(ProtestByCity, AntiTrumpProtestPreGF, by= "PLACEFIPS", all = T)
 ProtestByCity <- left_join(ProtestByCity, VictimsPreGF2020Blk, by= "PLACEFIPS", all = T)
+ProtestByCity <- left_join(ProtestByCity, ProtestTotalPreGF, by= "PLACEFIPS", all = T)
 
 acs_wide$PLACEFIPS <- acs_wide$GEOID
 
@@ -192,4 +204,4 @@ ProtestByCity$BlackPopPct <- ProtestByCity$BlackPop / ProtestByCity$population
 ProtestByCity$BlackPovRate <- ProtestByCity$BlackPov / ProtestByCity$BlackPop
 
 
-write.csv(ProtestByCity, "/Users/aricaschuett/Documents/protest/ProtestByCity3-19.csv")
+write.csv(ProtestByCity, "/Users/aricaschuett/Documents/protest/ProtestByCity3-24.csv")
