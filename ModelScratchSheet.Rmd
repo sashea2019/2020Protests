@@ -1,0 +1,151 @@
+---
+title: "Protest by City Analysis"
+author: ""
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(dplyr)
+library(tidyr)
+library(knitr)
+library(ggplot2)
+```
+
+## Load and Clean Data
+
+```{r load-data}
+ProtestByCity <- read.csv("/Users/aricaschuett/Documents/protest/ProtestByCity3-24.csv", row.names = NULL)
+
+# Replace NAs with zero for selected variables
+vars_to_replace <- c("AntiTrumpProtestPreGFCount", "ProtestTotal", "BlackVictimCount", "VictimCountPreGF", "PostGFProtestCount", "VictimsCount", "VictimsPreGF2020", "BlackVictimCountPreGF", "ProtestTotalPreGF", "VictimHighThreat", "VictimsPreGF2020Blk")
+
+ProtestByCity[vars_to_replace] <- ProtestByCity[vars_to_replace] %>%
+  mutate(across(everything(), ~replace_na(.x, 0)))
+```
+
+## Create New Variables
+
+```{r create-variables}
+ProtestByCity <- ProtestByCity %>%
+  mutate(PoliceDeathsRate = VictimCountPreGF / population,
+         BlackVictimsRate = BlackVictimCountPreGF / population,
+         VictimRaceRatio = BlackVictimCountPreGF / VictimCountPreGF)
+```
+
+## Summaries
+```{r summaries}
+summary(ProtestByCity$BlackPovRate)
+
+table(ProtestByCity$BlackPop == 0)
+
+
+### Create Summary Tables for Cities with Protest and those without
+NoProtestCities <- ProtestByCity %>%
+  filter(PostGFProtestCount == 0)
+
+summary(NoProtestCities$population)
+
+summary(NoProtestCities$BlackPopPct)
+
+summary(NoProtestCities$EduRate)
+
+summary(NoProtestCities$CollegeStudents)
+
+summary(NoProtestCities$AntiTrumpProtestPreGFCount)
+
+summary(NoProtestCities$VictimsCount)
+
+ProtestCities <- ProtestByCity %>%
+  filter(PostGFProtestCount > 0)
+
+summary(ProtestCities$population)
+
+summary(ProtestCities$BlackPopPct)
+
+summary(ProtestCities$EduRate)
+
+summary(ProtestCities$CollegeStudents)
+
+summary(ProtestCities$AntiTrumpProtestPreGFCount)
+
+summary(ProtestCities$VictimsCount)
+
+```
+
+## Regression Models
+
+### Model 8
+
+```{r model-8}
+m8 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + AntiTrumpProtestPreGFCount + PoliceDeathsRate, data = ProtestByCity)
+summary(m8)
+
+```
+## Descriptive Plots
+```{r model scatter plots}
+
+p1 <- ggplot(ProtestByCity, aes(x = BlackVictimCountPreGF, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Black Victims of Police Violence ",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p1
+
+p2 <- ggplot(ProtestByCity, aes(x = VictimsCount, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Black Victims of Police Violence ",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p2
+
+p3 <- ggplot(ProtestByCity, aes(x = AntiTrumpProtestPreGFCount, y = PostGFProtestCount)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  labs(title = "Scatter Plot of Post-GF Protest Count vs. Police Deaths Rate",
+       x = "Victim Count",
+       y = "Post-GF Protest Count") +
+  theme_minimal()
+p3
+```
+### Model 9
+
+```{r model-9}
+m9 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + BlackVictimsRate, data = ProtestByCity)
+summary(m9)
+```
+
+### Model 10
+
+```{r model-10}
+m10 <- lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + VictimRaceRatio, data = ProtestByCity)
+summary(m10)
+```
+
+### Additional Models (11-19)
+
+For brevity, additional models are summarized below:
+
+```{r additional-models}
+models <- list(
+  m11 = lm(PostGFProtestCount ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimCountPreGF, data = ProtestByCity),
+  m12 = lm(PostGFProtestCount ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsPreGF2020, data = ProtestByCity),
+  m13 = lm(PostGFProtestCount ~ population + BlackPop + BlackPov + CollegeEdTotal + VictimsPreGF2020Blk, data = ProtestByCity),
+  m14 = lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + VictimCountPreGF, data = ProtestByCity),
+  m15 = lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + BlackVictimCountPreGF, data = ProtestByCity),
+  m16 = lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + PoliceDeathsRate, data = ProtestByCity),
+  m17 = lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + BlackVictimsRate, data = ProtestByCity),
+  m18 = lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + VictimRaceRatio, data = ProtestByCity),
+  m19 = lm(PostGFProtestCount ~ population + BlackPopPct + BlackPovRate + EduRate + AntiTrumpProtestPreGFCount + VictimRaceRatio, data = ProtestByCity)
+)
+
+# Display summaries
+lapply(models, summary)
+```
+
+---
